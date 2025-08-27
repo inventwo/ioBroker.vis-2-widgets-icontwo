@@ -1,28 +1,4 @@
-import react from '@vitejs/plugin-react';
-import commonjs from 'vite-plugin-commonjs';
-import vitetsConfigPaths from 'vite-tsconfig-paths';
-import { federation } from '@module-federation/vite';
-import { moduleFederationShared } from '@iobroker/types-vis-2/modulefederation.vis.config';
-import { readFileSync } from 'node:fs';
-const pack = JSON.parse(readFileSync('./package.json').toString());
-
 const config = {
-    plugins: [
-        federation({
-            manifest: true,
-            name: 'vis2DemoWidget',
-            filename: 'customWidgets.js',
-            exposes: {
-                './DemoWidget': './src/DemoWidget', // List of all widgets in this package
-                './translations': './src/translations',
-            },
-            remotes: {},
-            shared: moduleFederationShared(pack),
-        }),
-        react(),
-        vitetsConfigPaths(),
-        commonjs(),
-    ],
     server: {
         port: 3000,
         proxy: {
