@@ -1,10 +1,10 @@
 {
   "name": "iobroker.vis-2-widgets-icontwo",
   "version": "0.0.1",
-  "description": "ioBroker vis widget demo",
-  "author": "bluefox <dogafox@gmail.com>",
+  "description": "ioBroker vis2 inventwo icon sets",
+  "author": "skvarel <sk@inventwo.com>",
   "contributors": [
-    "bluefox <dogafox@gmail.com>"
+    "skvarel <sk@inventwo.com>"
   ],
   "homepage": "https://github.com/inventwo/inventwo.vis-2-widgets-icontwo",
   "license": "MIT",
@@ -33,6 +33,8 @@
     "LICENSE"
   ],
   "scripts": {
+    "create-icon-sets": "cd src-widgets && npm run create-icon-sets",
+    "create-and-build-icon-sets": "cd src-widgets && npm run create-icon-sets && cd .. && npm run build",
     "prepublishOnly": "node tasks",
     "build": "node tasks --typescript",
     "release": "release-script",

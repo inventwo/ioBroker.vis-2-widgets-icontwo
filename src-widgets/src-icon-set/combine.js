@@ -17,7 +17,12 @@ function combineIconsFromFolder(inputDir, folderName, outputDir) {
         files.forEach(file => {
             const filePath = join(folderPath, file);
             try {
-                const data = readFileSync(filePath, 'utf8');
+                let data = readFileSync(filePath, 'utf8');
+
+                data = data.replace(/black/gi, 'currentColor').replace(/#000000/gi, 'currentColor');
+
+                writeFileSync(filePath, data, 'utf8');
+
                 icons[file.replace(/\.svg$/i, '')] = {
                     // to save space do not add the prefix `data:image/svg+xml;base64,`
                     // it will be added when the icon is used
