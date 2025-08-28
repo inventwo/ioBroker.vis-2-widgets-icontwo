@@ -3,9 +3,11 @@
 # inventwo Icons for  ioBroker.vis 2.0
 
 
+<!--
 ![Number of Installations](http://iobroker.live/badges/vis-2-widgets-icontwo-installed.svg)
 ![Number of Installations](http://iobroker.live/badges/vis-2-widgets-icontwo-stable.svg) 
 [![NPM Version](https://nodei.co/npm/iobroker.vis-2-widgets-icontwo.svg?style=shields&data=v,u,d&color=orange)](https://www.npmjs.com/package/iobroker.vis-2-widgets-icontwo)
+-->
 [![Downloads](https://img.shields.io/npm/dm/iobroker.vis-2-widgets-icontwo.svg)](https://www.npmjs.com/package/iobroker.vis-2-widgets-icontwo)
 
 [![Paypal Donation](https://img.shields.io/badge/paypal-donate%20|%20spenden-green.svg)](https://www.paypal.com/donate/?hosted_button_id=7W6M3TFZ4W9LW)
