@@ -13,7 +13,7 @@
 
 ## Icon adapter for the ioBroker.vis adapter (only for VIS-2)
 
-.... more information to follow
+.... more information will follow
 
 
 
