@@ -5,14 +5,14 @@
     <path d="m 0,236.25039 v 75.00012 h 75.00012 v -75.00012 z" style="display:inline;fill:none;fill-opacity:0;stroke:none;stroke-width:0.753376;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path17" />
   </g>
   <g id="layer1" style="display:inline" transform="translate(0,-236.25041)">
-    <path d="m 55.221688,277.58831 a 14.3081,14.307056 0 0 1 14.3081,14.30706 14.3081,14.307056 0 1 1 -14.3081,-14.30706 z" style="fill:none;stroke:black;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" id="path23-99-3-2" />
-    <g id="g20" style="stroke:black;stroke-width:2.25;stroke-dasharray:none;stroke-opacity:1">
-      <path d="m 65.432942,262.73133 0.0015,19.14488" style="fill:none;stroke:black;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path21-5-4-9" />
-      <path d="m 9.4222964,262.93997 0.071832,37.80571 34.4616136,-0.0291" style="fill:none;stroke:black;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path22-5-3-0" />
-      <path d="M 5.4703115,265.98332 37.548931,241.28111 69.516373,265.87185" style="fill:none;stroke:black;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path24-3-8-7" />
+    <path d="m 55.221688,277.58831 a 14.3081,14.307056 0 0 1 14.3081,14.30706 14.3081,14.307056 0 1 1 -14.3081,-14.30706 z" style="fill:none;stroke:currentColor;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" id="path23-99-3-2" />
+    <g id="g20" style="stroke:currentColor;stroke-width:2.25;stroke-dasharray:none;stroke-opacity:1">
+      <path d="m 65.432942,262.73133 0.0015,19.14488" style="fill:none;stroke:currentColor;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path21-5-4-9" />
+      <path d="m 9.4222964,262.93997 0.071832,37.80571 34.4616136,-0.0291" style="fill:none;stroke:currentColor;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path22-5-3-0" />
+      <path d="M 5.4703115,265.98332 37.548931,241.28111 69.516373,265.87185" style="fill:none;stroke:currentColor;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path24-3-8-7" />
     </g>
   </g>
   <g id="layer2" style="display:inline" transform="translate(0,-236.25041)">
-    <text xml:space="preserve" style="font-size:15.6926px;line-height:1.25;font-family:sans-serif;fill:black;fill-opacity:1;stroke-width:0.392316" x="42.903381" y="297.52057" id="text3-8-8"><tspan id="tspan3-8-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:black;fill-opacity:1;stroke-width:0.392316" x="42.903381" y="297.52057">OG</tspan></text>
+    <text xml:space="preserve" style="font-size:15.6926px;line-height:1.25;font-family:sans-serif;fill:currentColor;fill-opacity:1;stroke-width:0.392316" x="42.903381" y="297.52057" id="text3-8-8"><tspan id="tspan3-8-1" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';fill:currentColor;fill-opacity:1;stroke-width:0.392316" x="42.903381" y="297.52057">OG</tspan></text>
   </g>
 </svg>

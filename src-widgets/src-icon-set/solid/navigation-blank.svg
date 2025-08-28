@@ -5,11 +5,11 @@
     <path d="m 0,551.2509 v 75.00012 H 75.00012 V 551.2509 Z" style="display:inline;fill:none;fill-opacity:0;stroke:none;stroke-width:0.753376;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path51" />
   </g>
   <g id="layer1" style="display:inline" transform="translate(0,-551.25092)">
-    <path d="m 55.221693,592.58882 a 14.3081,14.307056 0 0 1 14.3081,14.30706 14.3081,14.307056 0 1 1 -14.3081,-14.30706 z" style="fill:none;stroke:black;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" id="path23-99-3-2-65-1-5" />
-    <g id="g14" style="stroke:black;stroke-width:2.25;stroke-dasharray:none;stroke-opacity:1">
-      <path d="m 65.432946,577.73184 0.0015,19.14488" style="fill:none;stroke:black;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path21-5-4-9-9-9-0" />
-      <path d="m 9.4223007,577.94048 0.071832,37.80571 34.4616133,-0.0291" style="fill:none;stroke:black;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path22-5-3-0-2-7-0" />
-      <path d="M 5.4703158,580.98383 37.548935,556.28162 69.516377,580.87236" style="fill:none;stroke:black;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path24-3-8-7-4-6-3" />
+    <path d="m 55.221693,592.58882 a 14.3081,14.307056 0 0 1 14.3081,14.30706 14.3081,14.307056 0 1 1 -14.3081,-14.30706 z" style="fill:none;stroke:currentColor;stroke-width:2.25;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1" id="path23-99-3-2-65-1-5" />
+    <g id="g14" style="stroke:currentColor;stroke-width:2.25;stroke-dasharray:none;stroke-opacity:1">
+      <path d="m 65.432946,577.73184 0.0015,19.14488" style="fill:none;stroke:currentColor;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path21-5-4-9-9-9-0" />
+      <path d="m 9.4223007,577.94048 0.071832,37.80571 34.4616133,-0.0291" style="fill:none;stroke:currentColor;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path22-5-3-0-2-7-0" />
+      <path d="M 5.4703158,580.98383 37.548935,556.28162 69.516377,580.87236" style="fill:none;stroke:currentColor;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" id="path24-3-8-7-4-6-3" />
     </g>
   </g>
 </svg>
