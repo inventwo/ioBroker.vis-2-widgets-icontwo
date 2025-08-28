@@ -26,9 +26,7 @@
     ### **WORK IN PROGRESS**
 -->
 
-### 0.1.1 (2025-09-01)
 
-- Init
 
 ## License
 

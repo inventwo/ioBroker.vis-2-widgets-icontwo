@@ -1,127 +1,36 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.3.1",
+    "version": "0.0.1",
     "news": {
-      "1.3.1": {
-        "en": "Added Icon Set example",
-        "de": "Hinzugefügt Icon Beispiel",
-        "ru": "Добавлена икона Пример",
-        "pt": "Ícone Adicionado Dar exemplo",
-        "nl": "Pictogram toegevoegd Voorbeeld instellen",
-        "fr": "Icône ajoutée Définir l'exemple",
-        "it": "Aggiunto Icon Esempio di impostazione",
-        "es": "Icono añadido Ejemplo",
-        "pl": "Dodano ikonę Ustaw przykład",
-        "uk": "Додана ікона Приклад набору",
-        "zh-cn": "添加图标 设定示例"
-      },
-      "1.2.0": {
-        "en": "add js/vite support\nimprove documentation\nsmall fixes\ndebugging description for vite",
-        "de": "js/vite unterstützung hinzufügen\nverbesserung der dokumentation\nkleine fixes\ndebugging beschreibung für vite",
-        "ru": "поддержка js/vite\nулучшить документацию\nнебольшие фиксации\nописание отладки для vite",
-        "pt": "adicionar suporte js/vite\nmelhorar a documentação\npequenas correções\ndepuração descrição para vite",
-        "nl": "js/vite-ondersteuning toevoegen\nde documentatie verbeteren\nkleine fixes\nbeschrijving van debuggen voor vite",
-        "fr": "ajouter le support js/vite\naméliorer la documentation\npetites corrections\ndescription de débogage pour le vite",
-        "it": "aggiungere js/vite supporto\nmigliorare la documentazione\npiccole correzioni\ndescrizione debug per vite",
-        "es": "añadir js/vite support\nmejorar la documentación\npequeñas fijaciones\ndebugging descripción para vite",
-        "pl": "dodaj obsługę js / vite\npoprawić dokumentację\nmałe poprawki\nopis debugowania vite",
-        "uk": "додати js/vite support\nвдосконалення документації\nмаленькі кріплення\nопис деbugging для vite",
-        "zh-cn": "添加js/vite 支持\n改进文件编制\n小修正\nvite 调试描述"
-      },
-      "1.1.1": {
-        "en": "Finished TypeScript project",
-        "de": "Fertiges TypeScript-Projekt",
-        "ru": "Завершен проект TypeScript",
-        "pt": "Projeto terminado TypeScript",
-        "nl": "TypeScript-project voltooid",
-        "fr": "Projet TypeScript terminé",
-        "it": "Progetto TypeScript finito",
-        "es": "Proyecto TipoScript terminado",
-        "pl": "Zakończony projekt TypeScript",
-        "uk": "Завершено проект TypeScript",
-        "zh-cn": "已完成类型脚本工程"
-      },
-      "1.1.0": {
-        "en": "Finished TypeScript project",
-        "de": "Fertiges TypeScript-Projekt",
-        "ru": "Завершен проект TypeScript",
-        "pt": "Projeto terminado TypeScript",
-        "nl": "TypeScript-project voltooid",
-        "fr": "Projet TypeScript terminé",
-        "it": "Progetto TypeScript finito",
-        "es": "Proyecto TipoScript terminado",
-        "pl": "Zakończony projekt TypeScript",
-        "uk": "Завершено проект TypeScript",
-        "zh-cn": "已完成类型脚本工程"
-      },
-      "1.0.1": {
-        "en": "changed the node version from 16 to 20 in test and release workflow\nupdated packages",
-        "de": "die knotenversion von 16 auf 20 im test- und release-workflow geändert\naktualisierte pakete",
-        "ru": "изменил версию узла с 16 до 20 в тесте и выпуске рабочего процесса\nобновления пакетов",
-        "pt": "mudou a versão do nó de 16 a 20 em fluxo de trabalho de teste e lançamento\npacotes atualizados",
-        "nl": "veranderde de node versie van 16 naar 20 in test en release workflow\nbijgewerkte pakketten",
-        "fr": "a changé la version du nœud de 16 à 20 dans le flux de travail de test et de publication\npaquets mis à jour",
-        "it": "ha cambiato la versione nodo da 16 a 20 in prova e il flusso di lavoro di rilascio\npacchetti aggiornati",
-        "es": "cambió la versión del nodo de 16 a 20 en el flujo de trabajo de prueba y liberación\npaquetes actualizados",
-        "pl": "zmienił wersję węzła z 16 do 20 w pracy testowej i zwalniającej\nzaktualizowane pakiety",
-        "uk": "змінено версію вузла від 16 до 20 у тестовому режимі\nоновлені пакети",
-        "zh-cn": "在测试和发布工作流程中将节点版本从16个改为20个\n更新软件包"
-      },
-      "1.0.0": {
-        "en": "updated packages",
-        "de": "aktualisierte pakete",
-        "ru": "обновления пакетов",
-        "pt": "pacotes atualizados",
-        "nl": "bijgewerkte pakketten",
-        "fr": "paquets mis à jour",
-        "it": "pacchetti aggiornati",
-        "es": "paquetes actualizados",
-        "pl": "zaktualizowane pakiety",
-        "uk": "оновлені пакети",
-        "zh-cn": "更新软件包"
-      },
-      "0.2.1": {
-        "en": "update packages",
-        "de": "update-pakete",
-        "ru": "обновление пакетов",
-        "pt": "pacotes de atualização",
-        "nl": "vertaling:",
-        "fr": "mettre à jour les paquets",
-        "it": "pacchetti di aggiornamento",
-        "es": "actualizar paquetes",
-        "pl": "pakiet aktualizacji",
-        "uk": "оновлення пакетів",
-        "zh-cn": "更新包"
-      }
+
     },
-    "title": "vis-2-widgets-icontwo.org",
     "titleLang": {
-      "en": "Vis-Widget template",
-      "de": "Vis-Widget template",
-      "ru": "Vis-Widget template",
-      "pt": "Vis-Widget template",
-      "nl": "Vis-Widget template",
-      "fr": "Vis-Widget template",
-      "it": "Vis-Widget template",
-      "es": "Vis-Widget template",
-      "pl": "Vis-Widget template",
-      "zh-cn": "Vis-Widget template"
+      "en": "inventwo Iconset",
+      "de": "inventwo Iconset",
+      "ru": "inventwo Iconset",
+      "pt": "inventwo Iconset",
+      "nl": "inventwo Iconset",
+      "fr": "inventwo Iconset",
+      "it": "inventwo Iconset",
+      "es": "inventwo Iconset",
+      "pl": "inventwo Iconset",
+      "zh-cn": "inventwo Iconset"
     },
     "desc": {
-      "en": "Vis-Widget template",
-      "de": "Vis-Widget template",
-      "ru": "Vis-Widget template",
-      "pt": "Vis-Widget template",
-      "nl": "Vis-Widget template",
-      "fr": "Vis-Widget template",
-      "it": "Vis-Widget template",
-      "es": "Vis-Widget template",
-      "pl": "Vis-Widget template",
-      "zh-cn": "Vis-Widget template"
+      "en": "inventwo Iconset",
+      "de": "inventwo Iconset",
+      "ru": "inventwo Iconset",
+      "pt": "inventwo Iconset",
+      "nl": "inventwo Iconset",
+      "fr": "inventwo Iconset",
+      "it": "inventwo Iconset",
+      "es": "inventwo Iconset",
+      "pl": "inventwo Iconset",
+      "zh-cn": "inventwo Iconset"
     },
     "authors": [
-      "bluefox <dogafox@gmail.com>"
+      "skvarel <sk@inventwo.com>"
     ],
     "keywords": [
       "vis-2-widgets-icontwo"
@@ -148,41 +57,59 @@
     "dataSource": "poll",
     "visWidgets": {},
     "visIconSets": {
-      "vis2DemoIconSet": {
+      "vis2IcontwoSet": {
         "iconSet": true,
         "name": {
-          "en": "Demo icon set",
-          "de": "Demo-Icon-Set",
-          "ru": "Набор иконок Demo",
-          "pt": "Conjunto de ícones Demo",
-          "nl": "Demo-pictogramset",
-          "fr": "Ensemble d'icônes de démonstration",
-          "it": "Set di icone Demo",
-          "es": "Conjunto de iconos de demostración",
-          "pl": "Zestaw ikon Demo",
-          "uk": "Демо-набір іконок",
-          "zh-cn": "演示图标集"
+          "en": "Monochrome",
+          "de": "Einfarbig",
+          "ru": "Монохромный",
+          "pt": "Monocromático",
+          "nl": "Monochroom",
+          "fr": "Monochrome",
+          "it": "Monocromo",
+          "es": "Monocromo",
+          "pl": "Monochromia",
+          "uk": "Монохромний",
+          "zh-cn": "单色"
         },
         "url": "vis-2-widgets-icontwo/icon-set-solid.json",
-        "icon": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODEgODEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0ibm9uZSI+ICAgIDxwYXRoIGZpbGw9IndoaXRlIiBkPSJtNzIuNDQyMiw3MS4wNDUxMmM0LjE0MDYsLTYuMTM5NiA2LjU1NzgsLTEzLjUzNzUgNi41NTc4LC0yMS41YzAsLTIxLjI2MyAtMTcuMjM3LC0zOC41IC0zOC41LC0zOC41Yy0yMS4yNjMsMCAtMzguNSwxNy4yMzcgLTM4LjUsMzguNWMwLDcuOTYyNSAyLjQxNzIsMTUuMzYwNCA2LjU1Nzg0LDIxLjVsNjMuODg0MzYsMHoiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbC1ydWxlPSJldmVub2RkIi8+ICAgIDxwYXRoIGZpbGw9IiMzM0RENTIiIGQ9Im02OS42ODYyLDcxLjQ2NzAyYzQuNTkyMSwtNi4xMDQxIDcuMzEzOCwtMTMuNjk1MiA3LjMxMzgsLTIxLjkyMTljMCwtMjAuMTU4NCAtMTYuMzQxNiwtMzYuNSAtMzYuNSwtMzYuNWMtMjAuMTU4NCwwIC0zNi41LDE2LjM0MTYgLTM2LjUsMzYuNWMwLDguMjI2NyAyLjcyMTY5LDE1LjgxNzggNy4zMTM4LDIxLjkyMTlsLTQuODczNzIsMGMtNC4wNzUxOSwtNi4zMTg2IC02LjQ0MDA4LC0xMy44NDQxIC02LjQ0MDA4LC0yMS45MjE5YzAsLTIyLjM2NzUgMTguMTMyNSwtNDAuNSA0MC41LC00MC41YzIyLjM2NzUsMCA0MC41LDE4LjEzMjUgNDAuNSw0MC41YzAsOC4wNzc4IC0yLjM2NDksMTUuNjAzMyAtNi40NDAxLDIxLjkyMTlsLTQuODczNywweiIgY2xpcC1ydWxlPSJldmVub2RkIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4gICAgPGxpbmUgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2U9IiMzM0RENTIiIHkyPSI2OS40NjcwMiIgeDI9Ijc0LjMxMTQiIHkxPSI2OS40NjcwMiIgeDE9IjcuNDMwNjYiLz4gICAgPHBhdGggc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZT0iIzMzREQ1MiIgZD0ibTcyLjQ2NTcsNDYuMjE5OTJjMC4zNDA4LDQuODA2NCAtMC41MDkzLDkuNjE3MSAtMi40NzQ4LDE0LjAzODZjLTAuMjAyOSwwLjQ1NjUgLTAuNzM5NiwwLjY1MjYgLTEuMTk2MSwwLjQ0OTVsMCwwYy0wLjQ3NjIsLTAuMjExNyAtMC42ODE4LC0wLjc3NDcgLTAuNDcxOSwtMS4yNTE4YzEuODE5LC00LjEzNDcgMi42MDQxLC04LjYyNzEgMi4yODU5LC0xMy4xMTU2Yy0wLjM0MDYsLTQuODAzNCAtMS45MzM4LC05LjQ0NzggLTQuNjMyOCwtMTMuNTA0OWMtMi42OTksLTQuMDU3MSAtNi40MTY5LC03LjM5NjQgLTEwLjgxMSwtOS43MWMtNC4zOTQsLTIuMzEzNiAtOS4zMjI4LC0zLjUyNzEgLTE0LjMzMiwtMy41Mjg3Yy01LjAwOTIsLTAuMDAxNSAtOS45Mzc1LDEuMjA5IC0xNC4zMzA3LDMuNTJjLTQuMzkzMSwyLjMxMDkgLTguMTA5Nyw1LjY0OCAtMTAuODA3MSw5LjcwMzRjLTIuNjk3NSw0LjA1NTUgLTQuMjg4OSw4LjY5ODggLTQuNjI3NiwxMy41MDIxYy0wLjMxNjUsNC40ODgzIDAuNDcwNCw4Ljk4MTMgMi4yOTEsMTMuMTE3MWMwLjIxLDAuNDc3MSAwLjAwNDQsMS4wNDAxIC0wLjQ3MiwxLjI1MTdsMCwwYy0wLjQ1NjIsMC4yMDI2IC0wLjk5MjMsMC4wMDY3IC0xLjE5NTIsLTAuNDQ5NGMtMS45Njc1NywtNC40MjMgLTIuODE5NzQsLTkuMjM0NiAtMi40ODA3OSwtMTQuMDQxM2MwLjM1OTg0LC01LjEwMjggMi4wNTA0OSwtMTAuMDM1OCA0LjkxNjE5LC0xNC4zNDQzYzIuODY1NywtNC4zMDg0IDYuODE0MSwtNy44NTM2IDExLjQ4MTMsLTEwLjMwODdjNC42NjcyLC0yLjQ1NTEgOS45MDI5LC0zLjc0MTA4IDE1LjIyNDYsLTMuNzM5NDZjNS4zMjE2LDAuMDAxNjIgMTAuNTU3OCwxLjI5MDg2IDE1LjIyNiwzLjc0ODc2YzQuNjY4MSwyLjQ1OCA4LjYxNzksNi4wMDU1IDExLjQ4NTMsMTAuMzE1N2MyLjg2NzMsNC4zMTAyIDQuNTU5OSw5LjI0NDIgNC45MjE3LDE0LjM0NzN6Ii8+ICAgIDxwYXRoIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlPSIjMzNERDUyIiBkPSJtNDMuNzg2NzQsNTQuNDA3MjJjMS4wOTYxLDEuMzAxOSAxLjI2NDIsMi4zNzE3IDEuMDkzNiwzLjIyMzVjLTAuMTg1MiwwLjkyNDggLTAuODI4MywxLjg3NjYgLTEuODYzMywyLjc0NzljLTEuMDMzMSwwLjg2OTggLTEuOTEzMSwxLjIwMjggLTIuNjY2LDEuMTY0NGMtMC43MjYxLC0wLjAzNzEgLTEuNjg5MywtMC40MzkzIC0yLjg2MjgsLTEuODMzMmMtMC41OCwtMC42ODg5IC0xLjc2NjcsLTIuNTA1MSAtMy4yOTcsLTUuMDEwOGMtMS41MDMsLTIuNDYxIC0zLjI3MjUsLTUuNDc3OCAtNC45OTM5LC04LjQ3NThjLTEuNTIwMSwtMi42NDc2IC0yLjk4NDcsLTUuMjQ5NCAtNC4xOSwtNy40Mjk0YzIuMDExNywxLjUzNDIgNC4zODgsMy4zOTQ3IDYuNzczMSw1LjMwNDJjMi43MDQsMi4xNjQ4IDUuNDEwNyw0LjM4NTcgNy42MDM4LDYuMjU5NGMyLjIzNTcsMS45MSAzLjgyOTYsMy4zNjkzIDQuNDAyNSw0LjA0OTh6Ii8+ICAgIDxwYXRoIGZpbGw9IiMzM0RENTIiIGQ9Im0yMC44NTQzNCwzNC4wNTIxMmw2LjYzNTYsNC42OTY4bC0xLjM2MDgsMS4yNjRsLTEuNDY5NywxLjM4MWwtMy44MDUxLC03LjM0MTh6Ii8+PC9zdmc+"
+        "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB3aWR0aD0iODMuMTg4MzM5bW0iCiAgIGhlaWdodD0iODMuMjgwNTI1bW0iCiAgIHZpZXdCb3g9IjAgMCA4My4xODgzMzkgODMuMjgwNTI1IgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmcxIgogICB4bWw6c3BhY2U9InByZXNlcnZlIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzCiAgICAgaWQ9ImRlZnMxIiAvPjxnCiAgICAgaWQ9ImxheWVyMSIKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTExLjcyMDYyLC0xNzguMTMxMDUpIj48cmVjdAogICAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lO2ZpbGw6IzMzMzMzMztmaWxsLW9wYWNpdHk6MTtzdHJva2Utd2lkdGg6MC45Nzc5MTE7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kIgogICAgICAgaWQ9InJlY3QxLTUiCiAgICAgICB3aWR0aD0iMTg1LjM5NTkyIgogICAgICAgaGVpZ2h0PSI5My44MDQ1NTgiCiAgICAgICB4PSIxNi4yNDE0NTMiCiAgICAgICB5PSIxNzIuMzEyNDgiIC8+PC9nPjxnCiAgICAgaWQ9ImxheWVyMiIKICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUiCiAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTExMS43MjA2MiwtMTc4LjEzMTA1KSI+PHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiM5OTk5OTk7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMTUxMzQ3IgogICAgICAgZD0ibSAxNTYuOTA1NjMsMjM5LjI3NjQ0IGMgMCwxLjA3NjE3IC0wLjM2NTk1LDIuMDU1MDIgLTEuMjQ2NTEsMi43MTMzMSAtMC42OTE4NiwwLjUyMDkxIC0xLjUwMzgxLDAuODAxNCAtMi4zNzI5MywwLjgwMTQgLTAuODkxOTksMCAtMS43MDk2NSwtMC4yNjMzMiAtMi40MTI5NSwtMC44MTI4NCAtMC44NjM0MSwtMC42NTgzIC0xLjIwNjQ4LC0xLjY0Mjg3IC0xLjIwNjQ4LC0yLjcwMTg3IHYgLTI3LjUyMjM2IGMgMCwtMS4wNDc1NSAwLjM2MDIzLC0xLjk5Nzc4IDEuMjA2NDgsLTIuNjQ0NjIgMC43MDMzLC0wLjU0MzgxIDEuNTIwOTYsLTAuODA3MTMgMi40MTI5NSwtMC44MDcxMyAwLjg2OTEyLDAgMS42ODEwNywwLjI3NDc3IDIuMzcyOTMsMC43OTU2OCAwLjg2MzQxLDAuNjQ2ODQgMS4yNDY1MSwxLjU5MTM1IDEuMjQ2NTEsMi42NTYwNyB6IG0gMC4wNTcyLC0zOC4wMDkyNiBjIDAsMS4wODE4OSAtMC4zNjU5NSwyLjA2NjQ3IC0xLjIzNTA3LDIuNzAxODcgLTAuNjkxODcsMC41MzIzNiAtMS41MDM4MSwwLjgxMjg1IC0yLjM4NDM3LDAuODEyODUgLTAuODkxOTksMCAtMS43MjY4MSwtMC4yNjkwNSAtMi40MTI5NiwtMC44MTI4NSAtMC44NTc2OCwtMC42NTgzIC0xLjIwMDc2LC0xLjYzNzE1IC0xLjIwMDc2LC0yLjcwMTg3IHYgLTAuODQxNDcgYyAwLC0xLjA0NzU0IDAuMzYwMjMsLTEuOTk3NzcgMS4xODM2MSwtMi42Mjc0NCAwLjcwMzMsLTAuNTYwOTggMS41MzgxMiwtMC44MzAwMiAyLjQzMDExLC0wLjgzMDAyIDAuODgwNTYsMCAxLjY5MjUsMC4yODA0OSAyLjM2NzIyLDAuODAxNCAwLjg3NDgzLDAuNjQxMTIgMS4yNTIyMiwxLjU5MTM1IDEuMjUyMjIsMi42NTYwNiB6IgogICAgICAgaWQ9InBhdGgyLTUtNS0yLTciIC8+PHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiM5ZmRiNTg7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMTUxMzQ3IgogICAgICAgZD0ibSAxNTguNTgwMjgsMTgwLjMwNzcgMTQuMzYzMzcsMTQuMzc5NDEgLTQuMzYyNzYsNC4zNjc2MyAtMTEuMDI5ODQsLTExLjA1MzYgYyAtMi4zMzI5LC0yLjMzNTUxIC02LjE0MTAzLC0yLjMzNTUxIC04LjQ2ODIxLDAgbCAtMjcuNDY4ODEsMjcuNTI4MDkgYyAtMi4zMjcyLDIuMzM1NTEgLTIuMzI3Miw2LjE1MzYxIDAsOC40ODkxMiBsIDExLjAwNjk2LDExLjAzMDY5IC00LjM2ODQ4LDQuMzczMzYgLTE0LjM1NzY1LC0xNC4zNzk0IGMgLTIuODk4OTgsLTIuODk2NDkgLTIuODk4OTgsLTcuNjQxOTMgMCwtMTAuNTQ0MTQgbCAzNC4xNTMwMywtMzQuMTkxMTYgYyAyLjg5ODk4LC0yLjkwMjIxIDcuNjM5MTIsLTIuOTAyMjEgMTAuNTMyMzksMCB6IG0gMTkuNzk1MzgsMTkuODE3NDggMTQuMzYzMzcsMTQuMzczNjggYyAyLjg5MzI2LDIuOTAyMjEgMi44OTMyNiw3LjY0NzY1IDAsMTAuNTQ0MTQgTCAxNTguNTg2LDI1OS4yMzQxNSBjIC0yLjg5ODk5LDIuOTAyMjEgLTcuNjM5MTMsMi45MDIyMSAtMTAuNTM4MTEsMC4wMDYgbCAtMTQuMzU3NjUsLTE0LjM3OTQxIDQuMzYyNzYsLTQuMzY3NjMgMTEuMDI5ODQsMTEuMDUzNTkgYyAyLjMyNzE4LDIuMzI5NzkgNi4xMzUzMSwyLjMzNTUxIDguNDY4MjEsMCBsIDI3LjQ2MzEsLTI3LjUyODA4IGMgMi4zMzI5LC0yLjMzNTUgMi4zMzI5LC02LjE1MzYxIDAsLTguNDg5MTEgbCAtMTEuMDA2OTcsLTExLjAzMDk4IHoiCiAgICAgICBpZD0icGF0aDEtNC0wLTEiIC8+PC9nPjwvc3ZnPgo="
       },
-      "vis2DemoIconSet2": {
+      "vis2IcontwoSet2": {
         "iconSet": true,
         "name": {
-          "en": "Demo icon set 2",
-          "de": "Demo-Icon-Set 2",
-          "ru": "Набор иконок Demo",
-          "pt": "Conjunto de ícones Demo",
-          "nl": "Demo-pictogramset",
-          "fr": "Ensemble d'icônes de démonstration",
-          "it": "Set di icone Demo",
-          "es": "Conjunto de iconos de demostración",
-          "pl": "Zestaw ikon Demo",
-          "uk": "Демо-набір іконок",
-          "zh-cn": "演示图标集"
+          "en": "Translucent",
+          "de": "Durchscheinend",
+          "ru": "Прозрачный",
+          "pt": "Translúcido",
+          "nl": "Doorschijnend",
+          "fr": "Translucide",
+          "it": "Traslucido",
+          "es": "Translúcido",
+          "pl": "Przeświecający",
+          "uk": "Напівпрозорий",
+          "zh-cn": "半透明"
         },
-        "url": "vis-2-widgets-icontwo/icon-set-test.json",
-        "icon": "data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODEgODEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbD0ibm9uZSI+ICAgIDxwYXRoIGZpbGw9IndoaXRlIiBkPSJtNzIuNDQyMiw3MS4wNDUxMmM0LjE0MDYsLTYuMTM5NiA2LjU1NzgsLTEzLjUzNzUgNi41NTc4LC0yMS41YzAsLTIxLjI2MyAtMTcuMjM3LC0zOC41IC0zOC41LC0zOC41Yy0yMS4yNjMsMCAtMzguNSwxNy4yMzcgLTM4LjUsMzguNWMwLDcuOTYyNSAyLjQxNzIsMTUuMzYwNCA2LjU1Nzg0LDIxLjVsNjMuODg0MzYsMHoiIGNsaXAtcnVsZT0iZXZlbm9kZCIgZmlsbC1ydWxlPSJldmVub2RkIi8+ICAgIDxwYXRoIGZpbGw9IiMzM0RENTIiIGQ9Im02OS42ODYyLDcxLjQ2NzAyYzQuNTkyMSwtNi4xMDQxIDcuMzEzOCwtMTMuNjk1MiA3LjMxMzgsLTIxLjkyMTljMCwtMjAuMTU4NCAtMTYuMzQxNiwtMzYuNSAtMzYuNSwtMzYuNWMtMjAuMTU4NCwwIC0zNi41LDE2LjM0MTYgLTM2LjUsMzYuNWMwLDguMjI2NyAyLjcyMTY5LDE1LjgxNzggNy4zMTM4LDIxLjkyMTlsLTQuODczNzIsMGMtNC4wNzUxOSwtNi4zMTg2IC02LjQ0MDA4LC0xMy44NDQxIC02LjQ0MDA4LC0yMS45MjE5YzAsLTIyLjM2NzUgMTguMTMyNSwtNDAuNSA0MC41LC00MC41YzIyLjM2NzUsMCA0MC41LDE4LjEzMjUgNDAuNSw0MC41YzAsOC4wNzc4IC0yLjM2NDksMTUuNjAzMyAtNi40NDAxLDIxLjkyMTlsLTQuODczNywweiIgY2xpcC1ydWxlPSJldmVub2RkIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiLz4gICAgPGxpbmUgc3Ryb2tlLXdpZHRoPSI0IiBzdHJva2U9IiMzM0RENTIiIHkyPSI2OS40NjcwMiIgeDI9Ijc0LjMxMTQiIHkxPSI2OS40NjcwMiIgeDE9IjcuNDMwNjYiLz4gICAgPHBhdGggc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZT0iIzMzREQ1MiIgZD0ibTcyLjQ2NTcsNDYuMjE5OTJjMC4zNDA4LDQuODA2NCAtMC41MDkzLDkuNjE3MSAtMi40NzQ4LDE0LjAzODZjLTAuMjAyOSwwLjQ1NjUgLTAuNzM5NiwwLjY1MjYgLTEuMTk2MSwwLjQ0OTVsMCwwYy0wLjQ3NjIsLTAuMjExNyAtMC42ODE4LC0wLjc3NDcgLTAuNDcxOSwtMS4yNTE4YzEuODE5LC00LjEzNDcgMi42MDQxLC04LjYyNzEgMi4yODU5LC0xMy4xMTU2Yy0wLjM0MDYsLTQuODAzNCAtMS45MzM4LC05LjQ0NzggLTQuNjMyOCwtMTMuNTA0OWMtMi42OTksLTQuMDU3MSAtNi40MTY5LC03LjM5NjQgLTEwLjgxMSwtOS43MWMtNC4zOTQsLTIuMzEzNiAtOS4zMjI4LC0zLjUyNzEgLTE0LjMzMiwtMy41Mjg3Yy01LjAwOTIsLTAuMDAxNSAtOS45Mzc1LDEuMjA5IC0xNC4zMzA3LDMuNTJjLTQuMzkzMSwyLjMxMDkgLTguMTA5Nyw1LjY0OCAtMTAuODA3MSw5LjcwMzRjLTIuNjk3NSw0LjA1NTUgLTQuMjg4OSw4LjY5ODggLTQuNjI3NiwxMy41MDIxYy0wLjMxNjUsNC40ODgzIDAuNDcwNCw4Ljk4MTMgMi4yOTEsMTMuMTE3MWMwLjIxLDAuNDc3MSAwLjAwNDQsMS4wNDAxIC0wLjQ3MiwxLjI1MTdsMCwwYy0wLjQ1NjIsMC4yMDI2IC0wLjk5MjMsMC4wMDY3IC0xLjE5NTIsLTAuNDQ5NGMtMS45Njc1NywtNC40MjMgLTIuODE5NzQsLTkuMjM0NiAtMi40ODA3OSwtMTQuMDQxM2MwLjM1OTg0LC01LjEwMjggMi4wNTA0OSwtMTAuMDM1OCA0LjkxNjE5LC0xNC4zNDQzYzIuODY1NywtNC4zMDg0IDYuODE0MSwtNy44NTM2IDExLjQ4MTMsLTEwLjMwODdjNC42NjcyLC0yLjQ1NTEgOS45MDI5LC0zLjc0MTA4IDE1LjIyNDYsLTMuNzM5NDZjNS4zMjE2LDAuMDAxNjIgMTAuNTU3OCwxLjI5MDg2IDE1LjIyNiwzLjc0ODc2YzQuNjY4MSwyLjQ1OCA4LjYxNzksNi4wMDU1IDExLjQ4NTMsMTAuMzE1N2MyLjg2NzMsNC4zMTAyIDQuNTU5OSw5LjI0NDIgNC45MjE3LDE0LjM0NzN6Ii8+ICAgIDxwYXRoIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlPSIjMzNERDUyIiBkPSJtNDMuNzg2NzQsNTQuNDA3MjJjMS4wOTYxLDEuMzAxOSAxLjI2NDIsMi4zNzE3IDEuMDkzNiwzLjIyMzVjLTAuMTg1MiwwLjkyNDggLTAuODI4MywxLjg3NjYgLTEuODYzMywyLjc0NzljLTEuMDMzMSwwLjg2OTggLTEuOTEzMSwxLjIwMjggLTIuNjY2LDEuMTY0NGMtMC43MjYxLC0wLjAzNzEgLTEuNjg5MywtMC40MzkzIC0yLjg2MjgsLTEuODMzMmMtMC41OCwtMC42ODg5IC0xLjc2NjcsLTIuNTA1MSAtMy4yOTcsLTUuMDEwOGMtMS41MDMsLTIuNDYxIC0zLjI3MjUsLTUuNDc3OCAtNC45OTM5LC04LjQ3NThjLTEuNTIwMSwtMi42NDc2IC0yLjk4NDcsLTUuMjQ5NCAtNC4xOSwtNy40Mjk0YzIuMDExNywxLjUzNDIgNC4zODgsMy4zOTQ3IDYuNzczMSw1LjMwNDJjMi43MDQsMi4xNjQ4IDUuNDEwNyw0LjM4NTcgNy42MDM4LDYuMjU5NGMyLjIzNTcsMS45MSAzLjgyOTYsMy4zNjkzIDQuNDAyNSw0LjA0OTh6Ii8+ICAgIDxwYXRoIGZpbGw9IiMzM0RENTIiIGQ9Im0yMC44NTQzNCwzNC4wNTIxMmw2LjYzNTYsNC42OTY4bC0xLjM2MDgsMS4yNjRsLTEuNDY5NywxLjM4MWwtMy44MDUxLC03LjM0MTh6Ii8+PC9zdmc+"
+        "url": "vis-2-widgets-icontwo/icon-set-opacity.json",
+        "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB3aWR0aD0iODMuMTg4MzM5bW0iCiAgIGhlaWdodD0iODMuMjgwNTI1bW0iCiAgIHZpZXdCb3g9IjAgMCA4My4xODgzMzkgODMuMjgwNTI1IgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmcxIgogICB4bWw6c3BhY2U9InByZXNlcnZlIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzCiAgICAgaWQ9ImRlZnMxIiAvPjxnCiAgICAgaWQ9ImxheWVyMSIKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTExLjcyMDYyLC0xNzguMTMxMDUpIj48cmVjdAogICAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lO2ZpbGw6IzMzMzMzMztmaWxsLW9wYWNpdHk6MTtzdHJva2Utd2lkdGg6MC45Nzc5MTE7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kIgogICAgICAgaWQ9InJlY3QxLTUiCiAgICAgICB3aWR0aD0iMTg1LjM5NTkyIgogICAgICAgaGVpZ2h0PSI5My44MDQ1NTgiCiAgICAgICB4PSIxNi4yNDE0NTMiCiAgICAgICB5PSIxNzIuMzEyNDgiIC8+PC9nPjxnCiAgICAgaWQ9ImxheWVyMiIKICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUiCiAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTExMS43MjA2MiwtMTc4LjEzMTA1KSI+PHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiM5OTk5OTk7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMTUxMzQ3IgogICAgICAgZD0ibSAxNTYuOTA1NjMsMjM5LjI3NjQ0IGMgMCwxLjA3NjE3IC0wLjM2NTk1LDIuMDU1MDIgLTEuMjQ2NTEsMi43MTMzMSAtMC42OTE4NiwwLjUyMDkxIC0xLjUwMzgxLDAuODAxNCAtMi4zNzI5MywwLjgwMTQgLTAuODkxOTksMCAtMS43MDk2NSwtMC4yNjMzMiAtMi40MTI5NSwtMC44MTI4NCAtMC44NjM0MSwtMC42NTgzIC0xLjIwNjQ4LC0xLjY0Mjg3IC0xLjIwNjQ4LC0yLjcwMTg3IHYgLTI3LjUyMjM2IGMgMCwtMS4wNDc1NSAwLjM2MDIzLC0xLjk5Nzc4IDEuMjA2NDgsLTIuNjQ0NjIgMC43MDMzLC0wLjU0MzgxIDEuNTIwOTYsLTAuODA3MTMgMi40MTI5NSwtMC44MDcxMyAwLjg2OTEyLDAgMS42ODEwNywwLjI3NDc3IDIuMzcyOTMsMC43OTU2OCAwLjg2MzQxLDAuNjQ2ODQgMS4yNDY1MSwxLjU5MTM1IDEuMjQ2NTEsMi42NTYwNyB6IG0gMC4wNTcyLC0zOC4wMDkyNiBjIDAsMS4wODE4OSAtMC4zNjU5NSwyLjA2NjQ3IC0xLjIzNTA3LDIuNzAxODcgLTAuNjkxODcsMC41MzIzNiAtMS41MDM4MSwwLjgxMjg1IC0yLjM4NDM3LDAuODEyODUgLTAuODkxOTksMCAtMS43MjY4MSwtMC4yNjkwNSAtMi40MTI5NiwtMC44MTI4NSAtMC44NTc2OCwtMC42NTgzIC0xLjIwMDc2LC0xLjYzNzE1IC0xLjIwMDc2LC0yLjcwMTg3IHYgLTAuODQxNDcgYyAwLC0xLjA0NzU0IDAuMzYwMjMsLTEuOTk3NzcgMS4xODM2MSwtMi42Mjc0NCAwLjcwMzMsLTAuNTYwOTggMS41MzgxMiwtMC44MzAwMiAyLjQzMDExLC0wLjgzMDAyIDAuODgwNTYsMCAxLjY5MjUsMC4yODA0OSAyLjM2NzIyLDAuODAxNCAwLjg3NDgzLDAuNjQxMTIgMS4yNTIyMiwxLjU5MTM1IDEuMjUyMjIsMi42NTYwNiB6IgogICAgICAgaWQ9InBhdGgyLTUtNS0yLTciIC8+PHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiM5ZmRiNTg7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMTUxMzQ3IgogICAgICAgZD0ibSAxNTguNTgwMjgsMTgwLjMwNzcgMTQuMzYzMzcsMTQuMzc5NDEgLTQuMzYyNzYsNC4zNjc2MyAtMTEuMDI5ODQsLTExLjA1MzYgYyAtMi4zMzI5LC0yLjMzNTUxIC02LjE0MTAzLC0yLjMzNTUxIC04LjQ2ODIxLDAgbCAtMjcuNDY4ODEsMjcuNTI4MDkgYyAtMi4zMjcyLDIuMzM1NTEgLTIuMzI3Miw2LjE1MzYxIDAsOC40ODkxMiBsIDExLjAwNjk2LDExLjAzMDY5IC00LjM2ODQ4LDQuMzczMzYgLTE0LjM1NzY1LC0xNC4zNzk0IGMgLTIuODk4OTgsLTIuODk2NDkgLTIuODk4OTgsLTcuNjQxOTMgMCwtMTAuNTQ0MTQgbCAzNC4xNTMwMywtMzQuMTkxMTYgYyAyLjg5ODk4LC0yLjkwMjIxIDcuNjM5MTIsLTIuOTAyMjEgMTAuNTMyMzksMCB6IG0gMTkuNzk1MzgsMTkuODE3NDggMTQuMzYzMzcsMTQuMzczNjggYyAyLjg5MzI2LDIuOTAyMjEgMi44OTMyNiw3LjY0NzY1IDAsMTAuNTQ0MTQgTCAxNTguNTg2LDI1OS4yMzQxNSBjIC0yLjg5ODk5LDIuOTAyMjEgLTcuNjM5MTMsMi45MDIyMSAtMTAuNTM4MTEsMC4wMDYgbCAtMTQuMzU3NjUsLTE0LjM3OTQxIDQuMzYyNzYsLTQuMzY3NjMgMTEuMDI5ODQsMTEuMDUzNTkgYyAyLjMyNzE4LDIuMzI5NzkgNi4xMzUzMSwyLjMzNTUxIDguNDY4MjEsMCBsIDI3LjQ2MzEsLTI3LjUyODA4IGMgMi4zMzI5LC0yLjMzNTUgMi4zMzI5LC02LjE1MzYxIDAsLTguNDg5MTEgbCAtMTEuMDA2OTcsLTExLjAzMDk4IHoiCiAgICAgICBpZD0icGF0aDEtNC0wLTEiIC8+PC9nPjwvc3ZnPgo="
+      },
+      "vis2IcontwoSet3": {
+        "iconSet": true,
+        "name": {
+          "en": "Brands",
+          "de": "Marken",
+          "ru": "Бренды",
+          "pt": "Marcas",
+          "nl": "Merken",
+          "fr": "Marques",
+          "it": "Marche",
+          "es": "Marcas",
+          "pl": "Marki",
+          "uk": "Бренди",
+          "zh-cn": "品牌"
+        },
+        "url": "vis-2-widgets-icontwo/icon-set-brands.json",
+        "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZwogICB3aWR0aD0iODMuMTg4MzM5bW0iCiAgIGhlaWdodD0iODMuMjgwNTI1bW0iCiAgIHZpZXdCb3g9IjAgMCA4My4xODgzMzkgODMuMjgwNTI1IgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmcxIgogICB4bWw6c3BhY2U9InByZXNlcnZlIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzCiAgICAgaWQ9ImRlZnMxIiAvPjxnCiAgICAgaWQ9ImxheWVyMSIKICAgICB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMTExLjcyMDYyLC0xNzguMTMxMDUpIj48cmVjdAogICAgICAgc3R5bGU9ImRpc3BsYXk6aW5saW5lO2ZpbGw6IzMzMzMzMztmaWxsLW9wYWNpdHk6MTtzdHJva2Utd2lkdGg6MC45Nzc5MTE7c3Ryb2tlLWxpbmVjYXA6cm91bmQ7c3Ryb2tlLWxpbmVqb2luOnJvdW5kIgogICAgICAgaWQ9InJlY3QxLTUiCiAgICAgICB3aWR0aD0iMTg1LjM5NTkyIgogICAgICAgaGVpZ2h0PSI5My44MDQ1NTgiCiAgICAgICB4PSIxNi4yNDE0NTMiCiAgICAgICB5PSIxNzIuMzEyNDgiIC8+PC9nPjxnCiAgICAgaWQ9ImxheWVyMiIKICAgICBzdHlsZT0iZGlzcGxheTppbmxpbmUiCiAgICAgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTExMS43MjA2MiwtMTc4LjEzMTA1KSI+PHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiM5OTk5OTk7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMTUxMzQ3IgogICAgICAgZD0ibSAxNTYuOTA1NjMsMjM5LjI3NjQ0IGMgMCwxLjA3NjE3IC0wLjM2NTk1LDIuMDU1MDIgLTEuMjQ2NTEsMi43MTMzMSAtMC42OTE4NiwwLjUyMDkxIC0xLjUwMzgxLDAuODAxNCAtMi4zNzI5MywwLjgwMTQgLTAuODkxOTksMCAtMS43MDk2NSwtMC4yNjMzMiAtMi40MTI5NSwtMC44MTI4NCAtMC44NjM0MSwtMC42NTgzIC0xLjIwNjQ4LC0xLjY0Mjg3IC0xLjIwNjQ4LC0yLjcwMTg3IHYgLTI3LjUyMjM2IGMgMCwtMS4wNDc1NSAwLjM2MDIzLC0xLjk5Nzc4IDEuMjA2NDgsLTIuNjQ0NjIgMC43MDMzLC0wLjU0MzgxIDEuNTIwOTYsLTAuODA3MTMgMi40MTI5NSwtMC44MDcxMyAwLjg2OTEyLDAgMS42ODEwNywwLjI3NDc3IDIuMzcyOTMsMC43OTU2OCAwLjg2MzQxLDAuNjQ2ODQgMS4yNDY1MSwxLjU5MTM1IDEuMjQ2NTEsMi42NTYwNyB6IG0gMC4wNTcyLC0zOC4wMDkyNiBjIDAsMS4wODE4OSAtMC4zNjU5NSwyLjA2NjQ3IC0xLjIzNTA3LDIuNzAxODcgLTAuNjkxODcsMC41MzIzNiAtMS41MDM4MSwwLjgxMjg1IC0yLjM4NDM3LDAuODEyODUgLTAuODkxOTksMCAtMS43MjY4MSwtMC4yNjkwNSAtMi40MTI5NiwtMC44MTI4NSAtMC44NTc2OCwtMC42NTgzIC0xLjIwMDc2LC0xLjYzNzE1IC0xLjIwMDc2LC0yLjcwMTg3IHYgLTAuODQxNDcgYyAwLC0xLjA0NzU0IDAuMzYwMjMsLTEuOTk3NzcgMS4xODM2MSwtMi42Mjc0NCAwLjcwMzMsLTAuNTYwOTggMS41MzgxMiwtMC44MzAwMiAyLjQzMDExLC0wLjgzMDAyIDAuODgwNTYsMCAxLjY5MjUsMC4yODA0OSAyLjM2NzIyLDAuODAxNCAwLjg3NDgzLDAuNjQxMTIgMS4yNTIyMiwxLjU5MTM1IDEuMjUyMjIsMi42NTYwNiB6IgogICAgICAgaWQ9InBhdGgyLTUtNS0yLTciIC8+PHBhdGgKICAgICAgIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiM5ZmRiNTg7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMTUxMzQ3IgogICAgICAgZD0ibSAxNTguNTgwMjgsMTgwLjMwNzcgMTQuMzYzMzcsMTQuMzc5NDEgLTQuMzYyNzYsNC4zNjc2MyAtMTEuMDI5ODQsLTExLjA1MzYgYyAtMi4zMzI5LC0yLjMzNTUxIC02LjE0MTAzLC0yLjMzNTUxIC04LjQ2ODIxLDAgbCAtMjcuNDY4ODEsMjcuNTI4MDkgYyAtMi4zMjcyLDIuMzM1NTEgLTIuMzI3Miw2LjE1MzYxIDAsOC40ODkxMiBsIDExLjAwNjk2LDExLjAzMDY5IC00LjM2ODQ4LDQuMzczMzYgLTE0LjM1NzY1LC0xNC4zNzk0IGMgLTIuODk4OTgsLTIuODk2NDkgLTIuODk4OTgsLTcuNjQxOTMgMCwtMTAuNTQ0MTQgbCAzNC4xNTMwMywtMzQuMTkxMTYgYyAyLjg5ODk4LC0yLjkwMjIxIDcuNjM5MTIsLTIuOTAyMjEgMTAuNTMyMzksMCB6IG0gMTkuNzk1MzgsMTkuODE3NDggMTQuMzYzMzcsMTQuMzczNjggYyAyLjg5MzI2LDIuOTAyMjEgMi44OTMyNiw3LjY0NzY1IDAsMTAuNTQ0MTQgTCAxNTguNTg2LDI1OS4yMzQxNSBjIC0yLjg5ODk5LDIuOTAyMjEgLTcuNjM5MTMsMi45MDIyMSAtMTAuNTM4MTEsMC4wMDYgbCAtMTQuMzU3NjUsLTE0LjM3OTQxIDQuMzYyNzYsLTQuMzY3NjMgMTEuMDI5ODQsMTEuMDUzNTkgYyAyLjMyNzE4LDIuMzI5NzkgNi4xMzUzMSwyLjMzNTUxIDguNDY4MjEsMCBsIDI3LjQ2MzEsLTI3LjUyODA4IGMgMi4zMzI5LC0yLjMzNTUgMi4zMzI5LC02LjE1MzYxIDAsLTguNDg5MTEgbCAtMTEuMDA2OTcsLTExLjAzMDk4IHoiCiAgICAgICBpZD0icGF0aDEtNC0wLTEiIC8+PC9nPjwvc3ZnPgo="
       }
     },
     "restartAdapters": [
