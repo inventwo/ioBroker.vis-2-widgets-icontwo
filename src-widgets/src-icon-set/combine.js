@@ -19,7 +19,7 @@ function combineIconsFromFolder(inputDir, folderName, outputDir) {
             try {
                 let data = readFileSync(filePath, 'utf8');
 
-                data = data.replace(/black/gi, 'currentColor').replace(/#000000/gi, 'currentColor');
+                data = data.replace(/#640000/gi, 'currentColor').replace(/maroon/gi, '#80000000');
 
                 writeFileSync(filePath, data, 'utf8');
 
