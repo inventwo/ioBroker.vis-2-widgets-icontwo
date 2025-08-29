@@ -18,7 +18,11 @@
 
 .... more information will follow
 
+![Vorschau](admin/solid.PNG)
 
+![Vorschau](admin/opacity.PNG)
+
+![Vorschau](admin/brands.PNG)
 
 ## Changelog
 
