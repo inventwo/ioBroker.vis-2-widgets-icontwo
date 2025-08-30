@@ -26,6 +26,10 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+
+### **WORK IN PROGRESS**
+- fix repo-url
+
 ### 0.1.0 (2025-08-30)
 - Release with first icons
 

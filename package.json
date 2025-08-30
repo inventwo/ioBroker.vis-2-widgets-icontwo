@@ -6,11 +6,11 @@
   "contributors": [
     "skvarel <sk@inventwo.com>"
   ],
-  "homepage": "https://github.com/inventwo/inventwo.vis-2-widgets-icontwo",
+  "homepage": "https://github.com/inventwo/ioBroker.vis-2-widgets-icontwo",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/inventwo/inventwo.vis-2-widgets-icontwo"
+    "url": "https://github.com/inventwo/ioBroker.vis-2-widgets-icontwo"
   },
   "keywords": [
     "ioBroker",
@@ -46,7 +46,7 @@
     "npm": "npm i -f && cd src-widgets && npm i -f"
   },
   "bugs": {
-    "url": "https://github.com/inventwo/inventwo.vis-2-widgets-icontwo/issues"
+    "url": "https://github.com/inventwo/ioBroker.vis-2-widgets-icontwo/issues"
   },
   "readmeFilename": "README.md"
 }
