@@ -1,9 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "news": {
-
+      "0.1.0": {
+        "en": "Release with first icons",
+        "de": "Freigabe mit ersten Icons",
+        "ru": "Выпуск с первыми иконками",
+        "pt": "Lançar com os primeiros ícones",
+        "nl": "Loslaten met eerste pictogrammen",
+        "fr": "Sortie avec les premières icônes",
+        "it": "Rilasciare con le prime icone",
+        "es": "Lanzamiento con los primeros iconos",
+        "pl": "Release z pierwszymi ikonami",
+        "uk": "Випускають з перших ікон",
+        "zh-cn": "用第一个图标发布"
+      }
     },
     "titleLang": {
       "en": "inventwo Iconset",
