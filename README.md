@@ -3,11 +3,10 @@
 # inventwo Icons for  ioBroker.vis 2.0
 
 
-<!--
 ![Number of Installations](http://iobroker.live/badges/vis-2-widgets-icontwo-installed.svg)
 ![Number of Installations](http://iobroker.live/badges/vis-2-widgets-icontwo-stable.svg) 
 [![NPM Version](https://nodei.co/npm/iobroker.vis-2-widgets-icontwo.svg?style=shields&data=v,u,d&color=orange)](https://www.npmjs.com/package/iobroker.vis-2-widgets-icontwo)
--->
+
 [![Downloads](https://img.shields.io/npm/dm/iobroker.vis-2-widgets-icontwo.svg)](https://www.npmjs.com/package/iobroker.vis-2-widgets-icontwo)
 ![GitHub repo size](https://img.shields.io/github/repo-size/inventwo/iobroker.vis-2-widgets-icontwo)
 
@@ -28,7 +27,8 @@
     ### **WORK IN PROGRESS**
 -->
 
-
+### **WORK IN PROGRESS**
+- Release with first icons
 
 ## License
 
