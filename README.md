@@ -22,8 +22,6 @@
 
 ![Vorschau](admin/opacity.PNG)
 
-![Vorschau](admin/brands.PNG)
-
 ## Changelog
 
 <!--
