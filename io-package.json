@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "news": {
+      "0.4.1": {
+        "en": "fix",
+        "de": "fixieren",
+        "ru": "исправлять",
+        "pt": "corrigir",
+        "nl": "fix",
+        "fr": "correction",
+        "it": "correzione",
+        "es": "arregle",
+        "pl": "fix",
+        "uk": "фіксація",
+        "zh-cn": "固定"
+      },
       "0.4.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
@@ -80,19 +93,6 @@
         "pl": "fix repo- url",
         "uk": "виправити repo-url",
         "zh-cn": "修补 repo-url"
-      },
-      "0.1.0": {
-        "en": "Release with first icons",
-        "de": "Freigabe mit ersten Icons",
-        "ru": "Выпуск с первыми иконками",
-        "pt": "Lançar com os primeiros ícones",
-        "nl": "Loslaten met eerste pictogrammen",
-        "fr": "Sortie avec les premières icônes",
-        "it": "Rilasciare con le prime icone",
-        "es": "Lanzamiento con los primeros iconos",
-        "pl": "Release z pierwszymi ikonami",
-        "uk": "Випускають з перших ікон",
-        "zh-cn": "用第一个图标发布"
       }
     },
     "titleLang": {
