@@ -26,8 +26,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-
-### **WORK IN PROGRESS**
+### 0.3.0 (2025-08-31)
 - new icon added
 
 ### 0.2.0 (2025-08-30)

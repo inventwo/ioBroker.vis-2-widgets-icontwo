@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "news": {
+      "0.3.0": {
+        "en": "new icon added",
+        "de": "neue ikone hinzugefügt",
+        "ru": "добавлен новый значок",
+        "pt": "novo ícone adicionado",
+        "nl": "nieuw pictogram toegevoegd",
+        "fr": "nouvelle icône ajoutée",
+        "it": "nuova icona aggiunto",
+        "es": "nuevo icono añadido",
+        "pl": "dodano nową ikonę",
+        "uk": "додано нову іконку",
+        "zh-cn": "添加新图标"
+      },
       "0.2.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
