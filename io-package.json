@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.4.1",
+    "version": "0.4.2",
     "news": {
+      "0.4.2": {
+        "en": "fix",
+        "de": "fixieren",
+        "ru": "исправлять",
+        "pt": "corrigir",
+        "nl": "fix",
+        "fr": "correction",
+        "it": "correzione",
+        "es": "arregle",
+        "pl": "fix",
+        "uk": "фіксація",
+        "zh-cn": "固定"
+      },
       "0.4.1": {
         "en": "fix",
         "de": "fixieren",
@@ -80,19 +93,6 @@
         "pl": "dodano nowe ikony",
         "uk": "додано нові іконки",
         "zh-cn": "添加新图标"
-      },
-      "0.1.1": {
-        "en": "fix repo-url",
-        "de": "repo-url",
-        "ru": "исправить repo-url",
-        "pt": "fixar o repo-url",
-        "nl": "repareren repo-url",
-        "fr": "correction de la demande",
-        "it": "correzione repo-url",
-        "es": "arreglar repo-url",
-        "pl": "fix repo- url",
-        "uk": "виправити repo-url",
-        "zh-cn": "修补 repo-url"
       }
     },
     "titleLang": {
