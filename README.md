@@ -15,6 +15,11 @@
 
 ## Icon adapter for the ioBroker.vis adapter (only for VIS-2)
 
+<span style="padding:10px;background-color:#AE0000">**Please note:** This icons only work with version 2.13.x (or higher) of the 
+ioBroker.vis-2 adapter!</span>
+
+<hr>
+
 .... more information will follow
 
 ![Vorschau](admin/solid.PNG)
@@ -26,6 +31,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- edit readme
+
 ### 0.7.0 (2025-09-01)
 - new icons added
 
