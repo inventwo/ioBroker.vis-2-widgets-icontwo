@@ -31,7 +31,7 @@ ioBroker.vis-2 adapter!</span>
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.7.1 (2025-09-01)
 - edit readme
 
 ### 0.7.0 (2025-09-01)
