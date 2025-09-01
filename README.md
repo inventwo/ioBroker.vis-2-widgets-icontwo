@@ -26,8 +26,11 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons added
+
 ### 0.6.0 (2025-09-01)
--new icons added
+- new icons added
 
 ### 0.5.0 (2025-09-01)
 - new icons added
