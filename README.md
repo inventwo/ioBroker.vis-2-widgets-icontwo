@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (people)
+
 ### 0.10.1 (2025-09-03)
 - fix
 
