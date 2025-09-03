@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.8.0",
+    "version": "0.9.0",
     "news": {
+      "0.9.0": {
+        "en": "new icons (alarm/bell)",
+        "de": "neue ikonen (alarm/bell)",
+        "ru": "новые значки (тревога/звонок)",
+        "pt": "novos ícones (alarme/campainha)",
+        "nl": "nieuwe pictogrammen (alarm/bel)",
+        "fr": "nouvelles icônes (alarm/bell)",
+        "it": "nuove icone (braccio/braccio)",
+        "es": "nuevos iconos (alarma/belde)",
+        "pl": "nowe ikony (alarm / dzwonek)",
+        "uk": "нові іконки (альма/бюль)",
+        "zh-cn": "新图标( 提醒/ 铃声)"
+      },
       "0.8.0": {
         "en": "new icons added",
         "de": "neue icons hinzugefügt",
@@ -69,19 +82,6 @@
         "zh-cn": "添加新图标"
       },
       "0.4.2": {
-        "en": "fix",
-        "de": "fixieren",
-        "ru": "исправлять",
-        "pt": "corrigir",
-        "nl": "fix",
-        "fr": "correction",
-        "it": "correzione",
-        "es": "arregle",
-        "pl": "fix",
-        "uk": "фіксація",
-        "zh-cn": "固定"
-      },
-      "0.4.1": {
         "en": "fix",
         "de": "fixieren",
         "ru": "исправлять",

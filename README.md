@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.9.0 (2025-09-03)
 - new icons (alarm/bell)
 
 ### 0.8.0 (2025-09-02)
