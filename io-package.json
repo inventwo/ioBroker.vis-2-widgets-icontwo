@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.11.0",
+    "version": "0.11.1",
     "news": {
+      "0.11.1": {
+        "en": "fix",
+        "de": "fixieren",
+        "ru": "исправлять",
+        "pt": "corrigir",
+        "nl": "fix",
+        "fr": "correction",
+        "it": "correzione",
+        "es": "arregle",
+        "pl": "fix",
+        "uk": "фіксація",
+        "zh-cn": "固定"
+      },
       "0.11.0": {
         "en": "new icons (people)",
         "de": "neue icons (menschen)",
@@ -80,19 +93,6 @@
         "pl": "edytuj readme",
         "uk": "редагувати файл",
         "zh-cn": "编辑读取器"
-      },
-      "0.7.0": {
-        "en": "new icons added",
-        "de": "neue icons hinzugefügt",
-        "ru": "добавлены новые иконы",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos añadidos",
-        "pl": "dodano nowe ikony",
-        "uk": "додано нові іконки",
-        "zh-cn": "添加新图标"
       }
     },
     "titleLang": {
