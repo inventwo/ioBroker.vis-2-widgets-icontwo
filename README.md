@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+**WORK IN PROGRESS**
+- new icons (people)
+
 ### 0.9.0 (2025-09-03)
 - new icons (alarm/bell)
 

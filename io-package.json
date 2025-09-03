@@ -209,5 +209,8 @@
   },
   "native": {},
   "objects": [],
-  "instanceObjects": []
+  "instanceObjects": [],
+  "dependencies": {
+    "vis-2": ">=2.13.0"
+  }
 }
