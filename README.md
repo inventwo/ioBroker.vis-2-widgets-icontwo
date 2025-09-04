@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (post)
+
 ### 0.11.1 (2025-09-03)
 - fix
 
