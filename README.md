@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.13.1 (2025-09-05)
 - fix adapter icon
 
 ### 0.13.0 (2025-09-05)

@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.13.0",
+    "version": "0.13.1",
     "news": {
+      "0.13.1": {
+        "en": "fix adapter icon",
+        "de": "adapter-symbol",
+        "ru": "исправить значок адаптера",
+        "pt": "corrigir ícone do adaptador",
+        "nl": "adapterpictogram herstellen",
+        "fr": "correction de l'icône de l'adaptateur",
+        "it": "fissa icona dell'adattatore",
+        "es": "icono de adaptador de fijación",
+        "pl": "ikona adaptera",
+        "uk": "іконка адаптера",
+        "zh-cn": "修正适配器图标"
+      },
       "0.13.0": {
         "en": "new icons (lights & signs)",
         "de": "neue icons (licht & zeichen)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (ludzie)",
         "uk": "нові ікони (народи)",
         "zh-cn": "新图标( 人)"
-      },
-      "0.9.0": {
-        "en": "new icons (alarm/bell)",
-        "de": "neue ikonen (alarm/bell)",
-        "ru": "новые значки (тревога/звонок)",
-        "pt": "novos ícones (alarme/campainha)",
-        "nl": "nieuwe pictogrammen (alarm/bel)",
-        "fr": "nouvelles icônes (alarm/bell)",
-        "it": "nuove icone (braccio/braccio)",
-        "es": "nuevos iconos (alarma/belde)",
-        "pl": "nowe ikony (alarm / dzwonek)",
-        "uk": "нові іконки (альма/бюль)",
-        "zh-cn": "新图标( 提醒/ 铃声)"
       }
     },
     "titleLang": {
