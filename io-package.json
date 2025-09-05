@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.13.1",
+    "version": "0.14.0",
     "news": {
+      "0.14.0": {
+        "en": "new icons (lights)",
+        "de": "neue icons (lichter)",
+        "ru": "новые иконы (свет)",
+        "pt": "novos ícones (luzes)",
+        "nl": "nieuwe pictogrammen (licht)",
+        "fr": "nouvelles icônes (lumières)",
+        "it": "nuove icone (luce)",
+        "es": "nuevos iconos (luz)",
+        "pl": "nowe ikony (światła)",
+        "uk": "нові іконки (світи)",
+        "zh-cn": "新图标( 灯光)"
+      },
       "0.13.1": {
         "en": "fix adapter icon",
         "de": "adapter-symbol",
@@ -80,19 +93,6 @@
         "pl": "fix",
         "uk": "фіксація",
         "zh-cn": "固定"
-      },
-      "0.10.0": {
-        "en": "new icons (people)",
-        "de": "neue icons (menschen)",
-        "ru": "новые иконы (люди)",
-        "pt": "novos ícones (pessoas)",
-        "nl": "nieuwe pictogrammen (mensen)",
-        "fr": "nouvelles icônes (personnes)",
-        "it": "nuove icone (persone)",
-        "es": "nuevos iconos (personas)",
-        "pl": "nowe ikony (ludzie)",
-        "uk": "нові ікони (народи)",
-        "zh-cn": "新图标( 人)"
       }
     },
     "titleLang": {
