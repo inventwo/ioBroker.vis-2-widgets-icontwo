@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (lights & signs)
+
 ### 0.12.0 (2025-09-04)
 - new icons (post)
 
