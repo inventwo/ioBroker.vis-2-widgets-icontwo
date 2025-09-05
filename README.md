@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (computer & hobby & sings)
+
 ### 0.14.0 (2025-09-05)
 - new icons (lights)
 
