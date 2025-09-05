@@ -128,7 +128,7 @@
       "vis-2-widgets-icontwo"
     ],
     "platform": "Javascript/Node.js",
-    "icon": "vis-2-widgets-icontwo.svg",
+    "icon": "vis-2-widgets-icontwo.png",
     "extIcon": "https://raw.githubusercontent.com/inventwo/ioBroker.vis-2-widgets-icontwo/main/admin/vis-2-widgets-icontwo.png",
     "enabled": true,
     "readme": "https://github.com/inventwo/ioBroker.vis-2-widgets-icontwo/blob/main/README.md",

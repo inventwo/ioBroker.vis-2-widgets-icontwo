@@ -1,4 +1,4 @@
-![Logo](admin/vis-2-widgets-icontwo.svg)
+![Logo](admin/vis-2-widgets-icontwo.png)
 
 # inventwo Icons for  ioBroker.vis 2.0
 
