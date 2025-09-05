@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.12.0",
+    "version": "0.13.0",
     "news": {
+      "0.13.0": {
+        "en": "new icons (lights & signs)",
+        "de": "neue icons (licht & zeichen)",
+        "ru": "новые иконки (свет и знаки)",
+        "pt": "novos ícones (luzes e sinais)",
+        "nl": "nieuwe pictogrammen (licht & tekens)",
+        "fr": "nouvelles icônes (lumières et signes)",
+        "it": "nuove icone (luci e segni)",
+        "es": "nuevos iconos (luz & signos)",
+        "pl": "nowe ikony (światła i znaki)",
+        "uk": "нові іконки (світи та знаки)",
+        "zh-cn": "新图标( 灯光和标志)"
+      },
       "0.12.0": {
         "en": "new icons (post)",
         "de": "neue ikonen (post)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (alarm / dzwonek)",
         "uk": "нові іконки (альма/бюль)",
         "zh-cn": "新图标( 提醒/ 铃声)"
-      },
-      "0.8.0": {
-        "en": "new icons added",
-        "de": "neue icons hinzugefügt",
-        "ru": "добавлены новые иконы",
-        "pt": "novos ícones adicionados",
-        "nl": "nieuwe pictogrammen toegevoegd",
-        "fr": "nouvelles icônes ajoutées",
-        "it": "nuove icone aggiunte",
-        "es": "nuevos iconos añadidos",
-        "pl": "dodano nowe ikony",
-        "uk": "додано нові іконки",
-        "zh-cn": "添加新图标"
       }
     },
     "titleLang": {
