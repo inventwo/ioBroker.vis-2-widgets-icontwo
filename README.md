@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (lights)
+
 ### 0.13.1 (2025-09-05)
 - fix adapter icon
 
