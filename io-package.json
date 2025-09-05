@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.14.0",
+    "version": "0.15.0",
     "news": {
+      "0.15.0": {
+        "en": "new icons (computer & hobby & sings)",
+        "de": "neue icons (computer & hobby & sings)",
+        "ru": "новые иконки (компьютер, хобби и песни)",
+        "pt": "novos ícones (computador & hobby & canções)",
+        "nl": "nieuwe pictogrammen (computer & hobby & zingen)",
+        "fr": "nouvelles icônes (ordinateur & hobby & chants)",
+        "it": "nuove icone (computer & hobby & cantare)",
+        "es": "nuevos iconos (computadora & hobby & canta)",
+        "pl": "nowe ikony (komputer & hobby & śpiew)",
+        "uk": "нові іконки (комп'ютер і хобі та співи)",
+        "zh-cn": "新图标( 计算机和爱好和唱歌)"
+      },
       "0.14.0": {
         "en": "new icons (lights)",
         "de": "neue icons (lichter)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (ludzie)",
         "uk": "нові ікони (народи)",
         "zh-cn": "新图标( 人)"
-      },
-      "0.10.1": {
-        "en": "fix",
-        "de": "fixieren",
-        "ru": "исправлять",
-        "pt": "corrigir",
-        "nl": "fix",
-        "fr": "correction",
-        "it": "correzione",
-        "es": "arregle",
-        "pl": "fix",
-        "uk": "фіксація",
-        "zh-cn": "固定"
       }
     },
     "titleLang": {

@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.15.0 (2025-09-05)
 - new icons (computer & hobby & sings)
 
 ### 0.14.0 (2025-09-05)
