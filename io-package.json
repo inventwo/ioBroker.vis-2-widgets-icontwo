@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.17.0",
+    "version": "0.18.0",
     "news": {
+      "0.18.0": {
+        "en": "new icons (computer)",
+        "de": "neue icons (computer)",
+        "ru": "новые иконки (компьютер)",
+        "pt": "novos ícones (computador)",
+        "nl": "nieuwe pictogrammen (computer)",
+        "fr": "nouvelles icônes (ordinateur)",
+        "it": "nuove icone (computer)",
+        "es": "nuevos iconos (computer)",
+        "pl": "nowe ikony (komputer)",
+        "uk": "нові іконки (комп'ютер)",
+        "zh-cn": "新图标( 计算机)"
+      },
       "0.17.0": {
         "en": "new icons (network & shutter)",
         "de": "neue icons (netzwerk & shutter)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (światła i znaki)",
         "uk": "нові іконки (світи та знаки)",
         "zh-cn": "新图标( 灯光和标志)"
-      },
-      "0.12.0": {
-        "en": "new icons (post)",
-        "de": "neue ikonen (post)",
-        "ru": "новые иконки (пост)",
-        "pt": "novos ícones (post)",
-        "nl": "nieuwe pictogrammen (post)",
-        "fr": "nouvelles icônes (post)",
-        "it": "nuove icone (post)",
-        "es": "nuevos iconos (post)",
-        "pl": "nowe ikony (post)",
-        "uk": "нові іконки (пост)",
-        "zh-cn": "新图标( 后)"
       }
     },
     "titleLang": {

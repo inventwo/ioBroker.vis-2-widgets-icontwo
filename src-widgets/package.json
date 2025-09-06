@@ -1,7 +1,7 @@
 {
     "name": "iobroker.vis-2-widgets-icontwo",
     "private": true,
-    "version": "0.17.0",
+    "version": "0.18.0",
     "type": "module",
     "dependencies": {
         "@iobroker/adapter-react-v5": "^7.7.2",

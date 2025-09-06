@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.18.0 (2025-09-06)
 - new icons (computer)
 
 ### 0.17.0 (2025-09-06)
