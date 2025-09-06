@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.16.0",
+    "version": "0.17.0",
     "news": {
+      "0.17.0": {
+        "en": "new icons (network & shutter)",
+        "de": "neue icons (netzwerk & shutter)",
+        "ru": "новые иконки (сеть и затвор)",
+        "pt": "novos ícones (rede & obturador)",
+        "nl": "nieuwe pictogrammen (netwerk & sluiter)",
+        "fr": "nouvelles icônes (réseau & obturateur)",
+        "it": "nuove icone (network & shutter)",
+        "es": "nuevos iconos (pantalla de red)",
+        "pl": "nowe ikony (sieć & migawka)",
+        "uk": "нові іконки (мережа та вимикач)",
+        "zh-cn": "新图标( 网络和百叶窗)"
+      },
       "0.16.0": {
         "en": "new icons (lights & machines & signs)",
         "de": "neue icons (lichter & maschinen & zeichen)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (post)",
         "uk": "нові іконки (пост)",
         "zh-cn": "新图标( 后)"
-      },
-      "0.11.1": {
-        "en": "fix",
-        "de": "fixieren",
-        "ru": "исправлять",
-        "pt": "corrigir",
-        "nl": "fix",
-        "fr": "correction",
-        "it": "correzione",
-        "es": "arregle",
-        "pl": "fix",
-        "uk": "фіксація",
-        "zh-cn": "固定"
       }
     },
     "titleLang": {

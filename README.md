@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.17.0 (2025-09-06)
 - new icons (network & shutter)
 
 ### 0.16.0 (2025-09-06)
