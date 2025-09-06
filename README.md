@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (computer)
+
 ### 0.17.0 (2025-09-06)
 - new icons (network & shutter)
 
