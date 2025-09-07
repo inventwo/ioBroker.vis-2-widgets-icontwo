@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (TV lights & computer)
+
 ### 0.18.0 (2025-09-06)
 - new icons (computer)
 
