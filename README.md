@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (alarm & lights & printer & sensor & computer & brands)
+
 ### 0.19.0 (2025-09-07)
 - new icons (TV lights & computer)
 
