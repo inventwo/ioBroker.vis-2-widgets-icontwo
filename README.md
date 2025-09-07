@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.19.0 (2025-09-07)
 - new icons (TV lights & computer)
 
 ### 0.18.0 (2025-09-06)

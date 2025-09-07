@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.18.0",
+    "version": "0.19.0",
     "news": {
+      "0.19.0": {
+        "en": "new icons (TV lights & computer)",
+        "de": "neue Icons (TV-Lichter & Computer)",
+        "ru": "новые иконки (телевизионные огни и компьютер)",
+        "pt": "novos ícones (luzes e computador de TV)",
+        "nl": "nieuwe pictogrammen (tv-verlichting & computer)",
+        "fr": "nouvelles icônes (éclairages TV et ordinateur)",
+        "it": "nuove icone (televisione e computer)",
+        "es": "nuevos iconos (TV luces & ordenador)",
+        "pl": "nowe ikony (światła TV i komputer)",
+        "uk": "нові іконки (ТВ світильники та комп'ютер)",
+        "zh-cn": "新图标( 电视灯光和计算机)"
+      },
       "0.18.0": {
         "en": "new icons (computer)",
         "de": "neue icons (computer)",
@@ -80,19 +93,6 @@
         "pl": "ikona adaptera",
         "uk": "іконка адаптера",
         "zh-cn": "修正适配器图标"
-      },
-      "0.13.0": {
-        "en": "new icons (lights & signs)",
-        "de": "neue icons (licht & zeichen)",
-        "ru": "новые иконки (свет и знаки)",
-        "pt": "novos ícones (luzes e sinais)",
-        "nl": "nieuwe pictogrammen (licht & tekens)",
-        "fr": "nouvelles icônes (lumières et signes)",
-        "it": "nuove icone (luci e segni)",
-        "es": "nuevos iconos (luz & signos)",
-        "pl": "nowe ikony (światła i znaki)",
-        "uk": "нові іконки (світи та знаки)",
-        "zh-cn": "新图标( 灯光和标志)"
       }
     },
     "titleLang": {
