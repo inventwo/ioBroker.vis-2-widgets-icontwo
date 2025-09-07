@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (lawn & pool robot)
+
 ### 0.21.0 (2025-09-07)
 - new icons (lights)
 
