@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.21.0 (2025-09-07)
 - new icons (lights)
 
 ### 0.20.0 (2025-09-07)

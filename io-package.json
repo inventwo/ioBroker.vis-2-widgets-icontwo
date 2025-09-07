@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.20.0",
+    "version": "0.21.0",
     "news": {
+      "0.21.0": {
+        "en": "new icons (lights)",
+        "de": "neue icons (lichter)",
+        "ru": "новые иконы (свет)",
+        "pt": "novos ícones (luzes)",
+        "nl": "nieuwe pictogrammen (licht)",
+        "fr": "nouvelles icônes (lumières)",
+        "it": "nuove icone (luce)",
+        "es": "nuevos iconos (luz)",
+        "pl": "nowe ikony (światła)",
+        "uk": "нові іконки (світи)",
+        "zh-cn": "新图标( 灯光)"
+      },
       "0.20.0": {
         "en": "new icons (alarm & lights & printer & sensor & computer & brands)",
         "de": "neue icons (alarm & licht & drucker & sensor & computer & marken)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (komputer & hobby & śpiew)",
         "uk": "нові іконки (комп'ютер і хобі та співи)",
         "zh-cn": "新图标( 计算机和爱好和唱歌)"
-      },
-      "0.14.0": {
-        "en": "new icons (lights)",
-        "de": "neue icons (lichter)",
-        "ru": "новые иконы (свет)",
-        "pt": "novos ícones (luzes)",
-        "nl": "nieuwe pictogrammen (licht)",
-        "fr": "nouvelles icônes (lumières)",
-        "it": "nuove icone (luce)",
-        "es": "nuevos iconos (luz)",
-        "pl": "nowe ikony (światła)",
-        "uk": "нові іконки (світи)",
-        "zh-cn": "新图标( 灯光)"
       }
     },
     "titleLang": {
