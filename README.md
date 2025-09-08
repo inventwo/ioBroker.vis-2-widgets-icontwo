@@ -27,8 +27,11 @@
 ## Changelog
 
 <!--
-    ### **WORK IN PROGRESS**
+    ### **WORK IN PROGRESS**+
 -->
+### **WORK IN PROGRESS**+
+- fix icons (lawn & pool robot)
+
 ### 0.22.0 (2025-09-07)
 - new icons (lawn & pool robot)
 
