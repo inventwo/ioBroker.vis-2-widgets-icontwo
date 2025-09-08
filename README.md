@@ -30,7 +30,7 @@
     ### **WORK IN PROGRESS**
 -->
 ### **WORK IN PROGRESS**
-- new icons (lights & maintenance)
+- new icons (lights & maintenance & faucets)
 
 ### 0.22.0 (2025-09-07)
 - new icons (lawn & pool robot)
