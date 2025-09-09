@@ -3,6 +3,19 @@
     "name": "vis-2-widgets-icontwo",
     "version": "0.23.0",
     "news": {
+      "0.24.0": {
+        "en": "new icons (brand & water-pump & spa)",
+        "de": "neue Symbole (Marke & Wasserpumpe & Spa)",
+        "ru": "новые значки (бренд, водяной насос и спа)",
+        "pt": "novos ícones (marca e bomba de água e spa)",
+        "nl": "nieuwe iconen (merk & waterpomp & spa)",
+        "fr": "nouvelles icônes (marque, pompe à eau et spa)",
+        "it": "nuove icone (marchio, pompa dell'acqua e spa)",
+        "es": "Nuevos iconos (marca, bomba de agua y spa)",
+        "pl": "nowe ikony (marka, pompa wodna i spa)",
+        "uk": "нові значки (бренд, водяний насос та спа)",
+        "zh-cn": "新图标（品牌、水泵和水疗中心）"
+      },
       "0.23.0": {
         "en": "new icons (lights & maintenance & faucets)",
         "de": "neue Symbole (Lichter & Wartung & Wasserhähne)",
@@ -67,32 +80,6 @@
         "pl": "nowe ikony (światła TV i komputer)",
         "uk": "нові іконки (ТВ світильники та комп'ютер)",
         "zh-cn": "新图标( 电视灯光和计算机)"
-      },
-      "0.18.0": {
-        "en": "new icons (computer)",
-        "de": "neue icons (computer)",
-        "ru": "новые иконки (компьютер)",
-        "pt": "novos ícones (computador)",
-        "nl": "nieuwe pictogrammen (computer)",
-        "fr": "nouvelles icônes (ordinateur)",
-        "it": "nuove icone (computer)",
-        "es": "nuevos iconos (computer)",
-        "pl": "nowe ikony (komputer)",
-        "uk": "нові іконки (комп'ютер)",
-        "zh-cn": "新图标( 计算机)"
-      },
-      "0.17.0": {
-        "en": "new icons (network & shutter)",
-        "de": "neue icons (netzwerk & shutter)",
-        "ru": "новые иконки (сеть и затвор)",
-        "pt": "novos ícones (rede & obturador)",
-        "nl": "nieuwe pictogrammen (netwerk & sluiter)",
-        "fr": "nouvelles icônes (réseau & obturateur)",
-        "it": "nuove icone (network & shutter)",
-        "es": "nuevos iconos (pantalla de red)",
-        "pl": "nowe ikony (sieć & migawka)",
-        "uk": "нові іконки (мережа та вимикач)",
-        "zh-cn": "新图标( 网络和百叶窗)"
       }
     },
     "titleLang": {

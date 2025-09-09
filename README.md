@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (brand & water-pump & spa)
+
 ### 0.23.0 (2025-09-09)
 - new icons (lights & maintenance & faucets)
 
