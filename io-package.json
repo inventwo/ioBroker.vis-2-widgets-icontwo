@@ -4,17 +4,18 @@
     "version": "0.23.0",
     "news": {
       "0.23.0": {
-        "en": "new icons (lawn & pool robot)",
-        "de": "neue icons (lawn & pool robot)",
-        "ru": "новые иконки (lawn & pool robot)",
-        "pt": "novos ícones (robô de jardim e piscina)",
-        "nl": "nieuwe pictogrammen (robot voor gazon & pool)",
-        "fr": "nouvelles icônes (robot de pelouse & piscine)",
-        "it": "nuove icone (ruolo da giardino e da piscina)",
-        "es": "nuevos iconos (propio y robot de piscina)",
-        "pl": "nowe ikony (trawnik i robot basen)",
-        "uk": "нові іконки (праворуч і робота з басейном)",
-        "zh-cn": "新图标( lawn & pool 机器人)"
+        "en": "new icons (lights & maintenance & faucets)",
+        "de": "neue Symbole (Lichter & Wartung & Wasserhähne)",
+        "ru": "новые значки (освещение, обслуживание и краны)",
+        "pt": "novos ícones (luzes, manutenção e torneiras)",
+        "nl": "nieuwe iconen (verlichting & onderhoud & kranen)",
+        "fr": "nouvelles icônes (lumières, maintenance et robinets)",
+        "it": "nuove icone (luci, manutenzione e rubinetti)",
+        "es": "nuevos iconos (luces, mantenimiento y grifos)",
+        "pl": "nowe ikony (światła, konserwacja i krany)",
+        "uk": "нові значки (освітлення, обслуговування та крани)",
+        "zh-cn": "新图标（灯光、维护和水龙头）"
+}
       },
       "0.22.0": {
         "en": "new icons (lawn & pool robot)",
