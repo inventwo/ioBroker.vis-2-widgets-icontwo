@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.22.0",
+    "version": "0.23.0",
     "news": {
+      "0.23.0": {
+        "en": "new icons (lawn & pool robot)",
+        "de": "neue icons (lawn & pool robot)",
+        "ru": "новые иконки (lawn & pool robot)",
+        "pt": "novos ícones (robô de jardim e piscina)",
+        "nl": "nieuwe pictogrammen (robot voor gazon & pool)",
+        "fr": "nouvelles icônes (robot de pelouse & piscine)",
+        "it": "nuove icone (ruolo da giardino e da piscina)",
+        "es": "nuevos iconos (propio y robot de piscina)",
+        "pl": "nowe ikony (trawnik i robot basen)",
+        "uk": "нові іконки (праворуч і робота з басейном)",
+        "zh-cn": "新图标( lawn & pool 机器人)"
+      },
       "0.22.0": {
         "en": "new icons (lawn & pool robot)",
         "de": "neue icons (lawn & pool robot)",
