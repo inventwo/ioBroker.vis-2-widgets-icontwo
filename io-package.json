@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.22.0",
+    "version": "0.23.0",
     "news": {
       "0.23.0": {
         "en": "new icons (lights & maintenance & faucets)",
@@ -93,19 +93,6 @@
         "pl": "nowe ikony (sieć & migawka)",
         "uk": "нові іконки (мережа та вимикач)",
         "zh-cn": "新图标( 网络和百叶窗)"
-      },
-      "0.16.0": {
-        "en": "new icons (lights & machines & signs)",
-        "de": "neue icons (lichter & maschinen & zeichen)",
-        "ru": "новые иконки (светильники, машины и знаки)",
-        "pt": "novos ícones (luzes e máquinas e sinais)",
-        "nl": "nieuwe pictogrammen (licht & machines & tekens)",
-        "fr": "nouvelles icônes (lumières & machines & signes)",
-        "it": "nuove icone (luci e macchine & segni)",
-        "es": "nuevos iconos (luz & máquinas & letreros)",
-        "pl": "nowe ikony (światła i maszyny i znaki)",
-        "uk": "нові іконки (світи та машини та знаки)",
-        "zh-cn": "新图标( 灯光和机器)"
       }
     },
     "titleLang": {

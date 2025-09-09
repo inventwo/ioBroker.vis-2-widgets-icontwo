@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.23.0 (2025-09-09)
 - new icons (lights & maintenance & faucets)
 
 ### 0.22.0 (2025-09-07)
