@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (heater & meter)
+
 ### 0.24.0 (2025-09-09)
 - new icons (brand & water-pump & spa)
 

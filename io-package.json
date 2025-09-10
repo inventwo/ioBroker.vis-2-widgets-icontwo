@@ -3,6 +3,19 @@
     "name": "vis-2-widgets-icontwo",
     "version": "0.24.0",
     "news": {
+      "0.25.0": {
+        "en": "new icons (heater & meter)",
+        "de": "neue Symbole (Heizung & Messgerät)",
+        "ru": "новые значки (обогреватель и счетчик)",
+        "pt": "novos ícones (aquecedor e medidor)",
+        "nl": "nieuwe iconen (verwarming & meter)",
+        "fr": "nouvelles icônes (chauffage et compteur)",
+        "it": "nuove icone (riscaldatore e contatore)",
+        "es": "nuevos iconos (calentador y medidor)",
+        "pl": "nowe ikony (ogrzewanie i licznik)",
+        "uk": "нові значки (обігрівач та лічильник)",
+        "zh-cn": "新图标（加热器和仪表）"
+      },
       "0.24.0": {
         "en": "new icons (brand & water-pump & spa)",
         "de": "neue Symbole (Marke & Wasserpumpe & Spa)",
