@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.25.0 (2025-09-10)
 - new icons (heater & meter)
 
 ### 0.24.0 (2025-09-09)
