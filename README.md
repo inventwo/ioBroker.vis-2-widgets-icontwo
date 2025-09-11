@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (signs & ecar)
+
 ### 0.25.0 (2025-09-10)
 - new icons (heater & meter)
 

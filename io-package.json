@@ -3,6 +3,19 @@
     "name": "vis-2-widgets-icontwo",
     "version": "0.25.0",
     "news": {
+      "0.26.0": {
+        "en": "new icons (signs & ecar)",
+        "de": "neue Icons (Schilder & E-Car)",
+        "ru": "новые значки (знаки и электрокары)",
+        "pt": "novos ícones (placas e ecar)",
+        "nl": "nieuwe iconen (borden & ecar)",
+        "fr": "nouvelles icônes (panneaux et ecar)",
+        "it": "nuove icone (segnali e ecar)",
+        "es": "nuevos iconos (señales y ecar)",
+        "pl": "nowe ikony (znaki i ecar)",
+        "uk": "нові значки (знаки та електронні автомобілі)",
+        "zh-cn": "新图标（标志和电动车）"
+      },
       "0.25.0": {
         "en": "new icons (heater & meter)",
         "de": "neue Symbole (Heizung & Messgerät)",
