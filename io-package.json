@@ -1,7 +1,7 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.25.0",
+    "version": "0.26.0",
     "news": {
       "0.26.0": {
         "en": "new icons (signs & ecar)",
@@ -93,19 +93,6 @@
         "pl": "nowe ikony (alarm & lights & printer & sensor & computer & brands)",
         "uk": "нові іконки (алматичні та світлові та принтери та сенсорні та комп'ютерні та бренди)",
         "zh-cn": "新的图标(警报和灯光、打印机、传感器、计算机和品牌)"
-      },
-      "0.19.0": {
-        "en": "new icons (TV lights & computer)",
-        "de": "neue Icons (TV-Lichter & Computer)",
-        "ru": "новые иконки (телевизионные огни и компьютер)",
-        "pt": "novos ícones (luzes e computador de TV)",
-        "nl": "nieuwe pictogrammen (tv-verlichting & computer)",
-        "fr": "nouvelles icônes (éclairages TV et ordinateur)",
-        "it": "nuove icone (televisione e computer)",
-        "es": "nuevos iconos (TV luces & ordenador)",
-        "pl": "nowe ikony (światła TV i komputer)",
-        "uk": "нові іконки (ТВ світильники та комп'ютер)",
-        "zh-cn": "新图标( 电视灯光和计算机)"
       }
     },
     "titleLang": {
