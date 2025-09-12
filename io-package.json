@@ -3,6 +3,19 @@
     "name": "vis-2-widgets-icontwo",
     "version": "0.26.0",
     "news": {
+       "0.27.0": {
+        "en": "new icons (signs & network)",
+        "de": "neue Icons (Zeichen & Netzwerk)",
+        "ru": "новые значки (знаки и сеть)",
+        "pt": "novos ícones (sinais e rede)",
+        "nl": "nieuwe iconen (borden & netwerk)",
+        "fr": "nouvelles icônes (panneaux et réseau)",
+        "it": "nuove icone (segnali e rete)",
+        "es": "nuevos iconos (señales y red)",
+        "pl": "nowe ikony (znaki i sieć)",
+        "uk": "нові значки (знаки та мережа)",
+        "zh-cn": "新图标（标志和网络）"
+      },
       "0.26.0": {
         "en": "new icons (signs & ecar)",
         "de": "neue Icons (Schilder & E-Car)",
@@ -96,17 +109,17 @@
       }
     },
     "titleLang": {
-      "en": "inventwo Iconset",
-      "de": "inventwo Iconset",
-      "ru": "inventwo Iconset",
-      "pt": "inventwo Iconset",
-      "nl": "inventwo Iconset",
-      "fr": "inventwo Iconset",
-      "it": "inventwo Iconset",
-      "es": "inventwo Iconset",
-      "pl": "inventwo Iconset",
-      "uk": "inventwo Iconset",
-      "zh-cn": "inventwo Iconset"
+      "en": "Vis 2 inventwo Iconset",
+      "de": "Vis 2 inventwo Iconset",
+      "ru": "Vis 2 inventwo Iconset",
+      "pt": "Vis 2 inventwo Iconset",
+      "nl": "Vis 2 inventwo Iconset",
+      "fr": "Vis 2 inventwo Iconset",
+      "it": "Vis 2 inventwo Iconset",
+      "es": "Vis 2 inventwo Iconset",
+      "pl": "Vis 2 inventwo Iconset",
+      "uk": "Vis 2 inventwo Iconset",
+      "zh-cn": "Vis 2 inventwo Iconset"
     },
     "desc": {
       "en": "inventwo Iconset",
