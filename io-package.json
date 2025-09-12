@@ -1,9 +1,9 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.26.0",
+    "version": "0.27.0",
     "news": {
-       "0.27.0": {
+      "0.27.0": {
         "en": "new icons (signs & network)",
         "de": "neue Icons (Zeichen & Netzwerk)",
         "ru": "новые значки (знаки и сеть)",
@@ -93,19 +93,6 @@
         "pl": "nowe ikony (światła)",
         "uk": "нові іконки (світи)",
         "zh-cn": "新图标( 灯光)"
-      },
-      "0.20.0": {
-        "en": "new icons (alarm & lights & printer & sensor & computer & brands)",
-        "de": "neue icons (alarm & licht & drucker & sensor & computer & marken)",
-        "ru": "новые значки (сигналы и огни, принтер, датчик, компьютер и бренды)",
-        "pt": "novos ícones (alarme e luzes & impressora & sensor & computador & marcas)",
-        "nl": "nieuwe pictogrammen (alarm & verlichting & printer & sensor & computer & merken)",
-        "fr": "nouvelles icônes (arme & lumières & imprimante & capteur & ordinateur & marques)",
-        "it": "nuove icone (braccio & luci & stampante & sensori & marche computer & computer)",
-        "es": "nuevos iconos (alarmas & luces & impresora & marcas de ordenadores)",
-        "pl": "nowe ikony (alarm & lights & printer & sensor & computer & brands)",
-        "uk": "нові іконки (алматичні та світлові та принтери та сенсорні та комп'ютерні та бренди)",
-        "zh-cn": "新的图标(警报和灯光、打印机、传感器、计算机和品牌)"
       }
     },
     "titleLang": {

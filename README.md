@@ -29,9 +29,10 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.27.0 (2025-09-12)
 - new icons (signs & network)
-- 
+-
+
 ### 0.26.0 (2025-09-11)
 - new icons (signs & ecar)
 
