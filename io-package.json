@@ -3,6 +3,19 @@
     "name": "vis-2-widgets-icontwo",
     "version": "0.27.0",
     "news": {
+      "0.28.0": {
+        "en": "new icons (3D & laser & fans)",
+        "de": "neue Symbole (3D & Laser & Lüfter)",
+        "ru": "новые иконки (3D, лазер и вентиляторы)",
+        "pt": "novos ícones (3D & laser & ventiladores)",
+        "nl": "nieuwe iconen (3D & laser & fans)",
+        "fr": "nouvelles icônes (3D, laser et ventilateurs)",
+        "it": "nuove icone (3D, laser e ventilatori)",
+        "es": "nuevos iconos (3D, láser y ventiladores)",
+        "pl": "nowe ikony (3D i lasery i wentylatory)",
+        "uk": "нові значки (3D, лазер та вентилятори)",
+        "zh-cn": "新图标（3D、激光和风扇）"
+      },
       "0.27.0": {
         "en": "new icons (signs & network)",
         "de": "neue Icons (Zeichen & Netzwerk)",
@@ -109,17 +122,17 @@
       "zh-cn": "Vis 2 inventwo Iconset"
     },
     "desc": {
-      "en": "inventwo Iconset",
-      "de": "inventwo Iconset",
-      "ru": "inventwo Iconset",
-      "pt": "inventwo Iconset",
-      "nl": "inventwo Iconset",
-      "fr": "inventwo Iconset",
-      "it": "inventwo Iconset",
-      "es": "inventwo Iconset",
-      "pl": "inventwo Iconset",
-      "uk": "inventwo Iconset",
-      "zh-cn": "inventwo Iconset"
+      "en": "inventwo iconset for vis-2",
+      "de": "inventwo iconset for vis-2",
+      "ru": "inventwo iconset for vis-2",
+      "pt": "inventwo iconset for vis-2",
+      "nl": "inventwo iconset for vis-2",
+      "fr": "inventwo iconset for vis-2",
+      "it": "inventwo iconset for vis-2",
+      "es": "inventwo iconset for vis-2",
+      "pl": "inventwo iconset for vis-2",
+      "uk": "inventwo iconset for vis-2",
+      "zh-cn": "inventwo iconset for vis-2"
     },
     "authors": [
       "skvarel <sk@inventwo.com>"
@@ -143,7 +156,7 @@
       "license": "MIT"
     },
     "tier": 3,
-    "type": "visualization-widgets",
+    "type": "visualization-icons",
     "connectionType": "cloud",
     "dataSource": "poll",
     "visWidgets": {},
