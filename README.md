@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.28.0 (2025-09-13)
 - new icons (3D & laser & fans)
 
 ### 0.27.0 (2025-09-12)
