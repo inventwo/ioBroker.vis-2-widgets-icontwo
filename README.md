@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (lights & signs & 3D-print & cooker)
+
 ### 0.28.0 (2025-09-13)
 - new icons (3D & laser & fans)
 
