@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.28.0",
+    "version": "0.29.0",
     "news": {
+      "0.29.0": {
+        "en": "new icons (lights & signs & 3D-print & cooker)",
+        "de": "neue Icons (Lichter & Schilder & 3D-Druck & Herd)",
+        "ru": "новые значки (свет & знаки & 3D-печать & кухонная плита)",
+        "pt": "novos ícones (luzes & sinais & impressão 3D & fogão)",
+        "nl": "Nieuwe pictogrammen (verlichting & borden & 3D-printen & fornuis)",
+        "fr": "nouveaux icônes (lumières, panneaux, impression 3D, cuisinière)",
+        "it": "nuove icone (luci & segnali & stampa 3D & fornello)",
+        "es": "nuevos iconos (luces y señales y 3D-print y cocina)",
+        "pl": "nowe ikony (oświetlenie & znaki & druk 3D & kuchenka)",
+        "uk": "нові піктограми (світильники та знаки, 3D-друк та кухоні)",
+        "zh-cn": "新图标（灯光、标志、3D 打印和炊具）"
+      },
       "0.28.0": {
         "en": "new icons (3D & laser & fans)",
         "de": "neue Symbole (3D & Laser & Lüfter)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (światła, konserwacja i krany)",
         "uk": "нові значки (освітлення, обслуговування та крани)",
         "zh-cn": "新图标（灯光、维护和水龙头）"
-      },
-      "0.22.0": {
-        "en": "new icons (lawn & pool robot)",
-        "de": "neue icons (lawn & pool robot)",
-        "ru": "новые иконки (lawn & pool robot)",
-        "pt": "novos ícones (robô de jardim e piscina)",
-        "nl": "nieuwe pictogrammen (robot voor gazon & pool)",
-        "fr": "nouvelles icônes (robot de pelouse & piscine)",
-        "it": "nuove icone (ruolo da giardino e da piscina)",
-        "es": "nuevos iconos (propio y robot de piscina)",
-        "pl": "nowe ikony (trawnik i robot basen)",
-        "uk": "нові іконки (праворуч і робота з басейном)",
-        "zh-cn": "新图标( lawn & pool 机器人)"
       }
     },
     "titleLang": {

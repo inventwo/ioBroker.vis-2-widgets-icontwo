@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 0.29.0 (2025-09-14)
 - new icons (lights & signs & 3D-print & cooker)
 
 ### 0.28.0 (2025-09-13)
