@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" data-app="Xyris">
+    <defs>
+    </defs>
+    <g transform="" transform-origin="center" style="transform-box: fill-box;">
+        <g id="g-iiud5WHmmhuaJGwZXVhowz" opacity="1" transform="translate(-1968.7531,-2047.5033)" transform-origin="">
+            <g id="g-brQst4rPrc34n82tfWUcLs" transform="translate(157.50029,-4.9415386e-5)" transform-origin="">
+                <g id="g-8AdfU9ZMdaWhSxT1c3Dkm8" transform="matrix(0.14062539,0,0,0.14062539,1812.7529,2049.0034)" fill-opacity="1" stroke-width="16" stroke-dasharray="none" stroke-opacity="1" stroke="currentColor" fill="none" transform-origin="">
+                    <g id="g-6nP2dHeF4U8sofG5o6xYC9" fill-opacity="1" stroke-width="16" stroke-dasharray="none" stroke-opacity="1" stroke="currentColor" fill="none" transform="">
+                        <g id="g-47ffKm814T71cCrA1TzLpj" transform="">
+                            <path d="M 525.27 443.843 L 300.64 71.3137 C 294.963 61.8987 284.77 56.1417 273.775 56.1417 C 262.78 56.1417 252.587 61.8977 246.91 71.3137 L 22.2825 443.843 C 16.4405 453.532 16.2675 465.617 21.8315 475.468 C 27.3955 485.32 37.8325 491.412 49.1465 491.412 L 498.405 491.412 C 509.719 491.412 520.156 485.319 525.72 475.468 C 531.284 465.616 531.112 453.532 525.27 443.843 Z" id="path-qFRx8EkoeQCtwVt2HnosGV" opacity="1" fill-opacity="1" stroke-width="25" stroke-dasharray="none" stroke-opacity="1" stroke="currentColor" fill="none" transform="">
+                            </path>
+                            <path d="M 273.943 185.004 C 286.844 185.004 297.76 192.282 297.76 205.182 C 297.76 244.545 293.129 301.111 293.129 340.474 C 293.129 350.729 281.882 355.028 273.943 355.028 C 263.359 355.028 254.427 350.728 254.427 340.474 C 254.427 301.111 249.797 244.545 249.797 205.182 C 249.797 192.282 260.381 185.004 273.943 185.004 Z M 274.274 428.795 C 259.72 428.795 248.803 416.887 248.803 403.325 C 248.803 389.432 259.719 377.855 274.274 377.855 C 287.836 377.855 299.414 389.432 299.414 403.325 C 299.414 416.887 287.836 428.795 274.274 428.795 Z" id="path-mBQ9BEbKVAkqCPQg3ZDiVo" fill-opacity="1" stroke-width="16" stroke-dasharray="none" stroke-opacity="1" stroke="none" fill="currentColor" transform="">
+                            </path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <animateTransform attributeName="transform" type="scale" begin="-0.00001" dur="1.97002" keyTimes="0; 0.4974619289340101; 1" values="1, 1; 0, 1; 1, 1" fill="freeze" additive="sum" calcMode="spline" keySplines="0 0 1 1; 0 0 1 1" repeatCount="indefinite">
+        </animateTransform>
+    </g>
+</svg>

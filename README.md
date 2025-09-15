@@ -20,15 +20,22 @@
 
 .... more information will follow
 
-![Vorschau](admin/solid.PNG)
+![Vorschau](admin/solid.png)
 
-![Vorschau](admin/opacity.PNG)
+![Vorschau](admin/opacity.png)
+
+### Available since: v1.x.x
+
+![Vorschau](admin/animated.png)
 
 ## Changelog
 
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (animated attention & bell)
+
 ### 1.1.0 (2025-09-15)
 - new icons (animated arrows)
 
