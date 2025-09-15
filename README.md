@@ -29,7 +29,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.0.0 (2025-09-15)
 - new category animated icons (fan)
 
 ### 0.29.0 (2025-09-14)

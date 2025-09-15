@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "0.29.0",
+    "version": "1.0.0",
     "news": {
+      "1.0.0": {
+        "en": "new category animated icons (fan)",
+        "de": "Neue Kategorie animierte Symbole (Fan)",
+        "ru": "новая категория анимированных иконок (вентилятор)",
+        "pt": "nova categoria ícones animados (ventoinha)",
+        "nl": "Nieuwe categorie geanimeerde pictogrammen (ventilator)",
+        "fr": "nouvelle catégorie d'icônes animées (ventilateur)",
+        "it": "nuova categoria icone animate (ventilatore)",
+        "es": "nueva categoría de iconos animados (ventilador)",
+        "pl": "nowa kategoria ikon animowanych (wentylator)",
+        "uk": "нова категорія анімованих іконок (вентилятор)",
+        "zh-cn": "新类别动画图标（风扇）"
+      },
       "0.29.0": {
         "en": "new icons (lights & signs & 3D-print & cooker)",
         "de": "neue Icons (Lichter & Schilder & 3D-Druck & Herd)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (marka, pompa wodna i spa)",
         "uk": "нові значки (бренд, водяний насос та спа)",
         "zh-cn": "新图标（品牌、水泵和水疗中心）"
-      },
-      "0.23.0": {
-        "en": "new icons (lights & maintenance & faucets)",
-        "de": "neue Symbole (Lichter & Wartung & Wasserhähne)",
-        "ru": "новые значки (освещение, обслуживание и краны)",
-        "pt": "novos ícones (luzes, manutenção e torneiras)",
-        "nl": "nieuwe iconen (verlichting & onderhoud & kranen)",
-        "fr": "nouvelles icônes (lumières, maintenance et robinets)",
-        "it": "nuove icone (luci, manutenzione e rubinetti)",
-        "es": "nuevos iconos (luces, mantenimiento y grifos)",
-        "pl": "nowe ikony (światła, konserwacja i krany)",
-        "uk": "нові значки (освітлення, обслуговування та крани)",
-        "zh-cn": "新图标（灯光、维护和水龙头）"
       }
     },
     "titleLang": {
@@ -205,17 +205,17 @@
       "vis2IcontwoSet4": {
         "iconSet": true,
         "name": {
-            "en": "Animated",
-            "de": "Animiert",
-            "ru": "Анимированные",
-            "pt": "Animado",
-            "nl": "Geanimeerd",
-            "fr": "Animé",
-            "it": "Animato",
-            "es": "Animado",
-            "pl": "Ożywiony",
-            "uk": "Анімовані",
-            "zh-cn": "动画"
+          "en": "Animated",
+          "de": "Animiert",
+          "ru": "Анимированные",
+          "pt": "Animado",
+          "nl": "Geanimeerd",
+          "fr": "Animé",
+          "it": "Animato",
+          "es": "Animado",
+          "pl": "Ożywiony",
+          "uk": "Анімовані",
+          "zh-cn": "动画"
         },
         "url": "vis-2-widgets-icontwo/icon-set-animated.json",
         "icon": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjwhLS0gQ3JlYXRlZCB3aXRoIElua3NjYXBlIChodHRwOi8vd3d3Lmlua3NjYXBlLm9yZy8pIC0tPgoKPHN2ZyB3aWR0aD0iODMuMTg4MzQ3bW0iIGhlaWdodD0iODMuMjgwNTE4bW0iIHZpZXdCb3g9IjAgMCA4My4xODgzNDcgODMuMjgwNTE3IiB2ZXJzaW9uPSIxLjEiIGlkPSJzdmcxIiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzIGlkPSJkZWZzMSIgLz48ZyBpZD0ibGF5ZXIyIiBzdHlsZT0iZGlzcGxheTppbmxpbmUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKC0xMTEuNzIwNjIsLTE3OC4xMzEwNCkiPjxwYXRoIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiM5OTk7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMTUxMzQ3IiBkPSJtIDE1Ni45MDU2MywyMzkuMjc2NDQgYyAwLDEuMDc2MTcgLTAuMzY1OTUsMi4wNTUwMiAtMS4yNDY1MSwyLjcxMzMxIC0wLjY5MTg2LDAuNTIwOTEgLTEuNTAzODEsMC44MDE0IC0yLjM3MjkzLDAuODAxNCAtMC44OTE5OSwwIC0xLjcwOTY1LC0wLjI2MzMyIC0yLjQxMjk1LC0wLjgxMjg0IC0wLjg2MzQxLC0wLjY1ODMgLTEuMjA2NDgsLTEuNjQyODcgLTEuMjA2NDgsLTIuNzAxODcgdiAtMjcuNTIyMzYgYyAwLC0xLjA0NzU1IDAuMzYwMjMsLTEuOTk3NzggMS4yMDY0OCwtMi42NDQ2MiAwLjcwMzMsLTAuNTQzODEgMS41MjA5NiwtMC44MDcxMyAyLjQxMjk1LC0wLjgwNzEzIDAuODY5MTIsMCAxLjY4MTA3LDAuMjc0NzcgMi4zNzI5MywwLjc5NTY4IDAuODYzNDEsMC42NDY4NCAxLjI0NjUxLDEuNTkxMzUgMS4yNDY1MSwyLjY1NjA3IHogbSAwLjA1NzIsLTM4LjAwOTI2IGMgMCwxLjA4MTg5IC0wLjM2NTk1LDIuMDY2NDcgLTEuMjM1MDcsMi43MDE4NyAtMC42OTE4NywwLjUzMjM2IC0xLjUwMzgxLDAuODEyODUgLTIuMzg0MzcsMC44MTI4NSAtMC44OTE5OSwwIC0xLjcyNjgxLC0wLjI2OTA1IC0yLjQxMjk2LC0wLjgxMjg1IC0wLjg1NzY4LC0wLjY1ODMgLTEuMjAwNzYsLTEuNjM3MTUgLTEuMjAwNzYsLTIuNzAxODcgdiAtMC44NDE0NyBjIDAsLTEuMDQ3NTQgMC4zNjAyMywtMS45OTc3NyAxLjE4MzYxLC0yLjYyNzQ0IDAuNzAzMywtMC41NjA5OCAxLjUzODEyLC0wLjgzMDAyIDIuNDMwMTEsLTAuODMwMDIgMC44ODA1NiwwIDEuNjkyNSwwLjI4MDQ5IDIuMzY3MjIsMC44MDE0IDAuODc0ODMsMC42NDExMiAxLjI1MjIyLDEuNTkxMzUgMS4yNTIyMiwyLjY1NjA2IHoiIGlkPSJwYXRoMi01LTUtMi03IiAvPjxwYXRoIHN0eWxlPSJkaXNwbGF5OmlubGluZTtmaWxsOiM5ZmRiNTg7ZmlsbC1vcGFjaXR5OjE7ZmlsbC1ydWxlOmV2ZW5vZGQ7c3Ryb2tlOm5vbmU7c3Ryb2tlLXdpZHRoOjAuMTUxMzQ3IiBkPSJtIDE1OC41ODAyOCwxODAuMzA3NyAxNC4zNjMzNywxNC4zNzk0MSAtNC4zNjI3Niw0LjM2NzYzIC0xMS4wMjk4NCwtMTEuMDUzNiBjIC0yLjMzMjksLTIuMzM1NTEgLTYuMTQxMDMsLTIuMzM1NTEgLTguNDY4MjEsMCBsIC0yNy40Njg4MSwyNy41MjgwOSBjIC0yLjMyNzIsMi4zMzU1MSAtMi4zMjcyLDYuMTUzNjEgMCw4LjQ4OTEyIGwgMTEuMDA2OTYsMTEuMDMwNjkgLTQuMzY4NDgsNC4zNzMzNiAtMTQuMzU3NjUsLTE0LjM3OTQgYyAtMi44OTg5OCwtMi44OTY0OSAtMi44OTg5OCwtNy42NDE5MyAwLC0xMC41NDQxNCBsIDM0LjE1MzAzLC0zNC4xOTExNiBjIDIuODk4OTgsLTIuOTAyMjEgNy42MzkxMiwtMi45MDIyMSAxMC41MzIzOSwwIHogbSAxOS43OTUzOCwxOS44MTc0OCAxNC4zNjMzNywxNC4zNzM2OCBjIDIuODkzMjYsMi45MDIyMSAyLjg5MzI2LDcuNjQ3NjUgMCwxMC41NDQxNCBMIDE1OC41ODYsMjU5LjIzNDE1IGMgLTIuODk4OTksMi45MDIyMSAtNy42MzkxMywyLjkwMjIxIC0xMC41MzgxMSwwLjAwNiBsIC0xNC4zNTc2NSwtMTQuMzc5NDEgNC4zNjI3NiwtNC4zNjc2MyAxMS4wMjk4NCwxMS4wNTM1OSBjIDIuMzI3MTgsMi4zMjk3OSA2LjEzNTMxLDIuMzM1NTEgOC40NjgyMSwwIGwgMjcuNDYzMSwtMjcuNTI4MDggYyAyLjMzMjksLTIuMzM1NSAyLjMzMjksLTYuMTUzNjEgMCwtOC40ODkxMSBsIC0xMS4wMDY5NywtMTEuMDMwOTggeiIgaWQ9InBhdGgxLTQtMC0xIiAvPjwvZz48L3N2Zz4K"
