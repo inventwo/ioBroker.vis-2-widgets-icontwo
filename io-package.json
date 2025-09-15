@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "news": {
+      "1.1.0": {
+        "en": "new icons (animated arrows)",
+        "de": "Neue Symbole (animierte Pfeile)",
+        "ru": "новые иконки (анимированные стрелки)",
+        "pt": "novos ícones (setas animadas)",
+        "nl": "nieuwe pictogrammen (geanimeerde pijlen)",
+        "fr": "nouveaux icônes (flèches animées)",
+        "it": "nuove icone (frecce animate)",
+        "es": "nuevos iconos (flechas animadas)",
+        "pl": "nowe ikony (animowane strzałki)",
+        "uk": "нові піктограми (анімовані стрілки)",
+        "zh-cn": "新图标（带动画箭头）"
+      },
       "1.0.0": {
         "en": "new category animated icons (fan)",
         "de": "Neue Kategorie animierte Symbole (Fan)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (ogrzewanie i licznik)",
         "uk": "нові значки (обігрівач та лічильник)",
         "zh-cn": "新图标（加热器和仪表）"
-      },
-      "0.24.0": {
-        "en": "new icons (brand & water-pump & spa)",
-        "de": "neue Symbole (Marke & Wasserpumpe & Spa)",
-        "ru": "новые значки (бренд, водяной насос и спа)",
-        "pt": "novos ícones (marca e bomba de água e spa)",
-        "nl": "nieuwe iconen (merk & waterpomp & spa)",
-        "fr": "nouvelles icônes (marque, pompe à eau et spa)",
-        "it": "nuove icone (marchio, pompa dell'acqua e spa)",
-        "es": "Nuevos iconos (marca, bomba de agua y spa)",
-        "pl": "nowe ikony (marka, pompa wodna i spa)",
-        "uk": "нові значки (бренд, водяний насос та спа)",
-        "zh-cn": "新图标（品牌、水泵和水疗中心）"
       }
     },
     "titleLang": {
