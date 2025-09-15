@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" data-app="Xyris">
+    <defs>
+    </defs>
+    <g transform="" transform-origin="">
+        <g id="g-sHEAmMnxiJ7QrurQ5LzUjS" opacity="1" transform="translate(-495.11374,-2206.7792)" transform-origin="">
+            <path fill-opacity="0.225" stroke-width="3.75001" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" d="M 572.114 2212.08 L 546.09 2246.78 L 572.114 2281.48" id="path-c9UaNtzXytoe8RtsSVF5eq" stroke="currentColor" fill="none" transform="" style="display: inline; ">
+            </path>
+        </g>
+        <animateTransform attributeName="transform" type="translate" begin="-0.00001" dur="0.9800200000000004" keyTimes="0; 1" values="0, 0; -48, 0" fill="freeze" additive="sum" calcMode="spline" keySplines="0 0 1 1" repeatCount="indefinite">
+        </animateTransform>
+    </g>
+</svg>

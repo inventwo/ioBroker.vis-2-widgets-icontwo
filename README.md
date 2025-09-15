@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (animated arrows)
+
 ### 1.0.0 (2025-09-15)
 - new category animated icons (fan)
 

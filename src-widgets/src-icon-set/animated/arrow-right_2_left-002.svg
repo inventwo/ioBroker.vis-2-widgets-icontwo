@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" data-app="Xyris">
+    <defs>
+    </defs>
+    <g transform="rotate(180)" transform-origin="">
+        <g id="g-hX4FVKBz5FCNBkWSDXWQsW" opacity="1" transform="translate(-495.11374,-2206.7792)" transform-origin="">
+            <path fill-opacity="0.225" stroke-width="3.75001" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" d="M 489.138 2132.08 L 463.114 2166.78 L 489.138 2201.48" id="path-snc49kcNepVLe6kVtRQorN" stroke="currentColor" fill="none" transform-origin="center" transform="rotate(180)" style="display: inline; transform-box: fill-box;">
+            </path>
+        </g>
+        <animate attributeName="visibility" keyTimes="0; 0.7478562678644346; 1" values="hidden; visible; visible" begin="-0.00001" dur="1.9992036734693872" fill="freeze" calcMode="spline" keySplines="0 0 1 1; 0 0 1 1" repeatCount="indefinite">
+        </animate>
+    </g>
+    <g transform="">
+        <g id="g-c8E1udz3nc8QCTRYSBGrzk" opacity="1" transform="translate(-495.11374,-2206.7792)" transform-origin="">
+            <path fill-opacity="0.225" stroke-width="3.75001" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" d="M 542.114 2212.08 L 516.09 2246.78 L 542.114 2281.48" id="path-nY1wtWAV47XVzGcSwAfFkp" stroke="currentColor" fill="none" transform="" style="display: inline; ">
+            </path>
+        </g>
+        <animate attributeName="visibility" keyTimes="0; 0.5009187423438137; 1" values="hidden; visible; visible" begin="-0.00001" dur="1.9992036734693872" fill="freeze" calcMode="spline" keySplines="0 0 1 1; 0 0 1 1" repeatCount="indefinite">
+        </animate>
+    </g>
+    <g transform="rotate(180)" transform-origin="">
+        <g id="g-sryvhQvAyWYCA8sg2a7TPd" opacity="1" transform="translate(-495.11374,-2206.7792)" transform-origin="">
+            <path fill-opacity="0.225" stroke-width="3.75001" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" d="M 459.138 2132.08 L 433.114 2166.78 L 459.138 2201.48" id="path-nVocinxpRnRL4hAWnsbGfk" stroke="currentColor" fill="none" transform-origin="center" transform="rotate(180)" style="display: inline; transform-box: fill-box;">
+            </path>
+        </g>
+        <animate attributeName="visibility" keyTimes="0; 0.2475500204164966; 1" values="hidden; visible; visible" begin="-0.00001" dur="1.9992036734693872" fill="freeze" calcMode="spline" keySplines="0 0 1 1; 0 0 1 1" repeatCount="indefinite">
+        </animate>
+    </g>
+    <g transform="">
+        <g id="g-xeNLH2Voct5Hcxm8XCRjDa" opacity="1" transform="translate(-495.11374,-2206.7792)" transform-origin="">
+            <path fill-opacity="0.225" stroke-width="3.75001" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" d="M 572.114 2212.08 L 546.09 2246.78 L 572.114 2281.48" id="path-cEzFggAqevb9RCfbsgVg9Q" stroke="currentColor" fill="none" transform="" style="display: inline; ">
+            </path>
+        </g>
+        <animate attributeName="visibility" keyTimes="0; 1" values="visible; visible" begin="-0.00001" dur="1.9992036734693872" fill="freeze" calcMode="spline" keySplines="0 0 1 1" repeatCount="indefinite">
+        </animate>
+    </g>
+</svg>
