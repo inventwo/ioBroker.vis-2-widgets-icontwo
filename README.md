@@ -29,6 +29,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new category animated icons (fan)
+
 ### 0.29.0 (2025-09-14)
 - new icons (lights & signs & 3D-print & cooker)
 
