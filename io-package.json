@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.2.2",
+    "version": "1.2.3",
     "news": {
+      "1.2.3": {
+        "en": "fix adapter checker",
+        "de": "Adapter-Prüfung repariert",
+        "ru": "исправлена проверка адаптера",
+        "pt": "corrigir verificador do adaptador",
+        "nl": "adapter checker fixeren",
+        "fr": "corriger le vérificateur d'adaptateurs",
+        "it": "Risolvere il controllo dell'adattatore",
+        "es": "corregir comprobador del adaptador",
+        "pl": "naprawa sprawdzania adaptera",
+        "uk": "виправити перевірку адаптера",
+        "zh-cn": "修复适配器检查程序"
+      },
       "1.2.2": {
         "en": "fix adapter checker",
         "de": "Adapter-Checker repariert.",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (oświetlenie & znaki & druk 3D & kuchenka)",
         "uk": "нові піктограми (світильники та знаки, 3D-друк та кухоні)",
         "zh-cn": "新图标（灯光、标志、3D 打印和炊具）"
-      },
-      "0.28.0": {
-        "en": "new icons (3D & laser & fans)",
-        "de": "neue Symbole (3D & Laser & Lüfter)",
-        "ru": "новые иконки (3D, лазер и вентиляторы)",
-        "pt": "novos ícones (3D & laser & ventiladores)",
-        "nl": "nieuwe iconen (3D & laser & fans)",
-        "fr": "nouvelles icônes (3D, laser et ventilateurs)",
-        "it": "nuove icone (3D, laser e ventilatori)",
-        "es": "nuevos iconos (3D, láser y ventiladores)",
-        "pl": "nowe ikony (3D i lasery i wentylatory)",
-        "uk": "нові значки (3D, лазер та вентилятори)",
-        "zh-cn": "新图标（3D、激光和风扇）"
       }
     },
     "titleLang": {
