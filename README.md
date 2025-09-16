@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (plan doors)
+
 ### 1.2.3 (2025-09-16)
 - fix adapter checker
 
