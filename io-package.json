@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.2.1",
+    "version": "1.2.2",
     "news": {
+      "1.2.2": {
+        "en": "fix adapter checker",
+        "de": "Adapter-Checker repariert.",
+        "ru": "Исправление проверки адаптера",
+        "pt": "corrigir verificador de adaptador",
+        "nl": "Adapter checker repareren",
+        "fr": "correction du vérificateur d'adaptateur",
+        "it": "correzione del controllo dell'adattatore",
+        "es": "corregir el verificador del adaptador",
+        "pl": "napraw sprawdzanie adaptera",
+        "uk": "виправлено перевірку адаптера",
+        "zh-cn": "修复适配器检查器"
+      },
       "1.2.1": {
         "en": "fix adapter checker",
         "de": "Adapter-Überprüfung reparieren",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (3D i lasery i wentylatory)",
         "uk": "нові значки (3D, лазер та вентилятори)",
         "zh-cn": "新图标（3D、激光和风扇）"
-      },
-      "0.27.0": {
-        "en": "new icons (signs & network)",
-        "de": "neue Icons (Zeichen & Netzwerk)",
-        "ru": "новые значки (знаки и сеть)",
-        "pt": "novos ícones (sinais e rede)",
-        "nl": "nieuwe iconen (borden & netwerk)",
-        "fr": "nouvelles icônes (panneaux et réseau)",
-        "it": "nuove icone (segnali e rete)",
-        "es": "nuevos iconos (señales y red)",
-        "pl": "nowe ikony (znaki i sieć)",
-        "uk": "нові значки (знаки та мережа)",
-        "zh-cn": "新图标（标志和网络）"
       }
     },
     "titleLang": {

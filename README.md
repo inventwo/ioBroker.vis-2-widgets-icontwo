@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.2.2 (2025-09-16)
 - fix adapter checker
 
 ### 1.2.1 (2025-09-16)
