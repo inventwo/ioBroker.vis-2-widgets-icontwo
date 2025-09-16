@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.2.3",
+    "version": "1.3.0",
     "news": {
+      "1.3.0": {
+        "en": "new icons (plan doors)",
+        "de": "neue Symbole (Zimmerpläne)",
+        "ru": "новые иконки (двери плана)",
+        "pt": "novos ícones (portas do plano)",
+        "nl": "nieuwe pictogrammen (plattegronddeuren)",
+        "fr": "nouveaux icônes (portes de plan)",
+        "it": "nuove icone (pianificazione porte)",
+        "es": "nuevos iconos (puertas del plano)",
+        "pl": "nowe ikony (drzwi planowe)",
+        "uk": "нові піктограми (двері плану)",
+        "zh-cn": "新图标（平面图中的门）"
+      },
       "1.2.3": {
         "en": "fix adapter checker",
         "de": "Adapter-Prüfung repariert",
@@ -80,19 +93,6 @@
         "pl": "nowa kategoria ikon animowanych (wentylator)",
         "uk": "нова категорія анімованих іконок (вентилятор)",
         "zh-cn": "新类别动画图标（风扇）"
-      },
-      "0.29.0": {
-        "en": "new icons (lights & signs & 3D-print & cooker)",
-        "de": "neue Icons (Lichter & Schilder & 3D-Druck & Herd)",
-        "ru": "новые значки (свет & знаки & 3D-печать & кухонная плита)",
-        "pt": "novos ícones (luzes & sinais & impressão 3D & fogão)",
-        "nl": "Nieuwe pictogrammen (verlichting & borden & 3D-printen & fornuis)",
-        "fr": "nouveaux icônes (lumières, panneaux, impression 3D, cuisinière)",
-        "it": "nuove icone (luci & segnali & stampa 3D & fornello)",
-        "es": "nuevos iconos (luces y señales y 3D-print y cocina)",
-        "pl": "nowe ikony (oświetlenie & znaki & druk 3D & kuchenka)",
-        "uk": "нові піктограми (світильники та знаки, 3D-друк та кухоні)",
-        "zh-cn": "新图标（灯光、标志、3D 打印和炊具）"
       }
     },
     "titleLang": {

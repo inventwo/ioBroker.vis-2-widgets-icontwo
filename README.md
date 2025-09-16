@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.3.0 (2025-09-16)
 - new icons (plan doors)
 
 ### 1.2.3 (2025-09-16)
