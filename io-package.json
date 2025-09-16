@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "news": {
+      "1.2.1": {
+        "en": "fix adapter checker",
+        "de": "Adapter-Überprüfung reparieren",
+        "ru": "исправлена проверка адаптера",
+        "pt": "corrigir verificador de adaptador",
+        "nl": "adapter checker gerepareerd",
+        "fr": "corriger le vérificateur d'adaptateur",
+        "it": "corretto controllore dell'adattatore",
+        "es": "corregir el comprobador del adaptador",
+        "pl": "naprawa sprawdzarki adaptera",
+        "uk": "виправлено перевірку адаптера",
+        "zh-cn": "修复适配器检查器"
+      },
       "1.2.0": {
         "en": "new icons (animated attention & bell)",
         "de": "neue Symbole (animierte Aufmerksamkeit & Glocke)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (znaki i sieć)",
         "uk": "нові значки (знаки та мережа)",
         "zh-cn": "新图标（标志和网络）"
-      },
-      "0.26.0": {
-        "en": "new icons (signs & ecar)",
-        "de": "neue Icons (Schilder & E-Car)",
-        "ru": "новые значки (знаки и электрокары)",
-        "pt": "novos ícones (placas e ecar)",
-        "nl": "nieuwe iconen (borden & ecar)",
-        "fr": "nouvelles icônes (panneaux et ecar)",
-        "it": "nuove icone (segnali e ecar)",
-        "es": "nuevos iconos (señales y ecar)",
-        "pl": "nowe ikony (znaki i ecar)",
-        "uk": "нові значки (знаки та електронні автомобілі)",
-        "zh-cn": "新图标（标志和电动车）"
       }
     },
     "titleLang": {
