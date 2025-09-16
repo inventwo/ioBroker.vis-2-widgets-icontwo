@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- fix adapter checker
+  
 ### 1.2.0 (2025-09-15)
 - new icons (animated attention & bell)
 
