@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.3.0",
+    "version": "1.4.0",
     "news": {
+      "1.4.0": {
+        "en": "new icons (network & computer & alexa)",
+        "de": "Neue Symbole (Netzwerk & Computer & Alexa)",
+        "ru": "новые иконки (сеть & компьютер & alexa)",
+        "pt": "novos ícones (rede & computador & alexa)",
+        "nl": "nieuwe pictogrammen (netwerk & computer & alexa)",
+        "fr": "nouveaux icônes (réseau & ordinateur & alexa)",
+        "it": "nuove icone (rete & computer & alexa)",
+        "es": "nuevos iconos (red & computadora & alexa)",
+        "pl": "nowe ikony (sieć & komputer & alexa)",
+        "uk": "нові іконки (мережа & комп'ютер & alexa)",
+        "zh-cn": "新图标（网络，电脑，Alexa）"
+      },
       "1.3.0": {
         "en": "new icons (plan doors)",
         "de": "neue Symbole (Zimmerpläne)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (animowane strzałki)",
         "uk": "нові піктограми (анімовані стрілки)",
         "zh-cn": "新图标（带动画箭头）"
-      },
-      "1.0.0": {
-        "en": "new category animated icons (fan)",
-        "de": "Neue Kategorie animierte Symbole (Fan)",
-        "ru": "новая категория анимированных иконок (вентилятор)",
-        "pt": "nova categoria ícones animados (ventoinha)",
-        "nl": "Nieuwe categorie geanimeerde pictogrammen (ventilator)",
-        "fr": "nouvelle catégorie d'icônes animées (ventilateur)",
-        "it": "nuova categoria icone animate (ventilatore)",
-        "es": "nueva categoría de iconos animados (ventilador)",
-        "pl": "nowa kategoria ikon animowanych (wentylator)",
-        "uk": "нова категорія анімованих іконок (вентилятор)",
-        "zh-cn": "新类别动画图标（风扇）"
       }
     },
     "titleLang": {

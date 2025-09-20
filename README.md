@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.4.0 (2025-09-20)
 - new icons (network & computer & alexa)
 
 ### 1.3.0 (2025-09-16)
