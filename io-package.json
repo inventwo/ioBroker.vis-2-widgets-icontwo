@@ -110,16 +110,16 @@
     },
     "desc": {
       "en": "inventwo iconset for vis-2",
-      "de": "inventwo iconset for vis-2",
-      "ru": "inventwo iconset for vis-2",
-      "pt": "inventwo iconset for vis-2",
-      "nl": "inventwo iconset for vis-2",
-      "fr": "inventwo iconset for vis-2",
-      "it": "inventwo iconset for vis-2",
-      "es": "inventwo iconset for vis-2",
-      "pl": "inventwo iconset for vis-2",
-      "uk": "inventwo iconset for vis-2",
-      "zh-cn": "inventwo iconset for vis-2"
+      "de": "Inventwo Iconset für Vis-2",
+      "ru": "набор иконок inventtwo для vis-2",
+      "pt": "invente dois ícones para vis-2",
+      "nl": "inventwo-iconset voor vis-2",
+      "fr": "jeu d'icônes inventwo pour vis-2",
+      "it": "set di icone inventwo per vis-2",
+      "es": "Conjunto de iconos invento para vis-2",
+      "pl": "zestaw ikon inventwo dla vis-2",
+      "uk": "Набір іконок inventwo для vis-2",
+      "zh-cn": "vis-2 的 inventwo 图标集"
     },
     "authors": [
       "skvarel <sk@inventwo.com>"

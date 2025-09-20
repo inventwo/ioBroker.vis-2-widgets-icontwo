@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (network & computer & alexa)
+
 ### 1.3.0 (2025-09-16)
 - new icons (plan doors)
 
