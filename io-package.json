@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.4.0",
+    "version": "1.5.0",
     "news": {
+      "1.5.0": {
+        "en": "new icons (garage & battery-storage & maps & spa)",
+        "de": "neue Symbole (Garage & Batteriespeicher & Karten & Wellnessbereich)",
+        "ru": "новые иконки (гараж и аккумуляторное хранилище и карты и спа)",
+        "pt": "novos ícones (garagem & armazenamento-de-bateria & mapas & spa)",
+        "nl": "nieuwe pictogrammen (garage & batterij-opslag & kaarten & spa)",
+        "fr": "nouveaux icônes (garage & stockage de batterie & cartes & spa)",
+        "it": "nuove icone (garage & batteria-stoccaggio & mappe & spa)",
+        "es": "nuevos iconos (garaje y almacenamiento de baterías y mapas y spa)",
+        "pl": "nowe ikony (garaż & magazyn baterii & mapy & spa)",
+        "uk": "нові піктограми (гараж & акумуляторна батарея & карти & spa)",
+        "zh-cn": "新图标（车库&电池储存&地图&SPA）"
+      },
       "1.4.0": {
         "en": "new icons (network & computer & alexa)",
         "de": "Neue Symbole (Netzwerk & Computer & Alexa)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (animowany znak uwagi i dzwonka)",
         "uk": "нові значки (анімована увага та дзвінок)",
         "zh-cn": "新图标（动态注意力和铃铛）"
-      },
-      "1.1.0": {
-        "en": "new icons (animated arrows)",
-        "de": "Neue Symbole (animierte Pfeile)",
-        "ru": "новые иконки (анимированные стрелки)",
-        "pt": "novos ícones (setas animadas)",
-        "nl": "nieuwe pictogrammen (geanimeerde pijlen)",
-        "fr": "nouveaux icônes (flèches animées)",
-        "it": "nuove icone (frecce animate)",
-        "es": "nuevos iconos (flechas animadas)",
-        "pl": "nowe ikony (animowane strzałki)",
-        "uk": "нові піктограми (анімовані стрілки)",
-        "zh-cn": "新图标（带动画箭头）"
       }
     },
     "titleLang": {

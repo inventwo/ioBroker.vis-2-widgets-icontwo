@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.5.0 (2025-09-21)
 - new icons (garage & battery-storage & maps & spa)
 
 ### 1.4.0 (2025-09-20)
