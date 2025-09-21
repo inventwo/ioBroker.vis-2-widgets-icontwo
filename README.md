@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (garage & battery-storage & maps & spa)
+
 ### 1.4.0 (2025-09-20)
 - new icons (network & computer & alexa)
 
