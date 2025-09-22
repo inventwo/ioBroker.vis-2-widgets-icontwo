@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+-new icons (weather-direction & people)
+
 ### 1.5.0 (2025-09-21)
 - new icons (garage & battery-storage & maps & spa)
 
