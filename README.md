@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.6.0 (2025-09-22)
 -new icons (weather-direction & people)
 
 ### 1.5.0 (2025-09-21)
