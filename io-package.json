@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "news": {
+      "1.7.0": {
+        "en": "new icons (waterfall & sprinkler & plan-doors)",
+        "de": "neue icons (wasserfall & sprinkler & plan-türe)",
+        "ru": "новые иконки (водопад и спринклер и план-двери)",
+        "pt": "novos ícones (queda de água e aspersor e portas de plano)",
+        "nl": "nieuwe pictogrammen (waterval & sprinkler & plan-deuren)",
+        "fr": "nouvelles icônes (chute d'eau & arroseur & plan-portes)",
+        "it": "nuove icone (waterfall & sprinkler & plan-doors)",
+        "es": "nuevos iconos (aguas \" puntales \" )",
+        "pl": "nowe ikony (wodospad i zraszacz i drzwi planowe)",
+        "uk": "нові іконки (водопад і посипка і план-дверцята)",
+        "zh-cn": "新图标(瀑布、喷洒机和规划门)"
+      },
       "1.6.0": {
         "en": "new icons (weather-direction & people)",
         "de": "neue icons (wetter-richtung & personen)",
@@ -78,19 +91,6 @@
         "it": "correzione del controllo dell'adattatore",
         "es": "corregir el verificador del adaptador",
         "pl": "napraw sprawdzanie adaptera",
-        "uk": "виправлено перевірку адаптера",
-        "zh-cn": "修复适配器检查器"
-      },
-      "1.2.1": {
-        "en": "fix adapter checker",
-        "de": "Adapter-Überprüfung reparieren",
-        "ru": "исправлена проверка адаптера",
-        "pt": "corrigir verificador de adaptador",
-        "nl": "adapter checker gerepareerd",
-        "fr": "corriger le vérificateur d'adaptateur",
-        "it": "corretto controllore dell'adattatore",
-        "es": "corregir el comprobador del adaptador",
-        "pl": "naprawa sprawdzarki adaptera",
         "uk": "виправлено перевірку адаптера",
         "zh-cn": "修复适配器检查器"
       }
