@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.8.0 (2025-09-28)
 - new icons (home assistant - brands & computer)
 
 ### 1.7.0 (2025-09-23)

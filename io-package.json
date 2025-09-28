@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.7.0",
+    "version": "1.8.0",
     "news": {
+      "1.8.0": {
+        "en": "new icons (home assistant - brands & computer)",
+        "de": "neue icons (home assistant - marken & computer)",
+        "ru": "новые значки (домашний помощник - бренды и компьютер)",
+        "pt": "novos ícones (assistente doméstico - marcas e computador)",
+        "nl": "nieuwe pictogrammen (home assistent - merken en computer)",
+        "fr": "nouvelles icônes (assistant à domicile - marques & ordinateur)",
+        "it": "nuove icone (assistente domestico - marche e computer)",
+        "es": "nuevos iconos (hogar asistente - marcas & ordenador)",
+        "pl": "nowe ikony (asystent domu - marki i komputer)",
+        "uk": "нові іконки (домашній помічник - бренди та комп'ютер)",
+        "zh-cn": "新图标( 家用助手 - 品牌和计算机)"
+      },
       "1.7.0": {
         "en": "new icons (waterfall & sprinkler & plan-doors)",
         "de": "neue icons (wasserfall & sprinkler & plan-türe)",
@@ -80,19 +93,6 @@
         "pl": "naprawa sprawdzania adaptera",
         "uk": "виправити перевірку адаптера",
         "zh-cn": "修复适配器检查程序"
-      },
-      "1.2.2": {
-        "en": "fix adapter checker",
-        "de": "Adapter-Checker repariert.",
-        "ru": "Исправление проверки адаптера",
-        "pt": "corrigir verificador de adaptador",
-        "nl": "Adapter checker repareren",
-        "fr": "correction du vérificateur d'adaptateur",
-        "it": "correzione del controllo dell'adattatore",
-        "es": "corregir el verificador del adaptador",
-        "pl": "napraw sprawdzanie adaptera",
-        "uk": "виправлено перевірку адаптера",
-        "zh-cn": "修复适配器检查器"
       }
     },
     "titleLang": {
