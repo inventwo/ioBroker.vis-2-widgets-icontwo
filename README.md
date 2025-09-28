@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (home assistant - brands & computer)
+
 ### 1.7.0 (2025-09-23)
 - new icons (waterfall & sprinkler & plan-doors)
 
