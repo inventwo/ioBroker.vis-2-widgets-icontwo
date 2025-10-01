@@ -8,7 +8,7 @@
         "@iobroker/types-vis-2": "^2.13.3",
         "sass": "^1.91.0",
         "typescript": "^5.9.2",
-        "vite": "7.1.5",
+        "vite": "7.1.7",
         "vite-plugin-svgr": "^4.5.0",
         "vite-tsconfig-paths": "^5.1.4"
     },
