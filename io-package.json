@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.8.0",
+    "version": "1.9.0",
     "news": {
+      "1.9.0": {
+        "en": "new icons (autodarts)",
+        "de": "neue icons (autodarts)",
+        "ru": "новые иконы (автодарты)",
+        "pt": "novos ícones (autodarts)",
+        "nl": "nieuwe pictogrammen (autodarts)",
+        "fr": "nouvelles icônes (autodarts)",
+        "it": "nuove icone (autodarts)",
+        "es": "nuevos iconos (autodarts)",
+        "pl": "nowe ikony (autodarts)",
+        "uk": "нові ікони (аутодартс)",
+        "zh-cn": "新图标( 自定义)"
+      },
       "1.8.0": {
         "en": "new icons (home assistant - brands & computer)",
         "de": "neue icons (home assistant - marken & computer)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (drzwi planowe)",
         "uk": "нові піктограми (двері плану)",
         "zh-cn": "新图标（平面图中的门）"
-      },
-      "1.2.3": {
-        "en": "fix adapter checker",
-        "de": "Adapter-Prüfung repariert",
-        "ru": "исправлена проверка адаптера",
-        "pt": "corrigir verificador do adaptador",
-        "nl": "adapter checker fixeren",
-        "fr": "corriger le vérificateur d'adaptateurs",
-        "it": "Risolvere il controllo dell'adattatore",
-        "es": "corregir comprobador del adaptador",
-        "pl": "naprawa sprawdzania adaptera",
-        "uk": "виправити перевірку адаптера",
-        "zh-cn": "修复适配器检查程序"
       }
     },
     "titleLang": {

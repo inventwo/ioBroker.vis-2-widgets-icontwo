@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.9.0 (2025-10-05)
 - new icons (autodarts)
 
 ### 1.8.0 (2025-09-28)
