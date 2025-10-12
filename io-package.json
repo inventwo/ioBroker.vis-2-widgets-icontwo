@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.10.0",
+    "version": "1.11.0",
     "news": {
+      "1.11.0": {
+        "en": "new icons (weather-sation)",
+        "de": "neue icons (wetter-sation)",
+        "ru": "новые иконы (погода)",
+        "pt": "novos ícones (weather- sation)",
+        "nl": "nieuwe pictogrammen (weer)",
+        "fr": "nouvelles icônes (sation météorologique)",
+        "it": "nuove icone (temporanee)",
+        "es": "nuevos iconos (tetera-sación)",
+        "pl": "nowe ikony (pogodytracja)",
+        "uk": "нові ікони (погода-сегментація)",
+        "zh-cn": "新图标( 天候)"
+      },
       "1.10.0": {
         "en": "new icons (weather-sation & people-sleep & lights-tree & thermostat)",
         "de": "neue icons (wetter-sation & personen-schlaf & licht-straße & thermostat)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (garaż & magazyn baterii & mapy & spa)",
         "uk": "нові піктограми (гараж & акумуляторна батарея & карти & spa)",
         "zh-cn": "新图标（车库&电池储存&地图&SPA）"
-      },
-      "1.4.0": {
-        "en": "new icons (network & computer & alexa)",
-        "de": "Neue Symbole (Netzwerk & Computer & Alexa)",
-        "ru": "новые иконки (сеть & компьютер & alexa)",
-        "pt": "novos ícones (rede & computador & alexa)",
-        "nl": "nieuwe pictogrammen (netwerk & computer & alexa)",
-        "fr": "nouveaux icônes (réseau & ordinateur & alexa)",
-        "it": "nuove icone (rete & computer & alexa)",
-        "es": "nuevos iconos (red & computadora & alexa)",
-        "pl": "nowe ikony (sieć & komputer & alexa)",
-        "uk": "нові іконки (мережа & комп'ютер & alexa)",
-        "zh-cn": "新图标（网络，电脑，Alexa）"
       }
     },
     "titleLang": {

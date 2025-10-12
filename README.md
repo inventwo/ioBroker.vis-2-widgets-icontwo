@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.11.0 (2025-10-12)
 - new icons (weather-sation)
 
 ### 1.10.0 (2025-10-12)
