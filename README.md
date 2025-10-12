@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (weather-sation & people-sleep & lights-tree & thermostat)
+
 ### 1.9.0 (2025-10-05)
 - new icons (autodarts)
 
