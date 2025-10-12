@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.11.0",
+    "version": "1.12.0",
     "news": {
+      "1.12.0": {
+        "en": "new icons (diagram)",
+        "de": "neue icons (diagramm)",
+        "ru": "новые иконки (диаграмма)",
+        "pt": "novos ícones (diagrama)",
+        "nl": "nieuwe pictogrammen (diagram)",
+        "fr": "nouvelles icônes (diagramme)",
+        "it": "nuove icone (diagramma)",
+        "es": "nuevos iconos (diagrama)",
+        "pl": "nowe ikony (diagram)",
+        "uk": "нові іконки (діаграма)",
+        "zh-cn": "新图标( 图表)"
+      },
       "1.11.0": {
         "en": "new icons (weather-sation)",
         "de": "neue icons (wetter-sation)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (kierunek pogody i ludzie)",
         "uk": "нові ікони (пожежно-направління та люди)",
         "zh-cn": "新图标( 天候方向和人员)"
-      },
-      "1.5.0": {
-        "en": "new icons (garage & battery-storage & maps & spa)",
-        "de": "neue Symbole (Garage & Batteriespeicher & Karten & Wellnessbereich)",
-        "ru": "новые иконки (гараж и аккумуляторное хранилище и карты и спа)",
-        "pt": "novos ícones (garagem & armazenamento-de-bateria & mapas & spa)",
-        "nl": "nieuwe pictogrammen (garage & batterij-opslag & kaarten & spa)",
-        "fr": "nouveaux icônes (garage & stockage de batterie & cartes & spa)",
-        "it": "nuove icone (garage & batteria-stoccaggio & mappe & spa)",
-        "es": "nuevos iconos (garaje y almacenamiento de baterías y mapas y spa)",
-        "pl": "nowe ikony (garaż & magazyn baterii & mapy & spa)",
-        "uk": "нові піктограми (гараж & акумуляторна батарея & карти & spa)",
-        "zh-cn": "新图标（车库&电池储存&地图&SPA）"
       }
     },
     "titleLang": {

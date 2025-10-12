@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.12.0 (2025-10-12)
 - new icons (diagram)
 
 ### 1.11.0 (2025-10-12)
