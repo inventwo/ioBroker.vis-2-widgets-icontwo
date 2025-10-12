@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.12.0",
+    "version": "1.13.0",
     "news": {
+      "1.13.0": {
+        "en": "new icons (diagram & network-NAS)",
+        "de": "neue Icons (Diagramm & Netzwerk-NAS)",
+        "ru": "новые значки (диаграмма и сеть-NAS)",
+        "pt": "novos ícones (diagrama e rede- NAS)",
+        "nl": "nieuwe pictogrammen (diagram & netwerk-NAS)",
+        "fr": "nouvelles icônes (diagramme et réseau-NAS)",
+        "it": "nuove icone (diagramma e rete-NAS)",
+        "es": "nuevos iconos (diagrama de red-NAS)",
+        "pl": "nowe ikony (diagram i sieci- NAS)",
+        "uk": "нові іконки (діаграма та мережа-NAS)",
+        "zh-cn": "新图标( 图表和网络- NAS)"
+      },
       "1.12.0": {
         "en": "new icons (diagram)",
         "de": "neue icons (diagramm)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (wodospad i zraszacz i drzwi planowe)",
         "uk": "нові іконки (водопад і посипка і план-дверцята)",
         "zh-cn": "新图标(瀑布、喷洒机和规划门)"
-      },
-      "1.6.0": {
-        "en": "new icons (weather-direction & people)",
-        "de": "neue icons (wetter-richtung & personen)",
-        "ru": "новые иконы (погодное направление и люди)",
-        "pt": "novos ícones (direção do tempo e pessoas)",
-        "nl": "nieuwe pictogrammen (weerrichting & personen)",
-        "fr": "nouvelles icônes (direction météorologique et personnes)",
-        "it": "nuove icone (diretta e persone)",
-        "es": "nuevos iconos (pueblo de la dirección del usuario)",
-        "pl": "nowe ikony (kierunek pogody i ludzie)",
-        "uk": "нові ікони (пожежно-направління та люди)",
-        "zh-cn": "新图标( 天候方向和人员)"
       }
     },
     "titleLang": {
