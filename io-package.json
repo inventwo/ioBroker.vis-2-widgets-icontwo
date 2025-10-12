@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.13.0",
+    "version": "1.14.0",
     "news": {
+      "1.14.0": {
+        "en": "new icons (weather)",
+        "de": "neue icons (wetter)",
+        "ru": "новые иконы (погода)",
+        "pt": "novos ícones (tempo)",
+        "nl": "nieuwe pictogrammen (weer)",
+        "fr": "nouvelles icônes (météo)",
+        "it": "nuove icone (piuttosto)",
+        "es": "nuevos iconos",
+        "pl": "nowe ikony (pogoda)",
+        "uk": "нові іконки (погода)",
+        "zh-cn": "新图标( 天候)"
+      },
       "1.13.0": {
         "en": "new icons (diagram & network-NAS)",
         "de": "neue Icons (Diagramm & Netzwerk-NAS)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (asystent domu - marki i komputer)",
         "uk": "нові іконки (домашній помічник - бренди та комп'ютер)",
         "zh-cn": "新图标( 家用助手 - 品牌和计算机)"
-      },
-      "1.7.0": {
-        "en": "new icons (waterfall & sprinkler & plan-doors)",
-        "de": "neue icons (wasserfall & sprinkler & plan-türe)",
-        "ru": "новые иконки (водопад и спринклер и план-двери)",
-        "pt": "novos ícones (queda de água e aspersor e portas de plano)",
-        "nl": "nieuwe pictogrammen (waterval & sprinkler & plan-deuren)",
-        "fr": "nouvelles icônes (chute d'eau & arroseur & plan-portes)",
-        "it": "nuove icone (waterfall & sprinkler & plan-doors)",
-        "es": "nuevos iconos (aguas \" puntales \" )",
-        "pl": "nowe ikony (wodospad i zraszacz i drzwi planowe)",
-        "uk": "нові іконки (водопад і посипка і план-дверцята)",
-        "zh-cn": "新图标(瀑布、喷洒机和规划门)"
       }
     },
     "titleLang": {

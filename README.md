@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.14.0 (2025-10-12)
 - new icons (weather)
 
 ### 1.13.0 (2025-10-12)
