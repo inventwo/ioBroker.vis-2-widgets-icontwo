@@ -33,11 +33,14 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (diagram)
+
 ### 1.11.0 (2025-10-12)
-- new icons (weather-sation)
+- new icons (weather-station)
 
 ### 1.10.0 (2025-10-12)
-- new icons (weather-sation & people-sleep & lights-tree & thermostat)
+- new icons (weather-station & people-sleep & lights-tree & thermostat)
 
 ### 1.9.0 (2025-10-05)
 - new icons (autodarts)
