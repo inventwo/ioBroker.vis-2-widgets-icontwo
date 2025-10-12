@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (weather)
+
 ### 1.13.0 (2025-10-12)
 - new icons (diagram & network-NAS)
 
