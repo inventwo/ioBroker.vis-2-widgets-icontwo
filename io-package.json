@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.9.0",
+    "version": "1.10.0",
     "news": {
+      "1.10.0": {
+        "en": "new icons (weather-sation & people-sleep & lights-tree & thermostat)",
+        "de": "neue icons (wetter-sation & personen-schlaf & licht-straße & thermostat)",
+        "ru": "новые иконки (погодная станция и люди-сон и огни-дерево и термостат)",
+        "pt": "novos ícones (weather-sation & people-sonep & lights-tree & termóstato)",
+        "nl": "nieuwe pictogrammen (weather-sation & people-sleep & lights-tree & thermostaat)",
+        "fr": "nouvelles icônes (température & sommeil des personnes & lumières-arbre & thermostat)",
+        "it": "nuove icone (temporanee & people-sleep & light-tree & thermostat)",
+        "es": "nuevos iconos ( termostato de árbol de luz de la estación de la noche)",
+        "pl": "nowe ikony (pogody- sation & people-sleep & lights- tree & termostat)",
+        "uk": "нові ікони (пожежно-збереження та люди-знімання та термостат)",
+        "zh-cn": "新建图标( 天候、 人眠、 灯树、 自动调温器)"
+      },
       "1.9.0": {
         "en": "new icons (autodarts)",
         "de": "neue icons (autodarts)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (sieć & komputer & alexa)",
         "uk": "нові іконки (мережа & комп'ютер & alexa)",
         "zh-cn": "新图标（网络，电脑，Alexa）"
-      },
-      "1.3.0": {
-        "en": "new icons (plan doors)",
-        "de": "neue Symbole (Zimmerpläne)",
-        "ru": "новые иконки (двери плана)",
-        "pt": "novos ícones (portas do plano)",
-        "nl": "nieuwe pictogrammen (plattegronddeuren)",
-        "fr": "nouveaux icônes (portes de plan)",
-        "it": "nuove icone (pianificazione porte)",
-        "es": "nuevos iconos (puertas del plano)",
-        "pl": "nowe ikony (drzwi planowe)",
-        "uk": "нові піктограми (двері плану)",
-        "zh-cn": "新图标（平面图中的门）"
       }
     },
     "titleLang": {
