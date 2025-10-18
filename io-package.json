@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.14.0",
+    "version": "1.15.0",
     "news": {
+      "1.15.0": {
+        "en": "new icons (computer-usv & network-fritzbox)",
+        "de": "neue icons (computer-usv & network-fritzbox)",
+        "ru": "новые значки (компьютер-usv и сетевой-fritzbox)",
+        "pt": "novos ícones (computer-usv & network-fritzbox)",
+        "nl": "nieuwe pictogrammen (computer-usv & netwerk-fritzbox)",
+        "fr": "nouvelles icônes (ordinateur-usv & réseau-fritzbox)",
+        "it": "nuove icone (computer-usv & network-fritzbox)",
+        "es": "nuevos iconos (computer-usv & red-fritzbox)",
+        "pl": "nowe ikony (computer- usv & network- fritzbox)",
+        "uk": "нові іконки (комп'ютер і мережа-фрицбокс)",
+        "zh-cn": "新图标( 计算机- usv & 网络- fritzbox)"
+      },
       "1.14.0": {
         "en": "new icons (weather)",
         "de": "neue icons (wetter)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (autodarts)",
         "uk": "нові ікони (аутодартс)",
         "zh-cn": "新图标( 自定义)"
-      },
-      "1.8.0": {
-        "en": "new icons (home assistant - brands & computer)",
-        "de": "neue icons (home assistant - marken & computer)",
-        "ru": "новые значки (домашний помощник - бренды и компьютер)",
-        "pt": "novos ícones (assistente doméstico - marcas e computador)",
-        "nl": "nieuwe pictogrammen (home assistent - merken en computer)",
-        "fr": "nouvelles icônes (assistant à domicile - marques & ordinateur)",
-        "it": "nuove icone (assistente domestico - marche e computer)",
-        "es": "nuevos iconos (hogar asistente - marcas & ordenador)",
-        "pl": "nowe ikony (asystent domu - marki i komputer)",
-        "uk": "нові іконки (домашній помічник - бренди та комп'ютер)",
-        "zh-cn": "新图标( 家用助手 - 品牌和计算机)"
       }
     },
     "titleLang": {
