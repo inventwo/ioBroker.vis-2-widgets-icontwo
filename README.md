@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.16.0 (2025-10-18)
 - new icons (tablets)
 
 ### 1.15.0 (2025-10-18)

@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.15.0",
+    "version": "1.16.0",
     "news": {
+      "1.16.0": {
+        "en": "new icons (tablets)",
+        "de": "neue icons (tablets)",
+        "ru": "новые иконки (планшеты)",
+        "pt": "novos ícones (comprimidos)",
+        "nl": "nieuwe pictogrammen (tabletten)",
+        "fr": "nouvelles icônes (tablettes)",
+        "it": "nuove icone (tablet)",
+        "es": "nuevos iconos (cuadros)",
+        "pl": "nowe ikony (tabletki)",
+        "uk": "нові іконки (таблетки)",
+        "zh-cn": "新图标( 表格)"
+      },
       "1.15.0": {
         "en": "new icons (computer-usv & network-fritzbox)",
         "de": "neue icons (computer-usv & network-fritzbox)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (pogody- sation & people-sleep & lights- tree & termostat)",
         "uk": "нові ікони (пожежно-збереження та люди-знімання та термостат)",
         "zh-cn": "新建图标( 天候、 人眠、 灯树、 自动调温器)"
-      },
-      "1.9.0": {
-        "en": "new icons (autodarts)",
-        "de": "neue icons (autodarts)",
-        "ru": "новые иконы (автодарты)",
-        "pt": "novos ícones (autodarts)",
-        "nl": "nieuwe pictogrammen (autodarts)",
-        "fr": "nouvelles icônes (autodarts)",
-        "it": "nuove icone (autodarts)",
-        "es": "nuevos iconos (autodarts)",
-        "pl": "nowe ikony (autodarts)",
-        "uk": "нові ікони (аутодартс)",
-        "zh-cn": "新图标( 自定义)"
       }
     },
     "titleLang": {
