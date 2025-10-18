@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (tablets)
+
 ### 1.15.0 (2025-10-18)
 - new icons (computer-usv & network-fritzbox)
 
