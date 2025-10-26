@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (thermal-heater & weather)
+
 ### 1.16.0 (2025-10-18)
 - new icons (tablets)
 
