@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.16.0",
+    "version": "1.17.0",
     "news": {
+      "1.17.0": {
+        "en": "new icons (thermal-heater & weather)",
+        "de": "neue ikonen (thermischer heizer & wetter)",
+        "ru": "новые иконки (тепло-нагреватель и погода)",
+        "pt": "novos ícones (aquecedor térmico e tempo)",
+        "nl": "nieuwe pictogrammen (thermische verwarming & weer)",
+        "fr": "nouvelles icônes (thermique et météo)",
+        "it": "nuove icone (termal-heater & meteo)",
+        "es": "nuevos iconos (calentador térmico y clima)",
+        "pl": "nowe ikony (ciepłownia i pogoda)",
+        "uk": "нові іконки (термальні та погодні)",
+        "zh-cn": "新图标(热热器和天气)"
+      },
       "1.16.0": {
         "en": "new icons (tablets)",
         "de": "neue icons (tablets)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (pogodytracja)",
         "uk": "нові ікони (погода-сегментація)",
         "zh-cn": "新图标( 天候)"
-      },
-      "1.10.0": {
-        "en": "new icons (weather-sation & people-sleep & lights-tree & thermostat)",
-        "de": "neue icons (wetter-sation & personen-schlaf & licht-straße & thermostat)",
-        "ru": "новые иконки (погодная станция и люди-сон и огни-дерево и термостат)",
-        "pt": "novos ícones (weather-sation & people-sonep & lights-tree & termóstato)",
-        "nl": "nieuwe pictogrammen (weather-sation & people-sleep & lights-tree & thermostaat)",
-        "fr": "nouvelles icônes (température & sommeil des personnes & lumières-arbre & thermostat)",
-        "it": "nuove icone (temporanee & people-sleep & light-tree & thermostat)",
-        "es": "nuevos iconos ( termostato de árbol de luz de la estación de la noche)",
-        "pl": "nowe ikony (pogody- sation & people-sleep & lights- tree & termostat)",
-        "uk": "нові ікони (пожежно-збереження та люди-знімання та термостат)",
-        "zh-cn": "新建图标( 天候、 人眠、 灯树、 自动调温器)"
       }
     },
     "titleLang": {

@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.17.0 (2025-10-26)
 - new icons (thermal-heater & weather)
 
 ### 1.16.0 (2025-10-18)
