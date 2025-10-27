@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (rooms)
+
 ### 1.17.0 (2025-10-26)
 - new icons (thermal-heater & weather)
 
