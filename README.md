@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.18.0 (2025-10-27)
 - new icons (rooms)
 
 ### 1.17.0 (2025-10-26)

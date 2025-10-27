@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.17.0",
+    "version": "1.18.0",
     "news": {
+      "1.18.0": {
+        "en": "new icons (rooms)",
+        "de": "neue icons (zimmer)",
+        "ru": "новые иконы (комнаты)",
+        "pt": "novos ícones (quartos)",
+        "nl": "nieuwe pictogrammen (kamers)",
+        "fr": "nouvelles icônes (chambres)",
+        "it": "nuove icone (stanze)",
+        "es": "nuevos iconos (oficinas)",
+        "pl": "nowe ikony (pokoje)",
+        "uk": "нові ікони (кімнати)",
+        "zh-cn": "新图标(房间)"
+      },
       "1.17.0": {
         "en": "new icons (thermal-heater & weather)",
         "de": "neue ikonen (thermischer heizer & wetter)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (diagram)",
         "uk": "нові іконки (діаграма)",
         "zh-cn": "新图标( 图表)"
-      },
-      "1.11.0": {
-        "en": "new icons (weather-sation)",
-        "de": "neue icons (wetter-sation)",
-        "ru": "новые иконы (погода)",
-        "pt": "novos ícones (weather- sation)",
-        "nl": "nieuwe pictogrammen (weer)",
-        "fr": "nouvelles icônes (sation météorologique)",
-        "it": "nuove icone (temporanee)",
-        "es": "nuevos iconos (tetera-sación)",
-        "pl": "nowe ikony (pogodytracja)",
-        "uk": "нові ікони (погода-сегментація)",
-        "zh-cn": "新图标( 天候)"
       }
     },
     "titleLang": {
