@@ -5,7 +5,7 @@
     "type": "module",
     "dependencies": {
         "@iobroker/adapter-react-v5": "^7.7.3",
-        "@iobroker/types-vis-2": "^2.13.6",
+        "@iobroker/types-vis-2": "^2.13.7",
         "sass": "^1.94.0",
         "typescript": "^5.9.3",
         "vite": "7.1.12",
