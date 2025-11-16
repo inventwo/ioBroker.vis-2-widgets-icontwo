@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.18.0",
+    "version": "1.19.0",
     "news": {
+      "1.19.0": {
+        "en": "new icons (alexa)",
+        "de": "neue icons (alexa)",
+        "ru": "новые иконы (alexa)",
+        "pt": "novos ícones (alexa)",
+        "nl": "nieuwe pictogrammen (alexa)",
+        "fr": "nouvelles icônes (alexa)",
+        "it": "nuove icone (alexa)",
+        "es": "nuevos iconos (alexa)",
+        "pl": "nowe ikony (alexa)",
+        "uk": "нові іконки (alexa)",
+        "zh-cn": "新图标( alexa)"
+      },
       "1.18.0": {
         "en": "new icons (rooms)",
         "de": "neue icons (zimmer)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (diagram i sieci- NAS)",
         "uk": "нові іконки (діаграма та мережа-NAS)",
         "zh-cn": "新图标( 图表和网络- NAS)"
-      },
-      "1.12.0": {
-        "en": "new icons (diagram)",
-        "de": "neue icons (diagramm)",
-        "ru": "новые иконки (диаграмма)",
-        "pt": "novos ícones (diagrama)",
-        "nl": "nieuwe pictogrammen (diagram)",
-        "fr": "nouvelles icônes (diagramme)",
-        "it": "nuove icone (diagramma)",
-        "es": "nuevos iconos (diagrama)",
-        "pl": "nowe ikony (diagram)",
-        "uk": "нові іконки (діаграма)",
-        "zh-cn": "新图标( 图表)"
       }
     },
     "titleLang": {

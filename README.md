@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.19.0 (2025-11-16)
 - new icons (alexa)
 
 ### 1.18.0 (2025-10-27)
