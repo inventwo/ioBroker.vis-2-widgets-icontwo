@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons (alexa)
+
 ### 1.18.0 (2025-10-27)
 - new icons (rooms)
 
