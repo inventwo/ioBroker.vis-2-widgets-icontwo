@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.19.0",
+    "version": "1.19.1",
     "news": {
+      "1.19.1": {
+        "en": "bug fix",
+        "de": "fehlerbehebung",
+        "ru": "исправление ошибок",
+        "pt": "correção de erros",
+        "nl": "bugfix",
+        "fr": "correction du bug",
+        "it": "correzione bug",
+        "es": "bug",
+        "pl": "błąd",
+        "uk": "виправлення помилок",
+        "zh-cn": "错误修复"
+      },
       "1.19.0": {
         "en": "new icons (alexa)",
         "de": "neue icons (alexa)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (pogoda)",
         "uk": "нові іконки (погода)",
         "zh-cn": "新图标( 天候)"
-      },
-      "1.13.0": {
-        "en": "new icons (diagram & network-NAS)",
-        "de": "neue Icons (Diagramm & Netzwerk-NAS)",
-        "ru": "новые значки (диаграмма и сеть-NAS)",
-        "pt": "novos ícones (diagrama e rede- NAS)",
-        "nl": "nieuwe pictogrammen (diagram & netwerk-NAS)",
-        "fr": "nouvelles icônes (diagramme et réseau-NAS)",
-        "it": "nuove icone (diagramma e rete-NAS)",
-        "es": "nuevos iconos (diagrama de red-NAS)",
-        "pl": "nowe ikony (diagram i sieci- NAS)",
-        "uk": "нові іконки (діаграма та мережа-NAS)",
-        "zh-cn": "新图标( 图表和网络- NAS)"
       }
     },
     "titleLang": {
