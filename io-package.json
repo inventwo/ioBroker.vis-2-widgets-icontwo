@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.19.1",
+    "version": "1.19.2",
     "news": {
+      "1.19.2": {
+        "en": "new icons (alexa)",
+        "de": "neue icons (alexa)",
+        "ru": "новые иконы (alexa)",
+        "pt": "novos ícones (alexa)",
+        "nl": "nieuwe pictogrammen (alexa)",
+        "fr": "nouvelles icônes (alexa)",
+        "it": "nuove icone (alexa)",
+        "es": "nuevos iconos (alexa)",
+        "pl": "nowe ikony (alexa)",
+        "uk": "нові іконки (alexa)",
+        "zh-cn": "新图标( alexa)"
+      },
       "1.19.1": {
         "en": "bug fix",
         "de": "fehlerbehebung",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (computer- usv & network- fritzbox)",
         "uk": "нові іконки (комп'ютер і мережа-фрицбокс)",
         "zh-cn": "新图标( 计算机- usv & 网络- fritzbox)"
-      },
-      "1.14.0": {
-        "en": "new icons (weather)",
-        "de": "neue icons (wetter)",
-        "ru": "новые иконы (погода)",
-        "pt": "novos ícones (tempo)",
-        "nl": "nieuwe pictogrammen (weer)",
-        "fr": "nouvelles icônes (météo)",
-        "it": "nuove icone (piuttosto)",
-        "es": "nuevos iconos",
-        "pl": "nowe ikony (pogoda)",
-        "uk": "нові іконки (погода)",
-        "zh-cn": "新图标( 天候)"
       }
     },
     "titleLang": {
