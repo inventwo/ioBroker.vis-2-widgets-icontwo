@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.19.2",
+    "version": "1.20.0",
     "news": {
+      "1.20.0": {
+        "en": "new icons (lights)",
+        "de": "neue icons (lichter)",
+        "ru": "новые иконы (свет)",
+        "pt": "novos ícones (luzes)",
+        "nl": "nieuwe pictogrammen (licht)",
+        "fr": "nouvelles icônes (lumières)",
+        "it": "nuove icone (luce)",
+        "es": "nuevos iconos (luz)",
+        "pl": "nowe ikony (światła)",
+        "uk": "нові іконки (світи)",
+        "zh-cn": "新图标( 灯光)"
+      },
       "1.19.2": {
         "en": "new icons (alexa)",
         "de": "neue icons (alexa)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (tabletki)",
         "uk": "нові іконки (таблетки)",
         "zh-cn": "新图标( 表格)"
-      },
-      "1.15.0": {
-        "en": "new icons (computer-usv & network-fritzbox)",
-        "de": "neue icons (computer-usv & network-fritzbox)",
-        "ru": "новые значки (компьютер-usv и сетевой-fritzbox)",
-        "pt": "novos ícones (computer-usv & network-fritzbox)",
-        "nl": "nieuwe pictogrammen (computer-usv & netwerk-fritzbox)",
-        "fr": "nouvelles icônes (ordinateur-usv & réseau-fritzbox)",
-        "it": "nuove icone (computer-usv & network-fritzbox)",
-        "es": "nuevos iconos (computer-usv & red-fritzbox)",
-        "pl": "nowe ikony (computer- usv & network- fritzbox)",
-        "uk": "нові іконки (комп'ютер і мережа-фрицбокс)",
-        "zh-cn": "新图标( 计算机- usv & 网络- fritzbox)"
       }
     },
     "titleLang": {

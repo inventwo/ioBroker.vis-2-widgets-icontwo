@@ -33,7 +33,7 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.20.0 (2025-11-17)
 - new icons (lights)
 
 ### 1.19.2 (2025-11-17)
