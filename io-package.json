@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.20.0",
+    "version": "1.21.0",
     "news": {
+      "1.21.0": {
+        "en": "new icons added (TV autodarts)",
+        "de": "neue Icons hinzugefügt (TV autodarts)",
+        "ru": "добавлены новые иконки (телевизионные автодарты)",
+        "pt": "novos ícones adicionados (autodarts de TV)",
+        "nl": "nieuwe pictogrammen toegevoegd (TV autodarts)",
+        "fr": "nouvelles icônes ajoutées (autodarts TV)",
+        "it": "nuove icone aggiunte (autodarts TV)",
+        "es": "nuevos iconos añadidos (TV autodarts)",
+        "pl": "dodano nowe ikony (autodoty TV)",
+        "uk": "додано нові іконки (ТВ автодартс)",
+        "zh-cn": "添加新图标( 电视自动传送)"
+      },
       "1.20.0": {
         "en": "new icons (lights)",
         "de": "neue icons (lichter)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (ciepłownia i pogoda)",
         "uk": "нові іконки (термальні та погодні)",
         "zh-cn": "新图标(热热器和天气)"
-      },
-      "1.16.0": {
-        "en": "new icons (tablets)",
-        "de": "neue icons (tablets)",
-        "ru": "новые иконки (планшеты)",
-        "pt": "novos ícones (comprimidos)",
-        "nl": "nieuwe pictogrammen (tabletten)",
-        "fr": "nouvelles icônes (tablettes)",
-        "it": "nuove icone (tablet)",
-        "es": "nuevos iconos (cuadros)",
-        "pl": "nowe ikony (tabletki)",
-        "uk": "нові іконки (таблетки)",
-        "zh-cn": "新图标( 表格)"
       }
     },
     "titleLang": {
