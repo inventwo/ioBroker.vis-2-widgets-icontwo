@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons added (TV autodarts)
+
 ### 1.20.0 (2025-11-17)
 - new icons (lights)
 
