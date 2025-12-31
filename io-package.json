@@ -3,32 +3,6 @@
     "name": "vis-2-widgets-icontwo",
     "version": "1.21.1",
     "news": {
-      "1.21.1": {
-        "en": "bugfix",
-        "de": "fehlerbehebung",
-        "ru": "исправление ошибок",
-        "pt": "correção de erros",
-        "nl": "bugfix",
-        "fr": "correction du bug",
-        "it": "bugfix",
-        "es": "bugfix",
-        "pl": "bugfix",
-        "uk": "панчохи",
-        "zh-cn": "错误修正"
-      },
-      "1.21.0": {
-        "en": "new icons added (TV autodarts)",
-        "de": "neue Icons hinzugefügt (TV autodarts)",
-        "ru": "добавлены новые иконки (телевизионные автодарты)",
-        "pt": "novos ícones adicionados (autodarts de TV)",
-        "nl": "nieuwe pictogrammen toegevoegd (TV autodarts)",
-        "fr": "nouvelles icônes ajoutées (autodarts TV)",
-        "it": "nuove icone aggiunte (autodarts TV)",
-        "es": "nuevos iconos añadidos (TV autodarts)",
-        "pl": "dodano nowe ikony (autodoty TV)",
-        "uk": "додано нові іконки (ТВ автодартс)",
-        "zh-cn": "添加新图标( 电视自动传送)"
-      },
       "1.20.0": {
         "en": "new icons (lights)",
         "de": "neue icons (lichter)",
