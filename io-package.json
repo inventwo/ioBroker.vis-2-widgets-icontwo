@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.21.0",
+    "version": "1.21.1",
     "news": {
+      "1.21.1": {
+        "en": "bugfix",
+        "de": "fehlerbehebung",
+        "ru": "исправление ошибок",
+        "pt": "correção de erros",
+        "nl": "bugfix",
+        "fr": "correction du bug",
+        "it": "bugfix",
+        "es": "bugfix",
+        "pl": "bugfix",
+        "uk": "панчохи",
+        "zh-cn": "错误修正"
+      },
       "1.21.0": {
         "en": "new icons added (TV autodarts)",
         "de": "neue Icons hinzugefügt (TV autodarts)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (pokoje)",
         "uk": "нові ікони (кімнати)",
         "zh-cn": "新图标(房间)"
-      },
-      "1.17.0": {
-        "en": "new icons (thermal-heater & weather)",
-        "de": "neue ikonen (thermischer heizer & wetter)",
-        "ru": "новые иконки (тепло-нагреватель и погода)",
-        "pt": "novos ícones (aquecedor térmico e tempo)",
-        "nl": "nieuwe pictogrammen (thermische verwarming & weer)",
-        "fr": "nouvelles icônes (thermique et météo)",
-        "it": "nuove icone (termal-heater & meteo)",
-        "es": "nuevos iconos (calentador térmico y clima)",
-        "pl": "nowe ikony (ciepłownia i pogoda)",
-        "uk": "нові іконки (термальні та погодні)",
-        "zh-cn": "新图标(热热器和天气)"
       }
     },
     "titleLang": {
