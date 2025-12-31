@@ -33,6 +33,9 @@
 <!--
     ### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- new icons added (TV amazon & echo)
+
 ### 1.21.2 (2025-12-31)
 - bugfix
 
