@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.21.2",
+    "version": "1.22.0",
     "news": {
+      "1.22.0": {
+        "en": "new icons added (TV amazon & echo)",
+        "de": "neue Icons hinzugefügt (TV Amazon & Echo)",
+        "ru": "добавлены новые значки (TV amazon & echo)",
+        "pt": "novos ícones adicionados (TV amazon & eco)",
+        "nl": "nieuwe pictogrammen toegevoegd (TV amazon & echo)",
+        "fr": "nouvelles icônes ajoutées (TV amazon & echo)",
+        "it": "nuove icone aggiunte (TV amazon & echo)",
+        "es": "nuevos iconos añadidos (TV Amazon eco)",
+        "pl": "dodano nowe ikony (TV Amazon & echo)",
+        "uk": "нові іконки додано (TV Amazon & echo)",
+        "zh-cn": "添加新图标( TV amazon 和回声)"
+      },
       "1.21.2": {
         "en": "bugfix",
         "de": "fehlerbehebung",
