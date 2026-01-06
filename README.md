@@ -29,15 +29,30 @@
 ![Vorschau](admin/animated.png)
 
 ## Changelog
-
 <!--
-    ### **WORK IN PROGRESS**
+	Placeholder for the next version (at the beginning of the line):
+	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- Added: CHANGELOG_OLD.md
+
 ### 1.22.1 (2026-01-03)
 - Fix Copyright Year
 
 ### 1.22.0 (2025-12-31)
 - new icons added (TV amazon & echo)
+
+### 1.21.2 (2025-12-31)
+- bugfix
+
+### 1.21.1 (2025-12-31)
+- bugfix
+
+### 1.21.0 (2025-12-31)
+- new icons added (TV autodarts)
+
+### 1.20.0 (2025-11-17)
+- new icons (lights)
 
 ### 1.21.2 (2025-12-31)
 - bugfix
@@ -239,6 +254,9 @@
 
 ### 0.1.0 (2025-08-30)
 - Release with first icons
+
+## Older changes
+- [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
 
 ## License
 
