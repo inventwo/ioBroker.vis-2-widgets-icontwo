@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.22.1",
+    "version": "1.22.2",
     "news": {
+      "1.22.2": {
+        "en": "Added: CHANGELOG_OLD.md",
+        "de": "Hinzugefügt: CHANGELOG_OLD.md",
+        "ru": "Добавлено: CHANGELOG_OLD.md",
+        "pt": "Adicionado: MUDANÇA_OLD.md",
+        "nl": "Toegevoegd: VERANDERINGLOG_OLD.md",
+        "fr": "Ajouté : CHANGELOG_OLD.md",
+        "it": "Aggiunto: CHANGELOG_OLD.md",
+        "es": "Añadido: CHANGELOG_OLD.md",
+        "pl": "Dodano: CHANGELOG _ OLD.md",
+        "uk": "Доданий: CHANGELOG_OLD.md",
+        "zh-cn": "添加:变换组_OLD.md"
+      },
       "1.22.1": {
         "en": "Fix Copyright Year",
         "de": "Urheberrecht Jahr",
@@ -80,19 +93,6 @@
         "pl": "błąd",
         "uk": "виправлення помилок",
         "zh-cn": "错误修复"
-      },
-      "1.19.0": {
-        "en": "new icons (alexa)",
-        "de": "neue icons (alexa)",
-        "ru": "новые иконы (alexa)",
-        "pt": "novos ícones (alexa)",
-        "nl": "nieuwe pictogrammen (alexa)",
-        "fr": "nouvelles icônes (alexa)",
-        "it": "nuove icone (alexa)",
-        "es": "nuevos iconos (alexa)",
-        "pl": "nowe ikony (alexa)",
-        "uk": "нові іконки (alexa)",
-        "zh-cn": "新图标( alexa)"
       }
     },
     "titleLang": {
