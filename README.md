@@ -30,9 +30,11 @@
 
 ## Changelog
 <!--
-	Placeholder for the next version (at the beginning of the line):
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- Added: New icons (player)
+
 ### 1.22.2 (2026-01-06)
 - Added: CHANGELOG_OLD.md
 

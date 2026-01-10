@@ -1,5 +1,5 @@
 # Older changes
-[back to start page](README.md)
+
 ## 1.21.0 (2025-12-31)
 - new icons added (TV autodarts)
 
