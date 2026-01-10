@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.22.2",
+    "version": "1.23.0",
     "news": {
+      "1.23.0": {
+        "en": "Added: New icons (player)",
+        "de": "Hinzugefügt: Neue Symbole (Spieler)",
+        "ru": "Добавлено: Новые иконки (игрок)",
+        "pt": "Adicionado: Novos ícones (jogador)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (speler)",
+        "fr": "Ajouté : Nouvelles icônes (joueur)",
+        "it": "Aggiunto: Nuove icone (giocatore)",
+        "es": "Añadido: Nuevos iconos (jugador)",
+        "pl": "Dodano: Nowe ikony (gracz)",
+        "uk": "Доданий: Нові іконки (плеєр)",
+        "zh-cn": "添加: 新图标( 玩家)"
+      },
       "1.22.2": {
         "en": "Added: CHANGELOG_OLD.md",
         "de": "Hinzugefügt: CHANGELOG_OLD.md",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (alexa)",
         "uk": "нові іконки (alexa)",
         "zh-cn": "新图标( alexa)"
-      },
-      "1.19.1": {
-        "en": "bug fix",
-        "de": "fehlerbehebung",
-        "ru": "исправление ошибок",
-        "pt": "correção de erros",
-        "nl": "bugfix",
-        "fr": "correction du bug",
-        "it": "correzione bug",
-        "es": "bug",
-        "pl": "błąd",
-        "uk": "виправлення помилок",
-        "zh-cn": "错误修复"
       }
     },
     "titleLang": {

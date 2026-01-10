@@ -1,4 +1,6 @@
 # Older changes
+## 1.21.1 (2025-12-31)
+- bugfix
 
 ## 1.21.0 (2025-12-31)
 - new icons added (TV autodarts)

@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.23.0 (2026-01-10)
 - Added: New icons (player)
 
 ### 1.22.2 (2026-01-06)
@@ -45,9 +45,6 @@
 - new icons added (TV amazon & echo)
 
 ### 1.21.2 (2025-12-31)
-- bugfix
-
-### 1.21.1 (2025-12-31)
 - bugfix
 
 ## Older changes
