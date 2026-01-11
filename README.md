@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- Added: New icons (hobby darts)
+
 ### 1.23.0 (2026-01-10)
 - Added: New icons (player)
 
