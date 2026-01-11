@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.24.0 (2026-01-11)
 - Added: New icons (hobby darts)
 
 ### 1.23.0 (2026-01-10)
@@ -46,9 +46,6 @@
 
 ### 1.22.0 (2025-12-31)
 - new icons added (TV amazon & echo)
-
-### 1.21.2 (2025-12-31)
-- bugfix
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

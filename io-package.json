@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.23.0",
+    "version": "1.24.0",
     "news": {
+      "1.24.0": {
+        "en": "Added: New icons (hobby darts)",
+        "de": "Hinzugefügt: Neue Icons (hobby Darts)",
+        "ru": "Добавлено: Новые иконки (хобби дартс)",
+        "pt": "Adicionado: Novos ícones (dardos hobby)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (hobby darts)",
+        "fr": "Ajouté: Nouvelles icônes (des fléchettes hobby)",
+        "it": "Aggiunto: Nuove icone (hobby darts)",
+        "es": "Añadido: Nuevos iconos",
+        "pl": "Dodano: Nowe ikony (rzutki hobby)",
+        "uk": "Доданий: Нові іконки (hobby darts)",
+        "zh-cn": "添加: 新图标( 豪华飞镖)"
+      },
       "1.23.0": {
         "en": "Added: New icons (player)",
         "de": "Hinzugefügt: Neue Symbole (Spieler)",
@@ -80,19 +93,6 @@
         "pl": "nowe ikony (światła)",
         "uk": "нові іконки (світи)",
         "zh-cn": "新图标( 灯光)"
-      },
-      "1.19.2": {
-        "en": "new icons (alexa)",
-        "de": "neue icons (alexa)",
-        "ru": "новые иконы (alexa)",
-        "pt": "novos ícones (alexa)",
-        "nl": "nieuwe pictogrammen (alexa)",
-        "fr": "nouvelles icônes (alexa)",
-        "it": "nuove icone (alexa)",
-        "es": "nuevos iconos (alexa)",
-        "pl": "nowe ikony (alexa)",
-        "uk": "нові іконки (alexa)",
-        "zh-cn": "新图标( alexa)"
       }
     },
     "titleLang": {
