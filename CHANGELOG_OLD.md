@@ -1,4 +1,7 @@
 # Older changes
+## 1.22.0 (2025-12-31)
+- new icons added (TV amazon & echo)
+
 ## 1.21.2 (2025-12-31)
 - bugfix
 

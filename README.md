@@ -32,9 +32,10 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.25.0 (2026-01-12)
 - Added: New icons (navigation gear & wrench)
-- 
+-
+
 ### 1.24.0 (2026-01-11)
 - Added: New icons (hobby darts)
 
@@ -46,9 +47,6 @@
 
 ### 1.22.1 (2026-01-03)
 - Fix Copyright Year
-
-### 1.22.0 (2025-12-31)
-- new icons added (TV amazon & echo)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
