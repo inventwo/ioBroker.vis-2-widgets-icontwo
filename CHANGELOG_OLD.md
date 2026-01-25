@@ -1,4 +1,7 @@
 # Older changes
+## 1.22.1 (2026-01-03)
+- Fix Copyright Year
+
 ## 1.22.0 (2025-12-31)
 - new icons added (TV amazon & echo)
 

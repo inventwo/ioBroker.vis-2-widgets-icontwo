@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.26.0 (2026-01-25)
 - Added: New icons (rooms)
 
 ### 1.25.0 (2026-01-12)
@@ -46,9 +46,6 @@
 
 ### 1.22.2 (2026-01-06)
 - Added: CHANGELOG_OLD.md
-
-### 1.22.1 (2026-01-03)
-- Fix Copyright Year
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
