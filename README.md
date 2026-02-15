@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Fixed: Issue 61 SUGGESTIONS
+
 ### 1.26.0 (2026-01-25)
 - Added: New icons (rooms)
 
