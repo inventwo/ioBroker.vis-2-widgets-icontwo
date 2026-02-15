@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.26.0",
+    "version": "1.26.1",
     "news": {
+      "1.26.1": {
+        "en": "Fixed: Issue 61 SUGGESTIONS",
+        "de": "Behoben: Ausgabe 61 SUGGESTIONEN",
+        "ru": "Исправлено: Выпуск 61 Предложения",
+        "pt": "Fixação: Emissão 61 SUGESTÕES",
+        "nl": "Vast: nummer 61 SUGGESTIES",
+        "fr": "Correction : Numéro 61 SUGGESTIONS",
+        "it": "Risolto: Fascicolo 61 SUGGERIMENTI",
+        "es": "Corregido: Número 61",
+        "pl": "Stała: Wydanie 61 SUGGESCJI",
+        "uk": "Виправлено: Випуск 61 СУГЕСІЇ",
+        "zh-cn": "固定:第61期建议"
+      },
       "1.26.0": {
         "en": "Added: New icons (rooms)",
         "de": "Hinzugefügt: Neue Icons (Zimmer)",
@@ -80,19 +93,6 @@
         "pl": "Napraw rok Copyright",
         "uk": "Фіксація авторського права",
         "zh-cn": "修复版权年"
-      },
-      "1.22.0": {
-        "en": "new icons added (TV amazon & echo)",
-        "de": "neue Icons hinzugefügt (TV Amazon & Echo)",
-        "ru": "добавлены новые значки (TV amazon & echo)",
-        "pt": "novos ícones adicionados (TV amazon & eco)",
-        "nl": "nieuwe pictogrammen toegevoegd (TV amazon & echo)",
-        "fr": "nouvelles icônes ajoutées (TV amazon & echo)",
-        "it": "nuove icone aggiunte (TV amazon & echo)",
-        "es": "nuevos iconos añadidos (TV Amazon eco)",
-        "pl": "dodano nowe ikony (TV Amazon & echo)",
-        "uk": "нові іконки додано (TV Amazon & echo)",
-        "zh-cn": "添加新图标( TV amazon 和回声)"
       }
     },
     "titleLang": {

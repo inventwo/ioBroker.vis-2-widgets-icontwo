@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.26.1 (2026-02-15)
 - (skvarel) Fixed: Issue 61 SUGGESTIONS
 
 ### 1.26.0 (2026-01-25)
@@ -46,9 +46,6 @@
 
 ### 1.23.0 (2026-01-10)
 - Added: New icons (player)
-
-### 1.22.2 (2026-01-06)
-- Added: CHANGELOG_OLD.md
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

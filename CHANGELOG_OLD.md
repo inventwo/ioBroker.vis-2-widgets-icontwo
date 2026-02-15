@@ -1,4 +1,7 @@
 # Older changes
+## 1.22.2 (2026-01-06)
+- Added: CHANGELOG_OLD.md
+
 ## 1.22.1 (2026-01-03)
 - Fix Copyright Year
 
