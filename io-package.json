@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.26.1",
+    "version": "1.26.2",
     "news": {
+      "1.26.2": {
+        "en": "Updated: @alcalzone/release-script dependencies to latest versions",
+        "de": "Aktualisiert: @alcalzone/release-script Abhängigkeiten auf neueste Versionen",
+        "ru": "Обновлено: @alcalzone/releasescript-зависимости от последних версий",
+        "pt": "Atualizado: @alcalzone/release-script dependencies to latest versions",
+        "nl": "Bijgewerkt: @alcalzone/release-script afhankelijkheden van de nieuwste versies",
+        "fr": "Mise à jour : @alcalzone/release-script dépendances aux dernières versions",
+        "it": "Aggiornato: @alcalzone/release-script dipendenze alle ultime versioni",
+        "es": "Actualizado: dependencia @alcalzone/release-script a las últimas versiones",
+        "pl": "Aktualizacja: @ alcalzone / release- script zależności do najnowszych wersji",
+        "uk": "Оновлено: @alcalzone/видання-script залежностей до останніх версій",
+        "zh-cn": "更新: @alcalzone/释放-script 依赖到最新版本"
+      },
       "1.26.1": {
         "en": "Fixed: Issue 61 SUGGESTIONS",
         "de": "Behoben: Ausgabe 61 SUGGESTIONEN",
@@ -80,19 +93,6 @@
         "pl": "Dodano: CHANGELOG _ OLD.md",
         "uk": "Доданий: CHANGELOG_OLD.md",
         "zh-cn": "添加:变换组_OLD.md"
-      },
-      "1.22.1": {
-        "en": "Fix Copyright Year",
-        "de": "Urheberrecht Jahr",
-        "ru": "Год исправления авторских прав",
-        "pt": "Corrigir o Ano de Direitos Autorais",
-        "nl": "Copyrightjaar repareren",
-        "fr": "Fixer l'année du droit d'auteur",
-        "it": "Fissare l'Anno Copyright",
-        "es": "Ejercicio de derechos de autor",
-        "pl": "Napraw rok Copyright",
-        "uk": "Фіксація авторського права",
-        "zh-cn": "修复版权年"
       }
     },
     "titleLang": {

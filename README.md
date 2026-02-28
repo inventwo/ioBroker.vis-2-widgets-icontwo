@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.26.2 (2026-02-28)
 - (skvarel) Updated: @alcalzone/release-script dependencies to latest versions
 
 ### 1.26.1 (2026-02-15)
@@ -46,9 +46,6 @@
 
 ### 1.24.0 (2026-01-11)
 - Added: New icons (hobby darts)
-
-### 1.23.0 (2026-01-10)
-- Added: New icons (player)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
