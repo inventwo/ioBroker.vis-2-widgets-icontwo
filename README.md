@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Updated: @alcalzone/release-script dependencies to latest versions
+
 ### 1.26.1 (2026-02-15)
 - (skvarel) Fixed: Issue 61 SUGGESTIONS
 
