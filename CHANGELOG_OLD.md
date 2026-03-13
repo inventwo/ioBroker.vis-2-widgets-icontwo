@@ -1,4 +1,7 @@
 # Older changes
+## 1.25.0 (2026-01-12)
+- Added: New icons (navigation gear & wrench)
+
 ## 1.24.0 (2026-01-11)
 - Added: New icons (hobby darts)
 

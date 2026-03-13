@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.26.4 (2026-03-13)
 - (skvarel) Fixed: Lint errors - corrected line endings and excluded src-icon-set from linting
 
 ### 1.26.3 (2026-03-13)
@@ -47,9 +47,6 @@
 
 ### 1.26.0 (2026-01-25)
 - Added: New icons (rooms)
-
-### 1.25.0 (2026-01-12)
-- Added: New icons (navigation gear & wrench)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.26.3",
+    "version": "1.26.4",
     "news": {
+      "1.26.4": {
+        "en": "Fixed: Lint errors - corrected line endings and excluded src-icon-set from linting",
+        "de": "Behoben: Lint-Fehler - korrigierte Zeilenenden und ausgeschlossen Src-icon-Set aus Linting",
+        "ru": "Исправлено: Ошибки Линта - исправленные окончания линий и исключены src-icon-set из подкладки",
+        "pt": "Corrigido: Erros do Lint - terminações de linha corrigidas e excluídos src-icon-set do linting",
+        "nl": "Fixed: Lint fouten - gecorrigeerd regeleinden en uitgesloten src-icon-set van slinting",
+        "fr": "Correction : Erreurs de lin - fin de ligne corrigée et exclusion de src-icon-set du lintage",
+        "it": "Risolto: Errori di Lint - terminazioni di linea corrette ed esclusi src-icon-set da linting",
+        "es": "Corregido: Errores de lint - final de línea corregida y excluido src-icon-set de forro",
+        "pl": "Naprawiono: Błędy linków - poprawione zakończenia linii i wyłączono src- icon- set z lintowania",
+        "uk": "Виправлено: Зміщення помилок - виправлені закінчення рядків і виключені сrc-icon-set з linting",
+        "zh-cn": "固定: Lint 错误 - 校正的行尾和从 Linting 中排除 src-icon 设置"
+      },
       "1.26.3": {
         "en": "Fixed: Issue 71 - Added check-and-lint job to workflow\nFixed: Issue 71 - Renamed automerge workflow to expected filename",
         "de": "Behoben: Ausgabe 71 - Zusätzlicher Check-and-lint Job zum Workflow\nBehoben: Ausgabe 71 - Umbenannt automerge Workflow zu erwartetem Dateinamen",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (rzutki hobby)",
         "uk": "Доданий: Нові іконки (hobby darts)",
         "zh-cn": "添加: 新图标( 豪华飞镖)"
-      },
-      "1.23.0": {
-        "en": "Added: New icons (player)",
-        "de": "Hinzugefügt: Neue Symbole (Spieler)",
-        "ru": "Добавлено: Новые иконки (игрок)",
-        "pt": "Adicionado: Novos ícones (jogador)",
-        "nl": "Toegevoegd: Nieuwe pictogrammen (speler)",
-        "fr": "Ajouté : Nouvelles icônes (joueur)",
-        "it": "Aggiunto: Nuove icone (giocatore)",
-        "es": "Añadido: Nuevos iconos (jugador)",
-        "pl": "Dodano: Nowe ikony (gracz)",
-        "uk": "Доданий: Нові іконки (плеєр)",
-        "zh-cn": "添加: 新图标( 玩家)"
       }
     },
     "titleLang": {
