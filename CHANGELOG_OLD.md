@@ -1,7 +1,4 @@
 # Older changes
-## 1.26.1 (2026-02-15)
-- (skvarel) Fixed: Issue 61 SUGGESTIONS
-
 ## 1.26.0 (2026-01-25)
 - Added: New icons (rooms)
 
