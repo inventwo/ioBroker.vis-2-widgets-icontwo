@@ -39,6 +39,11 @@ jobs:
             - name: Install Dependencies
               run: npm ci
 
+            - name: Perform Checks
+              uses: ioBroker/testing-action-check@v1
+              with:
+                  node-version: '20.x'
+
             - name: Lint root package
               run: npm run lint --if-present
 

@@ -16,19 +16,6 @@
         "uk": "Виправлено: Зміщення помилок - виправлені закінчення рядків і виключені сrc-icon-set з linting",
         "zh-cn": "固定: Lint 错误 - 校正的行尾和从 Linting 中排除 src-icon 设置"
       },
-      "1.26.3": {
-        "en": "Fixed: Issue 71 - Added check-and-lint job to workflow\nFixed: Issue 71 - Renamed automerge workflow to expected filename",
-        "de": "Behoben: Ausgabe 71 - Zusätzlicher Check-and-lint Job zum Workflow\nBehoben: Ausgabe 71 - Umbenannt automerge Workflow zu erwartetem Dateinamen",
-        "ru": "Fixed: Issue 71 - Added check-and-lint job to workflow (недоступная ссылка)\nИсправлено: Вопрос 71 - Переименованный рабочий процесс Automerge в ожидаемое имя файла",
-        "pt": "Corrigido: Problema 71 - Adicionado trabalho de check-and-lint ao fluxo de trabalho\nFixado: Problema 71 - Renomeado fluxo de trabalho de auto-fusão para o nome esperado",
-        "nl": "Vast: Nummer 71 - check-and-linttaak toegevoegd aan workflow\nVast: uitgave 71 - Gehernoemd automatisch workflow naar verwachte bestandsnaam",
-        "fr": "Correction : Numéro 71 - Ajout d'une tâche de vérification et d'exécution au workflow\nCorrection : émission 71 - Renommé automerge workflow vers le nom de fichier attendu",
-        "it": "Risolto: Numero 71 - Aggiunto il lavoro di check-and-lint al flusso di lavoro\nRisolto: Problema 71 - Flusso di lavoro automatico rinominato al nome del file previsto",
-        "es": "Corregido: Número 71 - Añadido trabajo de check-and-lint para el flujo de trabajo\nCorregido: Cuestión 71 - Renombrado automerge workflow to expected filename",
-        "pl": "Naprawiono: Wydanie 71 - Dodano zadanie check- and- lint do przepływu pracy\nStałe: Wydanie 71 - Zmieniono nazwę pracy automatów na oczekiwaną nazwę pliku",
-        "uk": "Виправлено: Випуск 71 - Додано контрольну роботу для робочого процесу\nВиправлено: Випуск 71 - Перейменований автоматичний робочий процес для очікуваного імені файлу",
-        "zh-cn": "固定: 71 期 - 添加到工作流程中的检查和挂载工作\n固定: 问题 71 - 自动合并工作流程重命名为预期文件名"
-      },
       "1.26.2": {
         "en": "Updated: @alcalzone/release-script dependencies to latest versions",
         "de": "Aktualisiert: @alcalzone/release-script Abhängigkeiten auf neueste Versionen",
