@@ -1,4 +1,7 @@
 # Older changes
+## 1.24.0 (2026-01-11)
+- Added: New icons (hobby darts)
+
 ## 1.23.0 (2026-01-10)
 - Added: New icons (player)
 

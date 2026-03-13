@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.26.3 (2026-03-13)
 - (skvarel) Fixed: Issue 71 - Added check-and-lint job to workflow
 - (skvarel) Fixed: Issue 71 - Renamed automerge workflow to expected filename
 
@@ -47,9 +47,6 @@
 
 ### 1.25.0 (2026-01-12)
 - Added: New icons (navigation gear & wrench)
-
-### 1.24.0 (2026-01-11)
-- Added: New icons (hobby darts)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
