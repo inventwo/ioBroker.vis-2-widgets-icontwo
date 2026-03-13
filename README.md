@@ -32,6 +32,10 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Fixed: Issue 71 - Added check-and-lint job to workflow
+- (skvarel) Fixed: Issue 71 - Renamed automerge workflow to expected filename
+
 ### 1.26.2 (2026-02-28)
 - (skvarel) Updated: @alcalzone/release-script dependencies to latest versions
 
