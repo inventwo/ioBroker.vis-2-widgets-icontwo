@@ -22,6 +22,7 @@ export default [
             'vite.config.*',
             'vite-env.d.ts',
             'public/',
+            'src-icon-set/',
             'src/Components/blockly-plugins/**/*',
             'src/Components/BlocklyEditorTS.tsx',
         ],

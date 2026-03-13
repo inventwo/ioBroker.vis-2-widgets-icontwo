@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Fixed: Lint errors - corrected line endings and excluded src-icon-set from linting
+
 ### 1.26.3 (2026-03-13)
 - (skvarel) Fixed: Issue 71 - Added check-and-lint job to workflow
 - (skvarel) Fixed: Issue 71 - Renamed automerge workflow to expected filename
