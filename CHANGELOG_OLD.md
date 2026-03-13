@@ -1,4 +1,7 @@
 # Older changes
+## 1.26.0 (2026-01-25)
+- Added: New icons (rooms)
+
 ## 1.25.0 (2026-01-12)
 - Added: New icons (navigation gear & wrench)
 
