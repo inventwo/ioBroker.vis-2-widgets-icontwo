@@ -12,8 +12,7 @@ updates:
 
   - package-ecosystem: "npm"
     directories:
-      - "/"
-      - "/src-widgets"
+      - "**/*"
     schedule:
       interval: "cron"
       timezone: "Europe/Berlin"
