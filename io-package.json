@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.26.6",
+    "version": "1.27.0",
     "news": {
+      "1.27.0": {
+        "en": "Added: New icons (diagram)",
+        "de": "Hinzugefügt: Neue Icons (Diagramm)",
+        "ru": "Добавлено: Новые значки (диаграмма)",
+        "pt": "Adicionado: Novos ícones (diagrama)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (diagram)",
+        "fr": "Ajouté: Nouvelles icônes (diagramme)",
+        "it": "Aggiunto: Nuove icone (diagramma)",
+        "es": "Añadido: Nuevos iconos (diagrama)",
+        "pl": "Dodano: Nowe ikony (diagram)",
+        "uk": "Доданий: Нові іконки (діаграма)",
+        "zh-cn": "添加: 新图标( 图表)"
+      },
       "1.26.6": {
         "en": "Fixed: Issue 71 W8905 - Updated Dependabot config to use wildcard pattern for directories",
         "de": "Fix: Ausgabe 71 W8905 - Aktualisiert Dependabot config, um Wildcard-Muster für Verzeichnisse zu verwenden",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (pokoje)",
         "uk": "Доданий: Нові іконки (кімнати)",
         "zh-cn": "添加:新图标(房间)"
-      },
-      "1.25.0": {
-        "en": "Added: New icons (navigation gear & wrench)\n",
-        "de": "Hinzugefügt: Neue Icons (Navigation Getriebe & Schraubenschlüssel)\n",
-        "ru": "Добавлено: Новые значки (навигационное снаряжение и гаечный ключ)\n",
-        "pt": "Adicionado: Novos ícones (margem de navegação & chave inglesa)\n",
-        "nl": "Toegevoegd: nieuwe pictogrammen (navigatie versnelling & moersleutel)\n",
-        "fr": "Ajouté : Nouvelles icônes (engin de navigation et clé)\n",
-        "it": "Aggiunto: Nuove icone (navigazione ingranaggi & chiave)\n",
-        "es": "Añadido: Nuevos iconos (engranaje de navegación)\n",
-        "pl": "Dodano: Nowe ikony (sprzęt nawigacyjny i klucz)\n",
-        "uk": "Доданий: Нові іконки (навігація передач і траншей)\n",
-        "zh-cn": "添加:新图标(导航齿轮和扳手)\n"
       }
     },
     "titleLang": {

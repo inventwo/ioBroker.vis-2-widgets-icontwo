@@ -1,4 +1,7 @@
 # Older changes
+## 1.26.2 (2026-02-28)
+- (skvarel) Updated: @alcalzone/release-script dependencies to latest versions
+
 ## 1.26.1 (2026-02-15)
 - (skvarel) Fixed: Issue 61 SUGGESTIONS
 

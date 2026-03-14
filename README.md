@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.27.0 (2026-03-14)
 - (skvarel) Added: New icons (diagram)
 
 ### 1.26.6 (2026-03-14)
@@ -51,9 +51,6 @@
 ### 1.26.3 (2026-03-13)
 - (skvarel) Fixed: Issue 71 - Added check-and-lint job to workflow
 - (skvarel) Fixed: Issue 71 - Renamed automerge workflow to expected filename
-
-### 1.26.2 (2026-02-28)
-- (skvarel) Updated: @alcalzone/release-script dependencies to latest versions
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
