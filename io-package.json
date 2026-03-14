@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.26.5",
+    "version": "1.26.6",
     "news": {
+      "1.26.6": {
+        "en": "Fixed: Issue 71 W8905 - Updated Dependabot config to use wildcard pattern for directories",
+        "de": "Fix: Ausgabe 71 W8905 - Aktualisiert Dependabot config, um Wildcard-Muster für Verzeichnisse zu verwenden",
+        "ru": "Исправлено: Выпуск 71 W8905 - Обновленная конфигурация Dependabot для использования шаблона wildcard для каталогов",
+        "pt": "Fixado: Problema 71 W8905 - Atualizado Config Dependabot para usar o padrão wildcard para diretórios",
+        "nl": "Fixed: Issue 71 W8905 - Bijgewerkt Dependabot config te gebruiken wildcard patroon voor mappen",
+        "fr": "Correction : Numéro 71 W8905 - Mise à jour de la configuration de Dependabot pour utiliser le modèle de wildcard pour les répertoires",
+        "it": "Risolto: Numero 71 W8905 - Aggiornato Dependabot config per utilizzare il modello jolly per le directory",
+        "es": "Fijo: Edición 71 W8905 - Actualizado Config Dependabot para utilizar el patrón de comodín para directorios",
+        "pl": "Naprawiono: Wydanie 71 W8905 - Aktualizacja konfiguracji Dependabot, aby używać szablonu dla katalogów",
+        "uk": "Виправлено: Випуск 71 W8905 - Оновлено Налаштування залежності для використання дикої картки для каталогів",
+        "zh-cn": "固定: 第71期 W8905 - 更新的依赖配置用于目录使用通配符模式"
+      },
       "1.26.5": {
         "en": "Fixed: Issue 71 - Removed version 1.26.3 from io-package.json news section\nFixed: Issue 71 - Migrated automerge workflow to new action (iobroker-bot-orga/action-automerge-dependabot@v1)\nFixed: Issue 71 - Added ioBroker/testing-action-check@v1 to check-and-lint job\nFixed: Issue 71 - Updated Dependabot config to use directories instead of multiple directory entries\nFixed: Issue 71 - Optimized check-and-lint workflow to avoid redundant steps",
         "de": "Fixed: Ausgabe 71 - Version 1.26.3 von io-package entfernt. json news abschnitt\nBehoben: Ausgabe 71 - Migrated automerge workflow to new action (iobroker-bot-orga/action-automerge-dependabot@v1)\nBehoben: Ausgabe 71 - Hinzufügen von ioBroker/testing-action-check@v1 zum Check-and-lint Job\nBehoben: Ausgabe 71 - Aktualisierte Dependabot config, um Verzeichnisse anstelle von mehreren Verzeichniseinträgen zu verwenden\nFix: Ausgabe 71 - Optimierter Check-and-lint-Workflow zur Vermeidung redundanter Schritte",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (sprzęt nawigacyjny i klucz)\n",
         "uk": "Доданий: Нові іконки (навігація передач і траншей)\n",
         "zh-cn": "添加:新图标(导航齿轮和扳手)\n"
-      },
-      "1.24.0": {
-        "en": "Added: New icons (hobby darts)",
-        "de": "Hinzugefügt: Neue Icons (hobby Darts)",
-        "ru": "Добавлено: Новые иконки (хобби дартс)",
-        "pt": "Adicionado: Novos ícones (dardos hobby)",
-        "nl": "Toegevoegd: Nieuwe pictogrammen (hobby darts)",
-        "fr": "Ajouté: Nouvelles icônes (des fléchettes hobby)",
-        "it": "Aggiunto: Nuove icone (hobby darts)",
-        "es": "Añadido: Nuevos iconos",
-        "pl": "Dodano: Nowe ikony (rzutki hobby)",
-        "uk": "Доданий: Нові іконки (hobby darts)",
-        "zh-cn": "添加: 新图标( 豪华飞镖)"
       }
     },
     "titleLang": {

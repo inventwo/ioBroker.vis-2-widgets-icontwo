@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.26.6 (2026-03-14)
 - (skvarel) Fixed: Issue 71 W8905 - Updated Dependabot config to use wildcard pattern for directories
 
 ### 1.26.5 (2026-03-13)
@@ -51,9 +51,6 @@
 
 ### 1.26.2 (2026-02-28)
 - (skvarel) Updated: @alcalzone/release-script dependencies to latest versions
-
-### 1.26.1 (2026-02-15)
-- (skvarel) Fixed: Issue 61 SUGGESTIONS
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
