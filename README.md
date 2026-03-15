@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New icons (light ring)
+
 ### 1.27.0 (2026-03-14)
 - (skvarel) Added: New icons (diagram)
 
