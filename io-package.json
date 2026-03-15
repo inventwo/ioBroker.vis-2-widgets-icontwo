@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.27.0",
+    "version": "1.28.0",
     "news": {
+      "1.28.0": {
+        "en": "Added: New icons (light ring)",
+        "de": "Hinzugefügt: Neue Icons (leichter Ring)",
+        "ru": "Добавлено: Новые значки (световое кольцо)",
+        "pt": "Adicionado: Novos ícones (anel de luz)",
+        "nl": "Toegevoegd: nieuwe pictogrammen (lichte ring)",
+        "fr": "Ajouté: Nouvelles icônes (anneau lumineux)",
+        "it": "Aggiunto: Nuove icone (anello leggero)",
+        "es": "Añadido: Nuevos iconos ( anillo de luz)",
+        "pl": "Dodano: Nowe ikony (pierścień światła)",
+        "uk": "Доданий: Нові іконки (легке кільце)",
+        "zh-cn": "添加:新图标(轻环)"
+      },
       "1.27.0": {
         "en": "Added: New icons (diagram)",
         "de": "Hinzugefügt: Neue Icons (Diagramm)",
@@ -80,19 +93,6 @@
         "pl": "Stała: Wydanie 61 SUGGESCJI",
         "uk": "Виправлено: Випуск 61 СУГЕСІЇ",
         "zh-cn": "固定:第61期建议"
-      },
-      "1.26.0": {
-        "en": "Added: New icons (rooms)",
-        "de": "Hinzugefügt: Neue Icons (Zimmer)",
-        "ru": "Добавлено: Новые иконы (комнаты)",
-        "pt": "Adicionado: Novos ícones (quartos)",
-        "nl": "Toegevoegd: Nieuwe pictogrammen (kamers)",
-        "fr": "Ajouté : Nouvelles icônes (chambres)",
-        "it": "Aggiunto: Nuove icone (stanze)",
-        "es": "Añadido: Nuevos iconos (oficinas)",
-        "pl": "Dodano: Nowe ikony (pokoje)",
-        "uk": "Доданий: Нові іконки (кімнати)",
-        "zh-cn": "添加:新图标(房间)"
       }
     },
     "titleLang": {
