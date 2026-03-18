@@ -44,7 +44,7 @@
     "test": "mocha ./test/*.test.js",
     "update-packages": "npx -y npm-check-updates --upgrade && cd src-widgets && npx -y npm-check-updates --upgrade",
     "npm": "npm i -f && cd src-widgets && npm i -f",
-    "lint": "eslint -c eslint.config.mjs",
+    "lint": "eslint -c eslint.config.mjs"
   },
   "bugs": {
     "url": "https://github.com/inventwo/ioBroker.vis-2-widgets-icontwo/issues"
