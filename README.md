@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.28.1 (2026-03-18)
 - (skvarel) Fixed: Issue 71 W3013 - Added ioBroker/testing-action-check@v1 step to check-and-lint workflow
 
 ### 1.28.0 (2026-03-15)
@@ -50,9 +50,6 @@
 - (skvarel) Fixed: Issue 71 - Added ioBroker/testing-action-check@v1 to check-and-lint job
 - (skvarel) Fixed: Issue 71 - Updated Dependabot config to use directories instead of multiple directory entries
 - (skvarel) Fixed: Issue 71 - Optimized check-and-lint workflow to avoid redundant steps
-
-### 1.26.4 (2026-03-13)
-- (skvarel) Fixed: Lint errors - corrected line endings and excluded src-icon-set from linting
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
