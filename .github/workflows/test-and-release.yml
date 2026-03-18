@@ -25,32 +25,15 @@ jobs:
     # Performs quick checks before the expensive test runs
     check-and-lint:
         if: contains(github.event.head_commit.message, '[skip ci]') == false
-
+    
         runs-on: ubuntu-latest
-
+    
         steps:
-            - uses: actions/checkout@v6
-
-            - name: Use Node.js 20.x
-              uses: actions/setup-node@v6
-              with:
-                  node-version: 20.x
-
-            - name: Install Dependencies
-              run: npm ci
-
-            - name: Lint root package
-              run: npm run lint --if-present
-
-            - name: Install Dependencies in src-widgets
-              run: |
-                  cd src-widgets
-                  npm ci
-
-            - name: Lint src-widgets
-              run: |
-                  cd src-widgets
-                  npm run lint
+          - uses: ioBroker/testing-action-check@v1
+            with:
+              node-version: '22.x'
+              install-command: 'npm ci && cd src-widgets && npm ci'
+              lint: true
 
     # Runs adapter tests on all supported node versions and OSes
     adapter-tests:
