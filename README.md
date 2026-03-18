@@ -32,9 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### 1.28.1 (2026-03-18)
-- (skvarel) Fixed: Issue 71 W3013 - Added ioBroker/testing-action-check@v1 step to check-and-lint workflow
-
+### **WORK IN PROGRESS**
+- (skvarel) Fixed: Issue Adpater Checker
+  
 ### 1.28.0 (2026-03-15)
 - (skvarel) Added: New icons (light ring)
 

@@ -3,19 +3,6 @@
     "name": "vis-2-widgets-icontwo",
     "version": "1.28.1",
     "news": {
-      "1.28.1": {
-        "en": "Fixed: Issue 71 W3013 - Added ioBroker/testing-action-check@v1 step to check-and-lint workflow",
-        "de": "Fix: Ausgabe 71 W3013 - Hinzugefügt ioBroker/testing-action-check@v1 Schritt zum Check-and-lint Workflow",
-        "ru": "Fixed: Issue 71 W3013 - Added ioBroker/testing-action-check@v1 step to check-and-lint workflow",
-        "pt": "Corrigido: Problema 71 W3013 - Adicionado ioBroker/teste-action-check@v1 passo para check-and-lint fluxo de trabalho",
-        "nl": "Fixed: Issue 71 W3013 - Toegevoegd ioBroker/testing-action-check@v1 step to check-and-lint workflow",
-        "fr": "Correction : Numéro 71 W3013 - Ajout de ioBroker/test-action-check@v1 étape pour vérifier le flux de travail",
-        "it": "Risolto: Numero 71 W3013 - Aggiunto ioBroker/testing-action-check@v1 passo al flusso di lavoro check-and-lint",
-        "es": "Corregido: Número 71 W3013 - Añadido ioBroker/testing-action-check@v1 paso para el flujo de trabajo de check-and-lint",
-        "pl": "Naprawiono: Wydanie 71 W3013 - Dodano jOBroker / testing- action- check @ v1 krok do sprawdzania-i-lint workflow",
-        "uk": "Виправлено: Випуск 71 W3013 - Додано ioBroker/testing-action-check@v1 крок для перевірки та-lint workflow",
-        "zh-cn": "固定: 第71期 W3013 - 添加 ioBroker/ testing-action-check@v1 步骤到检查和lint工作流程"
-      },
       "1.28.0": {
         "en": "Added: New icons (light ring)",
         "de": "Hinzugefügt: Neue Icons (leichter Ring)",
