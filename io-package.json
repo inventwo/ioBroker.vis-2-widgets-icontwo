@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.28.1",
+    "version": "1.28.2",
     "news": {
+      "1.28.2": {
+        "en": "Fixed: Issue Adpater Checker",
+        "de": "Behoben: Ausstellen Adpater Checker",
+        "ru": "Оригинальное название: Issue Adpater Checker",
+        "pt": "Fixo: Verificador de Adpater de emissão",
+        "nl": "Fixed: Issue Adpater Checker",
+        "fr": "Correction : Vérificateur d'annonces d'émission",
+        "it": "Fisso: Problema Adpater Checker",
+        "es": "Corregido: Controlador de Adpater de Edición",
+        "pl": "Naprawiono: Kontrola emisji adpatera",
+        "uk": "Виправлено: Видавець Adpater",
+        "zh-cn": "固定: 问题代理检查器"
+      },
       "1.28.0": {
         "en": "Added: New icons (light ring)",
         "de": "Hinzugefügt: Neue Icons (leichter Ring)",
