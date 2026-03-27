@@ -1,4 +1,11 @@
 # Older changes
+## 1.26.5 (2026-03-13)
+- (skvarel) Fixed: Issue 71 - Removed version 1.26.3 from io-package.json news section
+- (skvarel) Fixed: Issue 71 - Migrated automerge workflow to new action (iobroker-bot-orga/action-automerge-dependabot@v1)
+- (skvarel) Fixed: Issue 71 - Added ioBroker/testing-action-check@v1 to check-and-lint job
+- (skvarel) Fixed: Issue 71 - Updated Dependabot config to use directories instead of multiple directory entries
+- (skvarel) Fixed: Issue 71 - Optimized check-and-lint workflow to avoid redundant steps
+
 ## 1.26.4 (2026-03-13)
 - (skvarel) Fixed: Lint errors - corrected line endings and excluded src-icon-set from linting
 

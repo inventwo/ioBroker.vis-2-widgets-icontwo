@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.28.2",
+    "version": "1.29.0",
     "news": {
+      "1.29.0": {
+        "en": "Added: New icons (player shuffle)",
+        "de": "Hinzugefügt: Neue Icons (Spieler shuffle)",
+        "ru": "Добавлено: Новые иконки (перетасовка игроков)",
+        "pt": "Adicionado: Novos ícones (embaralhamento do jogador)",
+        "nl": "Toegevoegd: nieuwe pictogrammen (speler shuffle)",
+        "fr": "Ajouté: Nouvelles icônes (joueur shuffle)",
+        "it": "Aggiunto: Nuove icone (player shuffle)",
+        "es": "Añadido: Nuevos iconos",
+        "pl": "Dodano: Nowe ikony (tasowanie gracza)",
+        "uk": "Доданий: Нові іконки (Шуфлі гри)",
+        "zh-cn": "添加: 新建图标( 玩家洗牌)"
+      },
       "1.28.2": {
         "en": "Fixed: Issue Adpater Checker",
         "de": "Behoben: Ausstellen Adpater Checker",
@@ -80,19 +93,6 @@
         "pl": "Naprawiono: Błędy linków - poprawione zakończenia linii i wyłączono src- icon- set z lintowania",
         "uk": "Виправлено: Зміщення помилок - виправлені закінчення рядків і виключені сrc-icon-set з linting",
         "zh-cn": "固定: Lint 错误 - 校正的行尾和从 Linting 中排除 src-icon 设置"
-      },
-      "1.26.2": {
-        "en": "Updated: @alcalzone/release-script dependencies to latest versions",
-        "de": "Aktualisiert: @alcalzone/release-script Abhängigkeiten auf neueste Versionen",
-        "ru": "Обновлено: @alcalzone/releasescript-зависимости от последних версий",
-        "pt": "Atualizado: @alcalzone/release-script dependencies to latest versions",
-        "nl": "Bijgewerkt: @alcalzone/release-script afhankelijkheden van de nieuwste versies",
-        "fr": "Mise à jour : @alcalzone/release-script dépendances aux dernières versions",
-        "it": "Aggiornato: @alcalzone/release-script dipendenze alle ultime versioni",
-        "es": "Actualizado: dependencia @alcalzone/release-script a las últimas versiones",
-        "pl": "Aktualizacja: @ alcalzone / release- script zależności do najnowszych wersji",
-        "uk": "Оновлено: @alcalzone/видання-script залежностей до останніх версій",
-        "zh-cn": "更新: @alcalzone/释放-script 依赖到最新版本"
       }
     },
     "titleLang": {
