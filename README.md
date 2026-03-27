@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New icons (player shuffle)
+
 ### 1.28.2 (2026-03-18)
 - (skvarel) Fixed: Issue Adpater Checker
 
