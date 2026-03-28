@@ -146,7 +146,6 @@
     "type": "visualization-icons",
     "connectionType": "cloud",
     "dataSource": "poll",
-    "visWidgets": {},
     "visIconSets": {
       "vis2IcontwoSet": {
         "iconSet": true,
@@ -223,7 +222,7 @@
     },
     "dependencies": [
       {
-        "vis-2": ">=2.13.0"
+        "vis-2": ">=2.13.5"
       }
     ],
     "restartAdapters": [

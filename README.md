@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New icons (player reverse)
+
 ### 1.29.0 (2026-03-27)
 - (skvarel) Added: New icons (player shuffle)
 
