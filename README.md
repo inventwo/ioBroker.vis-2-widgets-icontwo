@@ -15,7 +15,7 @@
 
 ## Icon adapter for the ioBroker.vis adapter (only for VIS-2)
 
-### **Please note:** This icons only work with version 2.13.x (or higher) of the ioBroker.vis-2 adapter!
+### **Please note:** This icons only work with version 2.13.5 (or higher) of the ioBroker.vis-2 adapter!
 
 
 .... more information will follow
@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New icons (spotify, music)
+
 ### 1.30.0 (2026-03-28)
 - (skvarel) Added: New icons (player reverse)
 
