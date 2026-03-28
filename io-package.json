@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.30.0",
+    "version": "1.31.0",
     "news": {
+      "1.31.0": {
+        "en": "Added: New icons (spotify, music)",
+        "de": "Hinzugefügt: Neue Icons (Spotify, Musik)",
+        "ru": "Добавлено: Новые иконки (spotify, музыка)",
+        "pt": "Adicionado: Novos ícones (spotificar, música)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (spotify, muziek)",
+        "fr": "Ajouté: Nouvelles icônes (spotify, musique)",
+        "it": "Aggiunto: Nuove icone (spotify, musica)",
+        "es": "Añadido: Nuevos iconos (spotificar, música)",
+        "pl": "Dodano: Nowe ikony (spotify, music)",
+        "uk": "Доданий: Нові ікони (повідомлення, музика)",
+        "zh-cn": "添加: 新的图标( 标点, 音乐)"
+      },
       "1.30.0": {
         "en": "Added: New icons (player reverse)",
         "de": "Hinzugefügt: Neue Icons (Spiel umgekehrt)",
@@ -80,19 +93,6 @@
         "pl": "Naprawiono: Wydanie 71 W8905 - Aktualizacja konfiguracji Dependabot, aby używać szablonu dla katalogów",
         "uk": "Виправлено: Випуск 71 W8905 - Оновлено Налаштування залежності для використання дикої картки для каталогів",
         "zh-cn": "固定: 第71期 W8905 - 更新的依赖配置用于目录使用通配符模式"
-      },
-      "1.26.5": {
-        "en": "Fixed: Issue 71 - Removed version 1.26.3 from io-package.json news section\nFixed: Issue 71 - Migrated automerge workflow to new action (iobroker-bot-orga/action-automerge-dependabot@v1)\nFixed: Issue 71 - Added ioBroker/testing-action-check@v1 to check-and-lint job\nFixed: Issue 71 - Updated Dependabot config to use directories instead of multiple directory entries\nFixed: Issue 71 - Optimized check-and-lint workflow to avoid redundant steps",
-        "de": "Fixed: Ausgabe 71 - Version 1.26.3 von io-package entfernt. json news abschnitt\nBehoben: Ausgabe 71 - Migrated automerge workflow to new action (iobroker-bot-orga/action-automerge-dependabot@v1)\nBehoben: Ausgabe 71 - Hinzufügen von ioBroker/testing-action-check@v1 zum Check-and-lint Job\nBehoben: Ausgabe 71 - Aktualisierte Dependabot config, um Verzeichnisse anstelle von mehreren Verzeichniseinträgen zu verwenden\nFix: Ausgabe 71 - Optimierter Check-and-lint-Workflow zur Vermeidung redundanter Schritte",
-        "ru": "Fixed: Issue 71 - Removed version 1.26.3 from io-package. новостной раздел Джонсона\nИсправлено: Вопрос 71 - Перемещенный рабочий процесс автомерге к новому действию (iobroker-bot-orga/action-automerge-dependabot@v1)\nFixed: Issue 71 - Added ioBroker/testing-action-check@v1 to check-and-lint job\nИсправлено: Вопрос 71 - Обновленная конфигурация Dependabot для использования каталогов вместо нескольких записей каталогов\nИсправлено: Выпуск 71 - Оптимизированный рабочий процесс чек-энд-линта, чтобы избежать избыточных шагов",
-        "pt": "Fixado: Edição 71 - Versão removida 1.26.3 do pacote io. secção de notícias json\nFixado: Problema 71 - Fluxo de trabalho de automerge migrado para nova ação (iobroker-bot-orga/action-automerge-dependebot@v1)\nCorrigido: Problema 71 - Adicionado ioBroker/testing-action-check@v1 para check-and-lint job\nFixado: Problema 71 - Configuração de Dependabot atualizada para usar diretórios em vez de vários itens de diretório\nCorrigido: Problema 71 - Fluxo de trabalho otimizado de check-and-lint para evitar etapas redundantes",
-        "nl": "Vast: Nummer 71 - Verwijderde versie 1.26.3 uit io-package. json news sectie\nVast: uitgave 71 - Gemigreerde automatische workflow naar nieuwe actie (iobroker-bot-orga/action-automerge-dependabot@v1)\nVast: Nummer 71 - Toegevoegd ioBroker/test-action-check@v1 aan check-and-lint job\nVast: uitgave 71 - Bijgewerkte Dependabot-configuratie om mappen te gebruiken in plaats van meerdere directory-items\nFixed: Issue 71 - Geoptimaliseerde check-and-lint workflow om overbodige stappen te vermijden",
-        "fr": "Correction: Numéro 71 - Supprimé la version 1.26.3 de io-package. json section de nouvelles\nCorrection : émission 71 - Migred automerge workflow to new action (iobroker-bot-orga/action-automerge-dependabot@v1)\nCorrection : Numéro 71 - Ajout d'ioBroker/test-action-check@v1 à l'emploi check-and-lint\nCorrection : émission 71 - Mise à jour de la configuration de Dependabot pour utiliser des répertoires au lieu de plusieurs entrées de répertoire\nCorrection : Numéro 71 - Processus de vérification optimisé pour éviter les étapes redondantes",
-        "it": "Risolto: Numero 71 - Rimossa versione 1.26.3 da io-package. json news sezione\nRisolto: Problema 71 - Flusso di lavoro migrato automerge a nuova azione (iobroker-bot-orga/action-automerge-dependabot@v1)\nRisolto: Numero 71 - Aggiunto ioBroker/testing-action-check@v1 al lavoro check-and-lint\nRisolto: Problema 71 - Aggiornato Dependabot config per utilizzare directory invece di più voci di directory\nRisolto: Numero 71 - Flusso di lavoro ottimizzato check-and-lint per evitare passi ridondanti",
-        "es": "Fijo: Edición 71 - Versión eliminada 1.26.3 de io-paquete. json news section\nCorregido: Cuestión 71 - Flujo de trabajo de automerge migrated a nueva acción (iobroker-bot-orga/action-automerge-dependabot@v1)\nCorregido: Edición 71 - Añadido ioBroker/testing-action-check@v1 para el trabajo de check-and-lint\nCorregido: Cuestión 71 - Actualizado Dependabot config para utilizar directorios en lugar de múltiples entradas del directorio\nCorregido: Edición 71 - Flujo de trabajo optimizado de comprobación y punta para evitar pasos redundantes",
-        "pl": "Naprawiono: Wydanie 71 - Usunięto wersję 1.26.3 z pakietu jo-. Sekcja wiadomości json\nStałe: Wydanie 71 - Przekierowany przepływ pracy automatów do nowego działania (iobroker- bot- orga / action- automaerge- dependabot @ v1)\nNaprawiono: Wydanie 71 - Dodano joBroker / testing- action- check @ v1 do zadania check- and- lint\nStałe: Wydanie 71 - Aktualizacja konfiguracji Dependabot, aby używać katalogów zamiast wielu wpisów katalogowych\nNaprawiono: Wydanie 71 - Zoptymalizowany przepływ pracy w celu uniknięcia zbędnych kroków",
-        "uk": "Виправлено: Випуск 71 - Вилучено версію 1.26.3 від io-package. розділ новин json\nВиправлено: Випуск 71 - Мігрований автоматичний робочий процес до нової дії (iobroker-bot-orga/action-automerge-залежніabot@v1)\nВиправлено: Випуск 71 - Додано ioBroker/testing-action-check@v1 для перевірки та налаштування роботи\nВиправлено: Випуск 71 - Оновлено Налаштування залежності для використання каталогів замість декількох записів каталогів\nВиправлено: Випуск 71 - Оптимізований контрольний робочий процес, щоб уникнути зайвих кроків",
-        "zh-cn": "固定:第71期 - 从io-package中移除了1.26.3版本. 新闻栏目\n固定: 问题 71 - 将自动工作流程转换为新动作(iobroster-bot-orga/action-autommerge-dependabot@v1)\n固定: 第71期 - 添加 ioBroker/ testing-action-check@v1 以检查和lint 工作\n固定: 问题 71 - 更新Dependabot 配置以使用目录而不是多个目录条目\n固定:第71期 - 优化验收工作流程,避免冗余步骤"
       }
     },
     "titleLang": {

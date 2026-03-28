@@ -1,4 +1,7 @@
 # Older changes
+## 1.27.0 (2026-03-14)
+- (skvarel) Added: New icons (diagram)
+
 ## 1.26.6 (2026-03-14)
 - (skvarel) Fixed: Issue 71 W8905 - Updated Dependabot config to use wildcard pattern for directories
 

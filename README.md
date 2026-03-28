@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.31.0 (2026-03-28)
 - (skvarel) Added: New icons (spotify, music)
 
 ### 1.30.0 (2026-03-28)
@@ -46,9 +46,6 @@
 
 ### 1.28.0 (2026-03-15)
 - (skvarel) Added: New icons (light ring)
-
-### 1.27.0 (2026-03-14)
-- (skvarel) Added: New icons (diagram)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
