@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.30.0 (2026-03-28)
 - (skvarel) Added: New icons (player reverse)
 
 ### 1.29.0 (2026-03-27)
@@ -46,9 +46,6 @@
 
 ### 1.27.0 (2026-03-14)
 - (skvarel) Added: New icons (diagram)
-
-### 1.26.6 (2026-03-14)
-- (skvarel) Fixed: Issue 71 W8905 - Updated Dependabot config to use wildcard pattern for directories
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

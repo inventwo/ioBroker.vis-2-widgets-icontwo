@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.29.0",
+    "version": "1.30.0",
     "news": {
+      "1.30.0": {
+        "en": "Added: New icons (player reverse)",
+        "de": "Hinzugefügt: Neue Icons (Spiel umgekehrt)",
+        "ru": "Добавлено: Новые иконки (реверс игрока)",
+        "pt": "Adicionado: Novos ícones (jogador ao contrário)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (speler omgekeerd)",
+        "fr": "Ajouté: Nouvelles icônes (lecteur inversé)",
+        "it": "Aggiunto: Nuove icone (player reverse)",
+        "es": "Añadido: Nuevos iconos (inversión del jugador)",
+        "pl": "Dodano: Nowe ikony (rewers gracza)",
+        "uk": "Доданий: Нові іконки (Реверсія гри)",
+        "zh-cn": "添加: 新建图标( 玩家反向)"
+      },
       "1.29.0": {
         "en": "Added: New icons (player shuffle)",
         "de": "Hinzugefügt: Neue Icons (Spieler shuffle)",
@@ -80,19 +93,6 @@
         "pl": "Naprawiono: Wydanie 71 - Usunięto wersję 1.26.3 z pakietu jo-. Sekcja wiadomości json\nStałe: Wydanie 71 - Przekierowany przepływ pracy automatów do nowego działania (iobroker- bot- orga / action- automaerge- dependabot @ v1)\nNaprawiono: Wydanie 71 - Dodano joBroker / testing- action- check @ v1 do zadania check- and- lint\nStałe: Wydanie 71 - Aktualizacja konfiguracji Dependabot, aby używać katalogów zamiast wielu wpisów katalogowych\nNaprawiono: Wydanie 71 - Zoptymalizowany przepływ pracy w celu uniknięcia zbędnych kroków",
         "uk": "Виправлено: Випуск 71 - Вилучено версію 1.26.3 від io-package. розділ новин json\nВиправлено: Випуск 71 - Мігрований автоматичний робочий процес до нової дії (iobroker-bot-orga/action-automerge-залежніabot@v1)\nВиправлено: Випуск 71 - Додано ioBroker/testing-action-check@v1 для перевірки та налаштування роботи\nВиправлено: Випуск 71 - Оновлено Налаштування залежності для використання каталогів замість декількох записів каталогів\nВиправлено: Випуск 71 - Оптимізований контрольний робочий процес, щоб уникнути зайвих кроків",
         "zh-cn": "固定:第71期 - 从io-package中移除了1.26.3版本. 新闻栏目\n固定: 问题 71 - 将自动工作流程转换为新动作(iobroster-bot-orga/action-autommerge-dependabot@v1)\n固定: 第71期 - 添加 ioBroker/ testing-action-check@v1 以检查和lint 工作\n固定: 问题 71 - 更新Dependabot 配置以使用目录而不是多个目录条目\n固定:第71期 - 优化验收工作流程,避免冗余步骤"
-      },
-      "1.26.4": {
-        "en": "Fixed: Lint errors - corrected line endings and excluded src-icon-set from linting",
-        "de": "Behoben: Lint-Fehler - korrigierte Zeilenenden und ausgeschlossen Src-icon-Set aus Linting",
-        "ru": "Исправлено: Ошибки Линта - исправленные окончания линий и исключены src-icon-set из подкладки",
-        "pt": "Corrigido: Erros do Lint - terminações de linha corrigidas e excluídos src-icon-set do linting",
-        "nl": "Fixed: Lint fouten - gecorrigeerd regeleinden en uitgesloten src-icon-set van slinting",
-        "fr": "Correction : Erreurs de lin - fin de ligne corrigée et exclusion de src-icon-set du lintage",
-        "it": "Risolto: Errori di Lint - terminazioni di linea corrette ed esclusi src-icon-set da linting",
-        "es": "Corregido: Errores de lint - final de línea corregida y excluido src-icon-set de forro",
-        "pl": "Naprawiono: Błędy linków - poprawione zakończenia linii i wyłączono src- icon- set z lintowania",
-        "uk": "Виправлено: Зміщення помилок - виправлені закінчення рядків і виключені сrc-icon-set з linting",
-        "zh-cn": "固定: Lint 错误 - 校正的行尾和从 Linting 中排除 src-icon 设置"
       }
     },
     "titleLang": {

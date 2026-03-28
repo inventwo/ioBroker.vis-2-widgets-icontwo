@@ -1,4 +1,7 @@
 # Older changes
+## 1.26.6 (2026-03-14)
+- (skvarel) Fixed: Issue 71 W8905 - Updated Dependabot config to use wildcard pattern for directories
+
 ## 1.26.5 (2026-03-13)
 - (skvarel) Fixed: Issue 71 - Removed version 1.26.3 from io-package.json news section
 - (skvarel) Fixed: Issue 71 - Migrated automerge workflow to new action (iobroker-bot-orga/action-automerge-dependabot@v1)
