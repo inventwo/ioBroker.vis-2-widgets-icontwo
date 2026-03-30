@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.32.0",
+    "version": "1.33.0",
     "news": {
+      "1.33.0": {
+        "en": "Added: New icons (lawn-mower-wet)",
+        "de": "Hinzugefügt: Neue Icons (lawn-mower-wet)",
+        "ru": "Добавлено: Новые иконы (lawn-mower-wet)",
+        "pt": "Adicionado: Novos ícones (lawn-mower-wet)",
+        "nl": "Toegevoegd: nieuwe pictogrammen (maaier nat)",
+        "fr": "Ajouté: Nouvelles icônes (basse-tour-humide)",
+        "it": "Aggiunto: Nuove icone (lawn-mower-wet)",
+        "es": "Añadido: Nuevos iconos",
+        "pl": "Dodano: Nowe ikony (lawn- mower- wet)",
+        "uk": "Доданий: Нові іконки (lawn-mower-wet)",
+        "zh-cn": "添加: 新建图标( Lawn-mower-wet)"
+      },
       "1.32.0": {
         "en": "Added: New icons (weather & water no-drop)",
         "de": "Hinzugefügt: Neue Icons (Wetter & Wasser no-drop)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (pierścień światła)",
         "uk": "Доданий: Нові іконки (легке кільце)",
         "zh-cn": "添加:新图标(轻环)"
-      },
-      "1.27.0": {
-        "en": "Added: New icons (diagram)",
-        "de": "Hinzugefügt: Neue Icons (Diagramm)",
-        "ru": "Добавлено: Новые значки (диаграмма)",
-        "pt": "Adicionado: Novos ícones (diagrama)",
-        "nl": "Toegevoegd: Nieuwe pictogrammen (diagram)",
-        "fr": "Ajouté: Nouvelles icônes (diagramme)",
-        "it": "Aggiunto: Nuove icone (diagramma)",
-        "es": "Añadido: Nuevos iconos (diagrama)",
-        "pl": "Dodano: Nowe ikony (diagram)",
-        "uk": "Доданий: Нові іконки (діаграма)",
-        "zh-cn": "添加: 新图标( 图表)"
       }
     },
     "titleLang": {

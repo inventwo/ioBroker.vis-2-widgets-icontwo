@@ -1,4 +1,7 @@
 # Older changes
+## 1.28.2 (2026-03-18)
+- (skvarel) Fixed: Issue Adpater Checker
+
 ## 1.28.0 (2026-03-15)
 - (skvarel) Added: New icons (light ring)
 
