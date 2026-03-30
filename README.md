@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.37.0 (2026-03-30)
 - (skvarel) Added: New icons (player-repeat & -stop)
 
 ### 1.36.0 (2026-03-30)
@@ -46,9 +46,6 @@
 
 ### 1.33.0 (2026-03-30)
 - (skvarel) Added: New icons (lawn-mower-wet)
-
-### 1.32.0 (2026-03-30)
-- (skvarel) Added: New icons (weather & water no-drop)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.36.0",
+    "version": "1.37.0",
     "news": {
+      "1.37.0": {
+        "en": "Added: New icons (player-repeat & -stop)",
+        "de": "Hinzugefügt: Neue Icons (spieler-repeat & -stop)",
+        "ru": "Добавлено: Новые иконки (player-repeat & -stop)",
+        "pt": "Adicionado: Novos ícones (player-repeat & -stop)",
+        "nl": "Toegevoegd: nieuwe pictogrammen (speler-herhalen & -stop)",
+        "fr": "Ajouté : Nouvelles icônes (joueur-répète & -stop)",
+        "it": "Aggiunto: Nuove icone (player-repeat & -stop)",
+        "es": "Añadido: Nuevos iconos",
+        "pl": "Dodano: Nowe ikony (player- repeat & -stop)",
+        "uk": "Доданий: Нові іконки (player-повтор & -stop)",
+        "zh-cn": "添加: 新的图标( 玩家- 重复 & - stop)"
+      },
       "1.36.0": {
         "en": "Added: New icons (more lawn-mower icons)",
         "de": "Hinzugefügt: Neue Icons (mehr Rasenmäher Icons)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (spotify, music)",
         "uk": "Доданий: Нові ікони (повідомлення, музика)",
         "zh-cn": "添加: 新的图标( 标点, 音乐)"
-      },
-      "1.30.0": {
-        "en": "Added: New icons (player reverse)",
-        "de": "Hinzugefügt: Neue Icons (Spiel umgekehrt)",
-        "ru": "Добавлено: Новые иконки (реверс игрока)",
-        "pt": "Adicionado: Novos ícones (jogador ao contrário)",
-        "nl": "Toegevoegd: Nieuwe pictogrammen (speler omgekeerd)",
-        "fr": "Ajouté: Nouvelles icônes (lecteur inversé)",
-        "it": "Aggiunto: Nuove icone (player reverse)",
-        "es": "Añadido: Nuevos iconos (inversión del jugador)",
-        "pl": "Dodano: Nowe ikony (rewers gracza)",
-        "uk": "Доданий: Нові іконки (Реверсія гри)",
-        "zh-cn": "添加: 新建图标( 玩家反向)"
       }
     },
     "titleLang": {
