@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New icons (brands/go-e)
+
 ### 1.33.0 (2026-03-30)
 - (skvarel) Added: New icons (lawn-mower-wet)
 
