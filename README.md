@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New icons (weather & water no-drop)
+
 ### 1.31.0 (2026-03-28)
 - (skvarel) Added: New icons (spotify, music)
 
