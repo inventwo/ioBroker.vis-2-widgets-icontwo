@@ -1,4 +1,7 @@
 # Older changes
+## 1.31.0 (2026-03-28)
+- (skvarel) Added: New icons (spotify, music)
+
 ## 1.30.0 (2026-03-28)
 - (skvarel) Added: New icons (player reverse)
 

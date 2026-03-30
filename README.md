@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.36.0 (2026-03-30)
 - (skvarel) Added: New icons (more lawn-mower icons)
 
 ### 1.35.0 (2026-03-30)
@@ -46,9 +46,6 @@
 
 ### 1.32.0 (2026-03-30)
 - (skvarel) Added: New icons (weather & water no-drop)
-
-### 1.31.0 (2026-03-28)
-- (skvarel) Added: New icons (spotify, music)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.35.0",
+    "version": "1.36.0",
     "news": {
+      "1.36.0": {
+        "en": "Added: New icons (more lawn-mower icons)",
+        "de": "Hinzugefügt: Neue Icons (mehr Rasenmäher Icons)",
+        "ru": "Добавлено: Новые иконки (больше икон газонокосилки)",
+        "pt": "Adicionado: Novos ícones (mais ícones de cortador de grama)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (meer gazonmaaier pictogrammen)",
+        "fr": "Ajouté: Nouvelles icônes (plus d'icônes de tondeuse à gazon)",
+        "it": "Aggiunto: Nuove icone (più tosaerba icone)",
+        "es": "Añadido: Nuevos iconos (más iconos de cortacéspedes)",
+        "pl": "Dodano: Nowe ikony (więcej ikon kosiarek)",
+        "uk": "Доданий: Нові іконки (більше іконок газонокосарки)",
+        "zh-cn": "添加: 新图标( 更多草坪- 摩尔图标)"
+      },
       "1.35.0": {
         "en": "Added: New icons (lawn-mower)",
         "de": "Hinzugefügt: Neue Icons (lawn-mower)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (rewers gracza)",
         "uk": "Доданий: Нові іконки (Реверсія гри)",
         "zh-cn": "添加: 新建图标( 玩家反向)"
-      },
-      "1.29.0": {
-        "en": "Added: New icons (player shuffle)",
-        "de": "Hinzugefügt: Neue Icons (Spieler shuffle)",
-        "ru": "Добавлено: Новые иконки (перетасовка игроков)",
-        "pt": "Adicionado: Novos ícones (embaralhamento do jogador)",
-        "nl": "Toegevoegd: nieuwe pictogrammen (speler shuffle)",
-        "fr": "Ajouté: Nouvelles icônes (joueur shuffle)",
-        "it": "Aggiunto: Nuove icone (player shuffle)",
-        "es": "Añadido: Nuevos iconos",
-        "pl": "Dodano: Nowe ikony (tasowanie gracza)",
-        "uk": "Доданий: Нові іконки (Шуфлі гри)",
-        "zh-cn": "添加: 新建图标( 玩家洗牌)"
       }
     },
     "titleLang": {
