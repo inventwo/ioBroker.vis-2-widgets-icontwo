@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.34.0 (2026-03-30)
 - (skvarel) Added: New icons (brands/go-e)
 
 ### 1.33.0 (2026-03-30)
@@ -46,9 +46,6 @@
 
 ### 1.30.0 (2026-03-28)
 - (skvarel) Added: New icons (player reverse)
-
-### 1.29.0 (2026-03-27)
-- (skvarel) Added: New icons (player shuffle)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

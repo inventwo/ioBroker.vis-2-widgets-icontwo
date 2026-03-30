@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.33.0",
+    "version": "1.34.0",
     "news": {
+      "1.34.0": {
+        "en": "Added: New icons (brands/go-e)",
+        "de": "Hinzugefügt: Neue Icons (Marken/go-e)",
+        "ru": "Добавлено: Новые значки (бренды/go-e)",
+        "pt": "Adicionado: Novos ícones (marcas/go-e)",
+        "nl": "Toegevoegd: nieuwe pictogrammen (merken/go-e)",
+        "fr": "Ajouté: Nouvelles icônes (marques/go-e)",
+        "it": "Aggiunto: Nuove icone (brands/go-e)",
+        "es": "Añadido: Nuevos iconos (marcas/go-e)",
+        "pl": "Dodano: Nowe ikony (marki / go- e)",
+        "uk": "Доданий: Нові іконки (brands/go-e)",
+        "zh-cn": "添加:新图标(品牌/go-e)"
+      },
       "1.33.0": {
         "en": "Added: New icons (lawn-mower-wet)",
         "de": "Hinzugefügt: Neue Icons (lawn-mower-wet)",
@@ -80,19 +93,6 @@
         "pl": "Naprawiono: Kontrola emisji adpatera",
         "uk": "Виправлено: Видавець Adpater",
         "zh-cn": "固定: 问题代理检查器"
-      },
-      "1.28.0": {
-        "en": "Added: New icons (light ring)",
-        "de": "Hinzugefügt: Neue Icons (leichter Ring)",
-        "ru": "Добавлено: Новые значки (световое кольцо)",
-        "pt": "Adicionado: Novos ícones (anel de luz)",
-        "nl": "Toegevoegd: nieuwe pictogrammen (lichte ring)",
-        "fr": "Ajouté: Nouvelles icônes (anneau lumineux)",
-        "it": "Aggiunto: Nuove icone (anello leggero)",
-        "es": "Añadido: Nuevos iconos ( anillo de luz)",
-        "pl": "Dodano: Nowe ikony (pierścień światła)",
-        "uk": "Доданий: Нові іконки (легке кільце)",
-        "zh-cn": "添加:新图标(轻环)"
       }
     },
     "titleLang": {

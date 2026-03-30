@@ -1,4 +1,7 @@
 # Older changes
+## 1.29.0 (2026-03-27)
+- (skvarel) Added: New icons (player shuffle)
+
 ## 1.28.2 (2026-03-18)
 - (skvarel) Fixed: Issue Adpater Checker
 
