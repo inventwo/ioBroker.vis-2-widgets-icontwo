@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.35.0 (2026-03-30)
 - (skvarel) Added: New icons (lawn-mower)
 
 ### 1.34.0 (2026-03-30)
@@ -46,9 +46,6 @@
 
 ### 1.31.0 (2026-03-28)
 - (skvarel) Added: New icons (spotify, music)
-
-### 1.30.0 (2026-03-28)
-- (skvarel) Added: New icons (player reverse)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

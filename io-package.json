@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.34.0",
+    "version": "1.35.0",
     "news": {
+      "1.35.0": {
+        "en": "Added: New icons (lawn-mower)",
+        "de": "Hinzugefügt: Neue Icons (lawn-mower)",
+        "ru": "Добавлено: Новые иконы (автомобиль)",
+        "pt": "Adicionado: Novos ícones (motor de grama)",
+        "nl": "Toegevoegd: nieuwe pictogrammen (maaier)",
+        "fr": "Ajouté : Nouvelles icônes (tour à gazon)",
+        "it": "Aggiunto: Nuove icone (lawn-mower)",
+        "es": "Añadido: Nuevos iconos",
+        "pl": "Dodano: Nowe ikony (kosiarka)",
+        "uk": "Доданий: Нові іконки (lawn-mower)",
+        "zh-cn": "添加: 新建图标( Lawn-mower)"
+      },
       "1.34.0": {
         "en": "Added: New icons (brands/go-e)",
         "de": "Hinzugefügt: Neue Icons (Marken/go-e)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (tasowanie gracza)",
         "uk": "Доданий: Нові іконки (Шуфлі гри)",
         "zh-cn": "添加: 新建图标( 玩家洗牌)"
-      },
-      "1.28.2": {
-        "en": "Fixed: Issue Adpater Checker",
-        "de": "Behoben: Ausstellen Adpater Checker",
-        "ru": "Оригинальное название: Issue Adpater Checker",
-        "pt": "Fixo: Verificador de Adpater de emissão",
-        "nl": "Fixed: Issue Adpater Checker",
-        "fr": "Correction : Vérificateur d'annonces d'émission",
-        "it": "Fisso: Problema Adpater Checker",
-        "es": "Corregido: Controlador de Adpater de Edición",
-        "pl": "Naprawiono: Kontrola emisji adpatera",
-        "uk": "Виправлено: Видавець Adpater",
-        "zh-cn": "固定: 问题代理检查器"
       }
     },
     "titleLang": {
