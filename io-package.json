@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.31.0",
+    "version": "1.32.0",
     "news": {
+      "1.32.0": {
+        "en": "Added: New icons (weather & water no-drop)",
+        "de": "Hinzugefügt: Neue Icons (Wetter & Wasser no-drop)",
+        "ru": "Добавлено: Новые значки (погода и вода без капли)",
+        "pt": "Adicionado: Novos ícones (tempo & água sem gota)",
+        "nl": "Toegevoegd: nieuwe pictogrammen (weer & water no-drop)",
+        "fr": "Ajouté : Nouvelles icônes (temps et eau sans goutte)",
+        "it": "Aggiunto: Nuove icone (piuttosto e acqua no-drop)",
+        "es": "Añadido: Nuevos iconos (tanto de agua como sin gota)",
+        "pl": "Dodano: Nowe ikony (pogoda i woda no- drop)",
+        "uk": "Доданий: Нові іконки (погода та вода без висадки)",
+        "zh-cn": "添加: 新建图标( 天候和水无滴)"
+      },
       "1.31.0": {
         "en": "Added: New icons (spotify, music)",
         "de": "Hinzugefügt: Neue Icons (Spotify, Musik)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (diagram)",
         "uk": "Доданий: Нові іконки (діаграма)",
         "zh-cn": "添加: 新图标( 图表)"
-      },
-      "1.26.6": {
-        "en": "Fixed: Issue 71 W8905 - Updated Dependabot config to use wildcard pattern for directories",
-        "de": "Fix: Ausgabe 71 W8905 - Aktualisiert Dependabot config, um Wildcard-Muster für Verzeichnisse zu verwenden",
-        "ru": "Исправлено: Выпуск 71 W8905 - Обновленная конфигурация Dependabot для использования шаблона wildcard для каталогов",
-        "pt": "Fixado: Problema 71 W8905 - Atualizado Config Dependabot para usar o padrão wildcard para diretórios",
-        "nl": "Fixed: Issue 71 W8905 - Bijgewerkt Dependabot config te gebruiken wildcard patroon voor mappen",
-        "fr": "Correction : Numéro 71 W8905 - Mise à jour de la configuration de Dependabot pour utiliser le modèle de wildcard pour les répertoires",
-        "it": "Risolto: Numero 71 W8905 - Aggiornato Dependabot config per utilizzare il modello jolly per le directory",
-        "es": "Fijo: Edición 71 W8905 - Actualizado Config Dependabot para utilizar el patrón de comodín para directorios",
-        "pl": "Naprawiono: Wydanie 71 W8905 - Aktualizacja konfiguracji Dependabot, aby używać szablonu dla katalogów",
-        "uk": "Виправлено: Випуск 71 W8905 - Оновлено Налаштування залежності для використання дикої картки для каталогів",
-        "zh-cn": "固定: 第71期 W8905 - 更新的依赖配置用于目录使用通配符模式"
       }
     },
     "titleLang": {

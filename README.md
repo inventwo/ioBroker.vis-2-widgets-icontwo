@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.32.0 (2026-03-30)
 - (skvarel) Added: New icons (weather & water no-drop)
 
 ### 1.31.0 (2026-03-28)
@@ -46,9 +46,6 @@
 
 ### 1.28.2 (2026-03-18)
 - (skvarel) Fixed: Issue Adpater Checker
-
-### 1.28.0 (2026-03-15)
-- (skvarel) Added: New icons (light ring)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
