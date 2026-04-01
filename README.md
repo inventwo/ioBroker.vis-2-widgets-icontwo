@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New icons (brands enpal)
+
 ### 1.37.0 (2026-03-30)
 - (skvarel) Added: New icons (player-repeat & -stop)
 
