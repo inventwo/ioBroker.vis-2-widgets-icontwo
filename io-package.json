@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.37.0",
+    "version": "1.38.0",
     "news": {
+      "1.38.0": {
+        "en": "Added: New icons (brands enpal)",
+        "de": "Hinzugefügt: Neue Icons (Marken enpal)",
+        "ru": "Добавлено: Новые иконки (бренды Enpal)",
+        "pt": "Adicionado: Novos ícones (marcas enpal)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (merken enpal)",
+        "fr": "Ajouté: Nouvelles icônes (marques enpal)",
+        "it": "Aggiunto: Nuove icone (brands enpal)",
+        "es": "Añadido: Nuevos iconos (marcas enpal)",
+        "pl": "Dodano: Nowe ikony (marki enpal)",
+        "uk": "Доданий: Нові іконки (бренди задні)",
+        "zh-cn": "添加: 新图标( 块块 )"
+      },
       "1.37.0": {
         "en": "Added: New icons (player-repeat & -stop)",
         "de": "Hinzugefügt: Neue Icons (spieler-repeat & -stop)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (pogoda i woda no- drop)",
         "uk": "Доданий: Нові іконки (погода та вода без висадки)",
         "zh-cn": "添加: 新建图标( 天候和水无滴)"
-      },
-      "1.31.0": {
-        "en": "Added: New icons (spotify, music)",
-        "de": "Hinzugefügt: Neue Icons (Spotify, Musik)",
-        "ru": "Добавлено: Новые иконки (spotify, музыка)",
-        "pt": "Adicionado: Novos ícones (spotificar, música)",
-        "nl": "Toegevoegd: Nieuwe pictogrammen (spotify, muziek)",
-        "fr": "Ajouté: Nouvelles icônes (spotify, musique)",
-        "it": "Aggiunto: Nuove icone (spotify, musica)",
-        "es": "Añadido: Nuevos iconos (spotificar, música)",
-        "pl": "Dodano: Nowe ikony (spotify, music)",
-        "uk": "Доданий: Нові ікони (повідомлення, музика)",
-        "zh-cn": "添加: 新的图标( 标点, 音乐)"
       }
     },
     "titleLang": {

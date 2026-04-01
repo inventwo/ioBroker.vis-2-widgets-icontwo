@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.38.0 (2026-04-01)
 - (skvarel) Added: New icons (brands enpal)
 
 ### 1.37.0 (2026-03-30)
@@ -46,9 +46,6 @@
 
 ### 1.34.0 (2026-03-30)
 - (skvarel) Added: New icons (brands/go-e)
-
-### 1.33.0 (2026-03-30)
-- (skvarel) Added: New icons (lawn-mower-wet)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
