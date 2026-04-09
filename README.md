@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Fixed: Added Dependabot cooldown configuration (7 days) to reduce supply chain risk
+
 ### 1.38.0 (2026-04-01)
 - (skvarel) Added: New icons (brands enpal)
 
