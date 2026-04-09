@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.38.1 (2026-04-09)
 - (skvarel) Fixed: Added Dependabot cooldown configuration (7 days) to reduce supply chain risk
 
 ### 1.38.0 (2026-04-01)
@@ -46,9 +46,6 @@
 
 ### 1.35.0 (2026-03-30)
 - (skvarel) Added: New icons (lawn-mower)
-
-### 1.34.0 (2026-03-30)
-- (skvarel) Added: New icons (brands/go-e)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
