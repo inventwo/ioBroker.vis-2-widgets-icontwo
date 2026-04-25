@@ -7,7 +7,7 @@
         "@iobroker/adapter-react-v5": "^8.2.0",
         "@iobroker/types-vis-2": "^2.13.17",
         "sass": "^1.99.0",
-        "typescript": "^5.9.3",
+        "typescript": "^6.0.3",
         "vite": "8.0.8",
         "vite-plugin-svgr": "^4.5.0",
         "vite-tsconfig-paths": "^6.1.1"
