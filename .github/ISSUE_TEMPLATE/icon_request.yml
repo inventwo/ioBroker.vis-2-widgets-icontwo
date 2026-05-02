@@ -1,0 +1,48 @@
+name: Icon request
+description: Request a new icon for the adapter
+title: "[Icon Request]: "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: >
+        **Thank you for wanting to request a new icon for this adapter!**
+
+
+        If this is the first time you are doing this, please take a few moments to read
+        through the adapter documentation.
+
+
+        You are about to request a new icon for this adapter. Do not proceed if your issue
+        occurs with ioBroker core, any third party adapters, unofficial or outdated
+        adapter versions.
+
+
+        Do also not seek support here ("I need help with ...", "I have a
+        question ...", "Can someone walk me through ..."), that belongs into the
+        [ioBroker forum at forum.iobroker.net](https://forum.iobroker.net/).
+
+
+        And finally, make sure any icon request you want to make is still relevant with the **current**
+        adapter version.
+
+
+        Thank you for your collaboration!
+        
+  - type: input
+    id: affected-versions
+    attributes:
+        label: Adapter version installed
+        description: Can be found in the adapters tab of ioBroker admin
+        placeholder: x.y.z
+    validations:
+        required: true
+  
+  - type: textarea
+    id: icon-request-description
+    attributes:
+      label: Describe the icon request
+      description: A clear and concise description of the icon you are requesting.
+      placeholder: Tell us what icon you need and why.
+    validations:
+      required: true
