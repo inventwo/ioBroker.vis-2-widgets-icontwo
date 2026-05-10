@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New Icons (people & map filled)
+
 ### 1.38.1 (2026-04-09)
 - (skvarel) Fixed: Added Dependabot cooldown configuration (7 days) to reduce supply chain risk
 
