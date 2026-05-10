@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.38.1",
+    "version": "1.39.0",
     "news": {
+      "1.39.0": {
+        "en": "Added: New Icons (people & map filled)",
+        "de": "Hinzugefügt: Neue Icons (Personen und Karte gefüllt)",
+        "ru": "Добавлено: Новые иконки (люди и карта заполнены)",
+        "pt": "Adicionado: Novos Ícones (pessoas & mapa preenchido)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (mensen & kaart gevuld)",
+        "fr": "Ajouté : Nouvelles icônes (personnes et carte remplies)",
+        "it": "Aggiunto: New Icons (persone e mappa riempita)",
+        "es": "Añadido: Nuevos iconos (pueblo & mapa lleno)",
+        "pl": "Dodano: Nowe ikony (ludzie & mapa wypełniona)",
+        "uk": "Доданий: Нові ікони (народи і карта заповнені)",
+        "zh-cn": "添加: 新建图标( 人和地图已填充)"
+      },
       "1.38.1": {
         "en": "Fixed: Added Dependabot cooldown configuration (7 days) to reduce supply chain risk",
         "de": "Fix: Dependabot-Abklingkonfiguration (7 Tage) hinzugefügt, um das Lieferkettenrisiko zu reduzieren",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (marki / go- e)",
         "uk": "Доданий: Нові іконки (brands/go-e)",
         "zh-cn": "添加:新图标(品牌/go-e)"
-      },
-      "1.33.0": {
-        "en": "Added: New icons (lawn-mower-wet)",
-        "de": "Hinzugefügt: Neue Icons (lawn-mower-wet)",
-        "ru": "Добавлено: Новые иконы (lawn-mower-wet)",
-        "pt": "Adicionado: Novos ícones (lawn-mower-wet)",
-        "nl": "Toegevoegd: nieuwe pictogrammen (maaier nat)",
-        "fr": "Ajouté: Nouvelles icônes (basse-tour-humide)",
-        "it": "Aggiunto: Nuove icone (lawn-mower-wet)",
-        "es": "Añadido: Nuevos iconos",
-        "pl": "Dodano: Nowe ikony (lawn- mower- wet)",
-        "uk": "Доданий: Нові іконки (lawn-mower-wet)",
-        "zh-cn": "添加: 新建图标( Lawn-mower-wet)"
       }
     },
     "titleLang": {

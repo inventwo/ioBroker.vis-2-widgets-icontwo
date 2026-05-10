@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.39.0 (2026-05-10)
 - (skvarel) Added: New Icons (people & map filled)
 
 ### 1.38.1 (2026-04-09)
@@ -46,9 +46,6 @@
 
 ### 1.36.0 (2026-03-30)
 - (skvarel) Added: New icons (more lawn-mower icons)
-
-### 1.35.0 (2026-03-30)
-- (skvarel) Added: New icons (lawn-mower)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
