@@ -32,6 +32,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New Icons (people filled)
+
 ### 1.39.0 (2026-05-10)
 - (skvarel) Added: New Icons (people & map filled)
 
