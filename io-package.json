@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.39.0",
+    "version": "1.40.0",
     "news": {
+      "1.40.0": {
+        "en": "Added: New Icons (people filled)",
+        "de": "Hinzugefügt: Neue Icons (Menschen gefüllt)",
+        "ru": "Новые иконы (люди заполнены)",
+        "pt": "Adicionado: Novos Ícones (pessoas preenchidas)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (mensen gevuld)",
+        "fr": "Ajouté: Nouvelles icônes (personnes remplies)",
+        "it": "Aggiunto: New Icons (persone riempite)",
+        "es": "Añadido: Nuevos iconos (personas llenas)",
+        "pl": "Dodano: Nowe ikony (osoby wypełnione)",
+        "uk": "Доданий: Нові ікони (наповнені народами)",
+        "zh-cn": "添加: 新图标( 填充人员)"
+      },
       "1.39.0": {
         "en": "Added: New Icons (people & map filled)",
         "de": "Hinzugefügt: Neue Icons (Personen und Karte gefüllt)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (kosiarka)",
         "uk": "Доданий: Нові іконки (lawn-mower)",
         "zh-cn": "添加: 新建图标( Lawn-mower)"
-      },
-      "1.34.0": {
-        "en": "Added: New icons (brands/go-e)",
-        "de": "Hinzugefügt: Neue Icons (Marken/go-e)",
-        "ru": "Добавлено: Новые значки (бренды/go-e)",
-        "pt": "Adicionado: Novos ícones (marcas/go-e)",
-        "nl": "Toegevoegd: nieuwe pictogrammen (merken/go-e)",
-        "fr": "Ajouté: Nouvelles icônes (marques/go-e)",
-        "it": "Aggiunto: Nuove icone (brands/go-e)",
-        "es": "Añadido: Nuevos iconos (marcas/go-e)",
-        "pl": "Dodano: Nowe ikony (marki / go- e)",
-        "uk": "Доданий: Нові іконки (brands/go-e)",
-        "zh-cn": "添加:新图标(品牌/go-e)"
       }
     },
     "titleLang": {

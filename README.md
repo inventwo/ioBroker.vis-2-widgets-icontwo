@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.40.0 (2026-05-12)
 - (skvarel) Added: New Icons (people filled)
 
 ### 1.39.0 (2026-05-10)
@@ -46,9 +46,6 @@
 
 ### 1.37.0 (2026-03-30)
 - (skvarel) Added: New icons (player-repeat & -stop)
-
-### 1.36.0 (2026-03-30)
-- (skvarel) Added: New icons (more lawn-mower icons)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
