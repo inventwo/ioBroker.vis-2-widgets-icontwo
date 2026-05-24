@@ -33,7 +33,7 @@
 	### **WORK IN PROGRESS**
 -->
 ### 1.40.1 (2026-05-24)
--(skvarel) Fixed issue repo-checker [W8917]
+- (skvarel) Fixed issue repo-checker [W8917]
 
 ### 1.40.0 (2026-05-12)
 - (skvarel) Added: New Icons (people filled)
