@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.40.1",
+    "version": "1.41.0",
     "news": {
+      "1.41.0": {
+        "en": "Added: New icons (star and gear filled)",
+        "de": "Hinzugefügt: Neue Icons (Star und Getriebe gefüllt)",
+        "ru": "Добавлено: Новые значки (звезда и снаряжение заполнены)",
+        "pt": "Adicionado: Novos ícones (estrela e engrenagem preenchidas)",
+        "nl": "Toegevoegd: Nieuwe pictogrammen (ster en versnelling gevuld)",
+        "fr": "Ajouté: Nouvelles icônes (étoile et équipement rempli)",
+        "it": "Aggiunto: Nuove icone (star e ingranaggi riempiti)",
+        "es": "Añadido: Nuevos iconos (estrella y equipo lleno)",
+        "pl": "Dodano: Nowe ikony (gwiazda i bieg wypełniony)",
+        "uk": "Доданий: Нові іконки (заповнені шестерні)",
+        "zh-cn": "添加:新图标(星和齿轮已填充)"
+      },
       "1.40.1": {
         "en": "Fixed issue repo-checker [W8917]",
         "de": "Fehlerbehebung [W8917]",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (player- repeat & -stop)",
         "uk": "Доданий: Нові іконки (player-повтор & -stop)",
         "zh-cn": "添加: 新的图标( 玩家- 重复 & - stop)"
-      },
-      "1.36.0": {
-        "en": "Added: New icons (more lawn-mower icons)",
-        "de": "Hinzugefügt: Neue Icons (mehr Rasenmäher Icons)",
-        "ru": "Добавлено: Новые иконки (больше икон газонокосилки)",
-        "pt": "Adicionado: Novos ícones (mais ícones de cortador de grama)",
-        "nl": "Toegevoegd: Nieuwe pictogrammen (meer gazonmaaier pictogrammen)",
-        "fr": "Ajouté: Nouvelles icônes (plus d'icônes de tondeuse à gazon)",
-        "it": "Aggiunto: Nuove icone (più tosaerba icone)",
-        "es": "Añadido: Nuevos iconos (más iconos de cortacéspedes)",
-        "pl": "Dodano: Nowe ikony (więcej ikon kosiarek)",
-        "uk": "Доданий: Нові іконки (більше іконок газонокосарки)",
-        "zh-cn": "添加: 新图标( 更多草坪- 摩尔图标)"
       }
     },
     "titleLang": {

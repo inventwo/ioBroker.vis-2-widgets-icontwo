@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.41.0 (2026-05-24)
 - (skvarel) Added: New icons (star and gear filled)
 
 ### 1.40.1 (2026-05-24)
@@ -46,9 +46,6 @@
 
 ### 1.38.1 (2026-04-09)
 - (skvarel) Fixed: Added Dependabot cooldown configuration (7 days) to reduce supply chain risk
-
-### 1.38.0 (2026-04-01)
-- (skvarel) Added: New icons (brands enpal)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

@@ -1,4 +1,7 @@
 # Older changes
+## 1.38.0 (2026-04-01)
+- (skvarel) Added: New icons (brands enpal)
+
 ## 1.37.0 (2026-03-30)
 - (skvarel) Added: New icons (player-repeat & -stop)
 
