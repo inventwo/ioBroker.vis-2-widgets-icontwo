@@ -1,4 +1,7 @@
 # Older changes
+## 1.37.0 (2026-03-30)
+- (skvarel) Added: New icons (player-repeat & -stop)
+
 ## 1.36.0 (2026-03-30)
 - (skvarel) Added: New icons (more lawn-mower icons)
 

@@ -32,7 +32,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.40.1 (2026-05-24)
 -(skvarel) Fixed issue repo-checker [W8917]
 
 ### 1.40.0 (2026-05-12)
@@ -46,9 +46,6 @@
 
 ### 1.38.0 (2026-04-01)
 - (skvarel) Added: New icons (brands enpal)
-
-### 1.37.0 (2026-03-30)
-- (skvarel) Added: New icons (player-repeat & -stop)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)
