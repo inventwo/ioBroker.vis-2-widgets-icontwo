@@ -29,9 +29,9 @@ jobs:
         runs-on: ubuntu-latest
 
         steps:
-            - uses: ioBroker/testing-action-check@v2.0.0
+            - uses: ioBroker/testing-action-check@v1
               with:
-                  node-version: '22.x'
+                  node-version: '24.x'
                   lint: true
                   test-command: 'false'
 
