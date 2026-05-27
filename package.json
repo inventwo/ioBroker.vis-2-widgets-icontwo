@@ -33,6 +33,7 @@
     "LICENSE"
   ],
   "scripts": {
+    "lint": "eslint .",
     "create-icon-sets": "cd src-widgets && npm run create-icon-sets",
     "create-and-build-icon-sets": "cd src-widgets && npm run create-icon-sets && cd .. && npm run build",
     "prepublishOnly": "node tasks",
