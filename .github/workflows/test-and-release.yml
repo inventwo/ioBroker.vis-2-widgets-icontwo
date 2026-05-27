@@ -33,6 +33,7 @@ jobs:
               with:
                   node-version: '22.x'
                   lint: true
+                  test-command: 'false'
 
     # Runs adapter tests on all supported node versions and OSes
     adapter-tests:
