@@ -35,6 +35,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Added: New Icon (brands/github)
+
 ### 1.41.0 (2026-05-24)
 - (skvarel) Added: New icons (star and gear filled)
 
