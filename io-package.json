@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.41.0",
+    "version": "1.42.0",
     "news": {
+      "1.42.0": {
+        "en": "Added: New Icon (brands/github)",
+        "de": "Hinzugefügt: Neue Icon (Marken/github)",
+        "ru": "Добавлено: New Icon (бренды/гитуб)",
+        "pt": "Adicionado: Novo Ícone (marcas/github)",
+        "nl": "Toegevoegd: Nieuw pictogram (merken/github)",
+        "fr": "Ajouté: Nouvelle icône (marques/github)",
+        "it": "Aggiunto: New Icon (brands/github)",
+        "es": "Añadido: Nuevo icono (marcas/github)",
+        "pl": "Dodano: Nowa ikona (marki / github)",
+        "uk": "Доданий: Нова ікона (brands/github)",
+        "zh-cn": "添加: 新图标( 品牌/ github)"
+      },
       "1.41.0": {
         "en": "Added: New icons (star and gear filled)",
         "de": "Hinzugefügt: Neue Icons (Star und Getriebe gefüllt)",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (marki enpal)",
         "uk": "Доданий: Нові іконки (бренди задні)",
         "zh-cn": "添加: 新图标( 块块 )"
-      },
-      "1.37.0": {
-        "en": "Added: New icons (player-repeat & -stop)",
-        "de": "Hinzugefügt: Neue Icons (spieler-repeat & -stop)",
-        "ru": "Добавлено: Новые иконки (player-repeat & -stop)",
-        "pt": "Adicionado: Novos ícones (player-repeat & -stop)",
-        "nl": "Toegevoegd: nieuwe pictogrammen (speler-herhalen & -stop)",
-        "fr": "Ajouté : Nouvelles icônes (joueur-répète & -stop)",
-        "it": "Aggiunto: Nuove icone (player-repeat & -stop)",
-        "es": "Añadido: Nuevos iconos",
-        "pl": "Dodano: Nowe ikony (player- repeat & -stop)",
-        "uk": "Доданий: Нові іконки (player-повтор & -stop)",
-        "zh-cn": "添加: 新的图标( 玩家- 重复 & - stop)"
       }
     },
     "titleLang": {
