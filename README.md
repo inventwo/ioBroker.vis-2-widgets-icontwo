@@ -35,6 +35,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Fixed: Repository checker error E0036
+
 ### 1.42.0 (2026-05-31)
 - (skvarel) Added: New Icon (brands/github)
 
