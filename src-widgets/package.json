@@ -6,7 +6,7 @@
     "dependencies": {
         "@iobroker/adapter-react-v5": "^8.2.10",
         "@iobroker/types-vis-2": "^2.14.4",
-        "sass": "^1.99.0",
+        "sass": "^1.101.0",
         "typescript": "^6.0.3",
         "vite": "8.0.16",
         "vite-plugin-svgr": "^5.2.0",
