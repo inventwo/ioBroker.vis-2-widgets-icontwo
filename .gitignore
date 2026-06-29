@@ -9,3 +9,6 @@ tmp/
 /src-widgets/src-icon-set/solid
 /src-widgets/src-icon-set/animated
 .commitinfo
+
+# Local backup folder
+backup/
