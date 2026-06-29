@@ -35,7 +35,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.42.1 (2026-06-29)
 - (skvarel) Fixed: Repository checker error E0036
 
 ### 1.42.0 (2026-05-31)
@@ -49,9 +49,6 @@
 
 ### 1.40.0 (2026-05-12)
 - (skvarel) Added: New Icons (people filled)
-
-### 1.39.0 (2026-05-10)
-- (skvarel) Added: New Icons (people & map filled)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

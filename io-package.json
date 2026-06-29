@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.42.0",
+    "version": "1.42.1",
     "news": {
+      "1.42.1": {
+        "en": "Fixed: Repository checker error E0036",
+        "de": "Fehler behoben: Repository Checker Error E0036",
+        "ru": "Исправлено: ошибка проверки хранилища E0036",
+        "pt": "Corrigido: Erro do verificador do repositório E0036",
+        "nl": "Fixed: Repository checker fout E0036",
+        "fr": "Correction : Erreur de vérification du dépôt E0036",
+        "it": "Risolto: Errore di errore di archiviazione E0036",
+        "es": "Corregido: Error de control de depósito E0036",
+        "pl": "Naprawiono: Błąd kontrolera repozytorium E0036",
+        "uk": "Виправлено: Похильність репозиторійного чекера E0036",
+        "zh-cn": "固定:仓库检查器错误 E0036"
+      },
       "1.42.0": {
         "en": "Added: New Icon (brands/github)",
         "de": "Hinzugefügt: Neue Icon (Marken/github)",
@@ -80,19 +93,6 @@
         "pl": "Naprawiono: Dodano konfigurację chłodzenia (7 dni) w celu zmniejszenia ryzyka łańcucha dostaw",
         "uk": "Виправлено: Додана конфігурація охолоджувача залежностей (7 днів) для зменшення ризику ланцюжка поставок",
         "zh-cn": "固定:添加依赖冷却配置(7天)以减少供应链风险"
-      },
-      "1.38.0": {
-        "en": "Added: New icons (brands enpal)",
-        "de": "Hinzugefügt: Neue Icons (Marken enpal)",
-        "ru": "Добавлено: Новые иконки (бренды Enpal)",
-        "pt": "Adicionado: Novos ícones (marcas enpal)",
-        "nl": "Toegevoegd: Nieuwe pictogrammen (merken enpal)",
-        "fr": "Ajouté: Nouvelles icônes (marques enpal)",
-        "it": "Aggiunto: Nuove icone (brands enpal)",
-        "es": "Añadido: Nuevos iconos (marcas enpal)",
-        "pl": "Dodano: Nowe ikony (marki enpal)",
-        "uk": "Доданий: Нові іконки (бренди задні)",
-        "zh-cn": "添加: 新图标( 块块 )"
       }
     },
     "titleLang": {
