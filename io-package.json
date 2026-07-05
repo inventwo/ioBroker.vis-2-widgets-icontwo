@@ -1,8 +1,21 @@
 {
   "common": {
     "name": "vis-2-widgets-icontwo",
-    "version": "1.42.1",
+    "version": "1.42.2",
     "news": {
+      "1.42.2": {
+        "en": "Fixed: Repository checker warning W3048 (test-command override removed, added test:package)",
+        "de": "Behoben: Warnung W3048 des Repository-Prüfers (Testbefehl-Überschreibung entfernt, Test:Paket hinzugefügt)",
+        "ru": "Исправлено: Предупреждение проверки репозитория W3048 (удалено переопределение команды test, добавлен test:package)",
+        "pt": "Corrigido: Aviso W3048 do verificador de repositório (substituição do comando de teste removida, pacote de teste adicionado)",
+        "nl": "Opgelost: Waarschuwing W3048 van de repositorychecker (override van testopdracht verwijderd, test:package toegevoegd)",
+        "fr": "Corrigé : Avertissement W3048 du vérificateur de dépôt (remplacement de la commande de test supprimé, ajout de test:package)",
+        "it": "Risolto: avviso W3048 del controllo del repository (sovrascrittura del comando test rimossa, aggiunto test:package)",
+        "es": "Corregido: Advertencia del verificador de repositorio W3048 (se eliminó la anulación del comando de prueba y se agregó test:package).",
+        "pl": "Naprawiono: Ostrzeżenie modułu sprawdzającego repozytorium W3048 (usunięto nadpisanie polecenia test, dodano test:package)",
+        "uk": "Виправлено: попередження перевірки репозиторію W3048 (видалено перевизначення команди test, додано test:package).",
+        "zh-cn": "已修复：存储库检查器警告 W3048（移除 test-command 覆盖，添加 test:package）"
+      },
       "1.42.1": {
         "en": "Fixed: Repository checker error E0036",
         "de": "Fehler behoben: Repository Checker Error E0036",
@@ -80,19 +93,6 @@
         "pl": "Dodano: Nowe ikony (ludzie & mapa wypełniona)",
         "uk": "Доданий: Нові ікони (народи і карта заповнені)",
         "zh-cn": "添加: 新建图标( 人和地图已填充)"
-      },
-      "1.38.1": {
-        "en": "Fixed: Added Dependabot cooldown configuration (7 days) to reduce supply chain risk",
-        "de": "Fix: Dependabot-Abklingkonfiguration (7 Tage) hinzugefügt, um das Lieferkettenrisiko zu reduzieren",
-        "ru": "Фиксированная: добавленная конфигурация охлаждения Dependabot (7 дней) для снижения риска цепочки поставок",
-        "pt": "Fixação: Adicionado configuração de resfriamento Dependebot (7 dias) para reduzir o risco da cadeia de suprimentos",
-        "nl": "Fixed: Toegevoegd Dependabot koeldown configuratie (7 dagen) om supply chain risico te verminderen",
-        "fr": "Correction: Ajout de la configuration de refroidissement de Dependabot (7 jours) pour réduire le risque de chaîne d'approvisionnement",
-        "it": "Fisso: Aggiunta configurazione di raffreddamento Dependabot (7 giorni) per ridurre il rischio di supply chain",
-        "es": "Fijo: Configuración de enfriamiento de Dependabot adicional (7 días) para reducir el riesgo de cadena de suministro",
-        "pl": "Naprawiono: Dodano konfigurację chłodzenia (7 dni) w celu zmniejszenia ryzyka łańcucha dostaw",
-        "uk": "Виправлено: Додана конфігурація охолоджувача залежностей (7 днів) для зменшення ризику ланцюжка поставок",
-        "zh-cn": "固定:添加依赖冷却配置(7天)以减少供应链风险"
       }
     },
     "titleLang": {

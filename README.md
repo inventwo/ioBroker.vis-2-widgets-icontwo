@@ -35,7 +35,7 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
-### **WORK IN PROGRESS**
+### 1.42.2 (2026-07-05)
 - (skvarel) Fixed: Repository checker warning W3048 (test-command override removed, added test:package)
 
 ### 1.42.1 (2026-06-29)
@@ -49,9 +49,6 @@
 
 ### 1.40.1 (2026-05-24)
 - (skvarel) Fixed: Issue repo-checker [W8917]
-
-### 1.40.0 (2026-05-12)
-- (skvarel) Added: New Icons (people filled)
 
 ## Older changes
 - [CHANGELOG_OLD.md](CHANGELOG_OLD.md)

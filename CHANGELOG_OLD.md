@@ -1,4 +1,7 @@
 # Older changes
+## 1.40.0 (2026-05-12)
+- (skvarel) Added: New Icons (people filled)
+
 ## 1.39.0 (2026-05-10)
 - (skvarel) Added: New Icons (people & map filled)
 
