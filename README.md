@@ -35,6 +35,9 @@
 <!--
 	### **WORK IN PROGRESS**
 -->
+### **WORK IN PROGRESS**
+- (skvarel) Fixed: Repository checker warning W3048 (test-command override removed, added test:package)
+
 ### 1.42.1 (2026-06-29)
 - (skvarel) Fixed: Repository checker error E0036
 
